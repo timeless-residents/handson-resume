@@ -1,51 +1,25 @@
 import { useEffect } from 'react';
-import { GTM_ID } from './lib/gtm';
-// import { GTM_ID, initGA } from './lib/analytics';
+import { GA_ID } from './lib/ga4';
 import './index.css';
 
 function App() {
 
   
   useEffect(() => {
-    // GTM base script
-    const gtmScript = document.createElement('script');
-    gtmScript.innerHTML = `
-      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({
-        'gtm.start': new Date().getTime(),
-        event:'gtm.js',
-        'cookie_flags': 'SameSite=None;Secure'
-      });var f=d.getElementsByTagName(s)[0],
-      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-      })(window,document,'script','dataLayer','${GTM_ID}');
-    `;
-    document.head.appendChild(gtmScript);
+    const script = document.createElement('script');
+    script.src = `https://www.googletagmanager.com/gtag/js?id=${GA_ID}`;
+    script.async = true;
+    document.head.appendChild(script);
 
-    // GTM noscript frame
-    const noscript = document.createElement('noscript');
-    const iframe = document.createElement('iframe');
-    iframe.src = `https://www.googletagmanager.com/ns.html?id=${GTM_ID}`;
-    iframe.height = '0';
-    iframe.width = '0';
-    iframe.style.display = 'none';
-    iframe.style.visibility = 'hidden';
-    noscript.appendChild(iframe);
-    document.body.insertBefore(noscript, document.body.firstChild);
-
-    // Cookieless event tracking
-    window.dataLayer.push({
-      'event': 'page_view',
-      'client_id': crypto.randomUUID(),
-      'page_location': window.location.href,
-      'page_title': document.title
-    });
-
-    return () => {
-      document.head.removeChild(gtmScript);
-      document.body.removeChild(noscript);
+    script.onload = () => {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){window.dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', GA_ID);
     };
-  }, []);
 
+    return () => document.head.removeChild(script);
+  }, []);
 
 
   return (
