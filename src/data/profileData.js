@@ -6,7 +6,7 @@ export const profileData = {
   },
   introduction: `デジタルトランスフォーメーション、AI、先端技術における20年以上の実績を持つ革新的リーダー。4,000名以上のLinkedinフォロワーを持つインフルエンサーとして、急速に変化する産業において、クライアントの持続可能な成長と競争力のあるソリューションを実現。World Blockchain Summit Top 10 Project Leadersを受賞し、グローバルな技術リーダーシップを発揮。生成AI、エマージングテクノロジー分野での変革的なイノベーションと高インパクトなソリューション提供を通じて、クライアントのビジネス価値を最大化している。`,
   skills: {
-    programming: ["JavaScript", "TypeScript", "Python", "Go", "Java", "C++"],
+    programming: ["JavaScript", "TypeScript", "Python", "Go", "Java", "C++", "COBOL"],
     frontend: ["React", "Vue.js", "Next.js", "Svelte", "Angular"],
     backend: ["Node.js", "Express", "Django", "FastAPI", "Spring Boot", "GraphQL"],
     database: ["PostgreSQL", "MongoDB", "Redis", "Cassandra", "ElasticSearch"],
@@ -16,6 +16,7 @@ export const profileData = {
       "エマージングテクノロジー(IoT, Blockchain, VR/AR)",
       "デジタルトランスフォーメーション戦略立案",
       "マイクロサービスアーキテクチャ設計",
+      "レガシーモダナイゼーション（COBOL/メインフレーム）",
       "DevSecOpsプラクティス"
     ]
   },
