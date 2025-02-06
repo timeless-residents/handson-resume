@@ -7,6 +7,7 @@ import { Section } from './components/Section';
 import { SkillCategory } from './components/SkillCategory';
 import { ExperienceCard } from './components/ExperienceCard';
 import { ProjectCard } from './components/ProjectCard';
+import SocialContributionCard from './components/SocialContributionCard';
 import { profileData } from './data/profileData';
 
 function App() {
@@ -26,7 +27,7 @@ function App() {
     return () => document.head.removeChild(script);
   }, []);
 
-  const { personalInfo, introduction, skills, experience, projects } = profileData;
+  const { personalInfo, introduction, skills, experience, projects, socialContributions } = profileData;
 
   return (
     <div className="container mx-auto py-8 px-4 max-w-3xl text-center">
@@ -75,6 +76,14 @@ function App() {
                 <ProjectCard key={index} {...project} />
               ))}
             </div>
+          </div>
+        </Section>
+
+        <Section title="社会貢献活動">
+          <div className="space-y-4">
+            {socialContributions.map((contribution, index) => (
+              <SocialContributionCard key={index} {...contribution} />
+            ))}
           </div>
         </Section>
       </div>
