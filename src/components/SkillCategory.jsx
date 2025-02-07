@@ -3,7 +3,7 @@ import { SkillTag } from "./SkillTag";
 
 export const SkillCategory = ({ title, skills }) => (
   <div>
-    <h3 className="text-xl font-semibold mb-3">{title}</h3>
+    <h3 className="text-xl font-semibold mb-3 dark:text-white">{title}</h3>
     <div className="flex flex-wrap gap-2">
       {skills.map((skill) => (
         <SkillTag key={skill} skill={skill} />

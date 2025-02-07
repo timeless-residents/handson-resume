@@ -5,10 +5,10 @@ export const ProfileHeader = ({ name, title, imageSrc }) => (
     <img 
       src={imageSrc} 
       alt={name} 
-      className="w-48 h-48 rounded-full object-cover mb-4 shadow-lg"
+      className="rounded-full w-32 h-32 mx-auto mb-4 border-4 border-gray-200 dark:border-gray-700"
     />
-    <h1 className="text-4xl font-bold">{name}</h1>
-    <p className="text-gray-600 text-xl">{title}</p>
+    <h1 className="text-4xl font-bold dark:text-white">{name}</h1>
+    <p className="text-gray-600 dark:text-gray-400 text-xl">{title}</p>
   </div>
 );
 
