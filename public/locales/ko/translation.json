@@ -18,6 +18,7 @@
         "skills": "기술",
         "experience": "경력",
         "projects": "오픈소스 및 개인 프로젝트",
+        "githubProjects": "GitHub Projects",
         "socialContributions": "사회 공헌"
     },
     "skillCategories": {

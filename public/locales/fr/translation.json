@@ -18,6 +18,7 @@
         "skills": "Compétences",
         "experience": "Expérience",
         "projects": "Projets Open Source & Personnels",
+        "githubProjects": "GitHub Projects",
         "socialContributions": "Contributions Sociales"
     },
     "skillCategories": {

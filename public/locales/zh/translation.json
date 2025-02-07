@@ -18,6 +18,7 @@
         "skills": "技能",
         "experience": "工作经验",
         "projects": "开源和个人项目",
+        "githubProjects": "GitHub 项目",
         "socialContributions": "社会贡献"
     },
     "skillCategories": {

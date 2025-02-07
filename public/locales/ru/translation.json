@@ -18,6 +18,7 @@
         "skills": "Навыки",
         "experience": "Опыт работы",
         "projects": "Open Source и личные проекты",
+        "githubProjects": "Проекты GitHub",
         "socialContributions": "Социальный вклад"
     },
     "skillCategories": {
