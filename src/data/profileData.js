@@ -26,12 +26,12 @@ export const profileData = {
       positions: [
         {
           title: "experience.positions1.title1",
-          period: "2024年8月 - 現在",
+          period: "experience.positions1.period1",
           description: "experience.positions1.description1"
         },
         {
           title: "experience.positions1.title2",
-          period: "2020年3月 - 2024年8月",
+          period: "experience.positions1.period2",
           description: "experience.positions1.description2"
         }
       ]

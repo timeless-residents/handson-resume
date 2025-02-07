@@ -10,7 +10,7 @@ export const ExperienceCard = ({ company, positions }) => {
       {positions.map((position, index) => (
         <div key={index} className={index > 0 ? 'mt-4' : ''}>
           <p className="font-semibold dark:text-gray-200">
-            {t(position.title)} ({position.period})
+            {t(position.title)} {t(position.period)}
           </p>
           <p className="dark:text-gray-300">{t(position.description)}</p>
           {position.achievements && (
