@@ -25,7 +25,8 @@
         "socialContributions": "Social Contributions",
         "qiitaArticles": "Qiita Articles",
         "zennArticles": "Zenn Articles",
-        "mediumArticles": "Medium Article"
+        "mediumArticles": "Medium Article",
+        "codingActivity": "Coding Activity"
     },
     "skillCategories": {
         "programming": "Programming Languages",

@@ -25,7 +25,8 @@
         "socialContributions": "社会貢献活動",
         "qiitaArticles": "Qiita投稿記事",
         "zennArticles": "Zenn投稿記事",
-        "mediumArticles": "Medium投稿記事"
+        "mediumArticles": "Medium投稿記事",
+        "codingActivity": "コーディング活動"
     },
     "skillCategories": {
         "programming": "プログラミング言語",

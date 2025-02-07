@@ -15,6 +15,7 @@ import { AudioPlayer } from "./components/AudioPlayer";
 import QiitaFeed from "./components/QiitaFeed";
 import ZennFeed from "./components/ZennFeed";
 import MediumFeed from "./components/MediumFeed";
+import { WakaTimeChart } from "./components/WakaTimeChart";
 
 function App() {
   const [isDarkMode, setIsDarkMode] = useState(() => {
@@ -203,6 +204,12 @@ function App() {
             ))}
           </div>
         </Section>
+        
+        <Section title={t("sections.codingActivity")}>
+          <div className="bg-white dark:bg-gray-800 shadow-md rounded-lg p-6">
+            <WakaTimeChart isDarkMode={isDarkMode} />
+          </div>
+        </Section>
 
         <Section title={t("sections.projects")}>
           <div className="bg-white dark:bg-gray-800 shadow-md rounded-lg p-6">
@@ -237,6 +244,7 @@ function App() {
             <MediumFeed />
           </div>
         </Section>
+
       </div>
 
       <footer className="text-center py-4 mt-8 border-t border-gray-300 dark:border-gray-700">
