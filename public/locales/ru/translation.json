@@ -21,7 +21,8 @@
         "githubProjects": "Проекты GitHub",
         "socialContributions": "Социальный вклад",
         "qiitaArticles": "Статьи Qiita",
-        "zennArticles": "Статьи Zenn"
+        "zennArticles": "Статьи Zenn",
+        "mediumArticles": "Статьи Medium"
     },
     "skillCategories": {
         "programming": "Языки программирования",

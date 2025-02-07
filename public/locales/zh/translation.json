@@ -21,7 +21,8 @@
         "githubProjects": "GitHub 项目",
         "socialContributions": "社会贡献",
         "qiitaArticles": "Qiita 文章",
-        "zennArticles": "Zenn 文章"
+        "zennArticles": "Zenn 文章",
+        "mediumArticles": "Medium 文章"
     },
     "skillCategories": {
         "programming": "编程语言",

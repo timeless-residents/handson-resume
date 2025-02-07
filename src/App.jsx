@@ -14,6 +14,7 @@ import { useTranslation } from "react-i18next";
 import { AudioPlayer } from "./components/AudioPlayer";
 import QiitaFeed from "./components/QiitaFeed";
 import ZennFeed from "./components/ZennFeed";
+import MediumFeed from "./components/MediumFeed";
 
 function App() {
   const [isDarkMode, setIsDarkMode] = useState(() => {
@@ -181,7 +182,7 @@ function App() {
             <div className="mt-6">
               <SkillCategory
                 title={t("skillCategories.focus")}
-                skills={skills.focus.map((key) => t(key))}
+                skills={skills.focus.map((key) => ({ name: t(key.name), icon: "" }))}
               />
             </div>
           </div>
@@ -228,6 +229,12 @@ function App() {
         <Section title={t("sections.qiitaArticles")}>
           <div className="bg-white dark:bg-gray-800 shadow-md rounded-lg">
             <QiitaFeed />
+          </div>
+        </Section>
+
+        <Section title={t("sections.mediumArticles")}>
+          <div className="bg-white dark:bg-gray-800 shadow-md rounded-lg">
+            <MediumFeed />
           </div>
         </Section>
       </div>

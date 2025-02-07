@@ -21,7 +21,8 @@
         "githubProjects": "GitHub Projects",
         "socialContributions": "사회 공헌",
         "qiitaArticles": "Qiita 게시글",
-        "zennArticles": "Zenn 게시글"
+        "zennArticles": "Zenn 게시글",
+        "mediumArticles": "Medium 게시글"
     },
     "skillCategories": {
         "programming": "프로그래밍 언어",

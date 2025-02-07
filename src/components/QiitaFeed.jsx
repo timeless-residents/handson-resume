@@ -65,11 +65,11 @@ const QiitaFeed = () => {
             >
               <h3 className="text-lg font-semibold mb-2">{article.title}</h3>
             </a>
-            <p className="text-sm text-gray-300 mb-2">
+            <p className="text-sm dark:text-gray-300 mb-2">
               {new Date(article.published).toLocaleDateString()}
             </p>
             <div 
-              className="text-sm text-gray-400 line-clamp-3"
+              className="text-sm dark:text-gray-400 line-clamp-3"
               dangerouslySetInnerHTML={{ __html: article.content }}
             />
           </div>
