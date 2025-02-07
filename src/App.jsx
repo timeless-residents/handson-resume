@@ -19,11 +19,13 @@ import { WakaTimeChart } from "./components/WakaTimeChart";
 
 function App() {
   const [isDarkMode, setIsDarkMode] = useState(() => {
-    // システムのカラースキーム設定を優先、なければlightモード
-    const systemPrefersDark = window.matchMedia(
-      "(prefers-color-scheme: dark)"
-    ).matches;
-    return systemPrefersDark;
+    // ローカルストレージから設定を読み込む
+    const savedMode = localStorage.getItem('darkMode');
+    if (savedMode !== null) {
+      return savedMode === 'true';
+    }
+    // 保存された設定がなければシステムの設定を使用
+    return window.matchMedia("(prefers-color-scheme: dark)").matches;
   });
   const { t, i18n } = useTranslation();
   const [currentLanguage, setCurrentLanguage] = useState(i18n.language);
@@ -51,7 +53,10 @@ function App() {
     // システムのカラースキーム変更を監視
     const mediaQuery = window.matchMedia("(prefers-color-scheme: dark)");
     const handleChange = (e) => {
-      setIsDarkMode(e.matches);
+      // システムの設定変更は、保存された設定がない場合のみ反映
+      if (localStorage.getItem('darkMode') === null) {
+        setIsDarkMode(e.matches);
+      }
     };
 
     mediaQuery.addEventListener("change", handleChange);
@@ -67,7 +72,9 @@ function App() {
   }, [isDarkMode]);
 
   const toggleTheme = () => {
-    setIsDarkMode(!isDarkMode);
+    const newMode = !isDarkMode;
+    setIsDarkMode(newMode);
+    localStorage.setItem('darkMode', newMode.toString());
   };
 
   const changeLanguage = (lng) => {
