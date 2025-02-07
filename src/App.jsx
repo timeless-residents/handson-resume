@@ -9,7 +9,8 @@ import { ProjectCard } from './components/ProjectCard';
 import SocialContributionCard from './components/SocialContributionCard';
 import { profileData } from './data/profileData';
 import { Moon, Sun } from 'lucide-react'; 
-import { useTranslation } from 'react-i18next'; 
+import { useTranslation } from 'react-i18next';
+import { AudioPlayer } from './components/AudioPlayer';
 
 
 function App() {
@@ -111,6 +112,10 @@ function App() {
       <div className="max-w-2xl mx-auto text-left">
         <Section title={t("sections.introduction")}>
           <p className="dark:text-gray-300">{t(introduction)}</p>
+          <AudioPlayer 
+            src="/assets/introduction.mp3"
+            label={t("introduction.listen")}
+          />
         </Section>
 
         <Section title={t("sections.skills")}>
