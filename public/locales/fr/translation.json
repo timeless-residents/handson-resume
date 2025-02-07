@@ -19,7 +19,9 @@
         "experience": "Expérience",
         "projects": "Projets Open Source & Personnels",
         "githubProjects": "GitHub Projects",
-        "socialContributions": "Contributions Sociales"
+        "socialContributions": "Contributions Sociales",
+        "qiitaArticles": "Articles Qiita",
+        "zennArticles": "Articles Zenn"
     },
     "skillCategories": {
         "programming": "Langages de Programmation",

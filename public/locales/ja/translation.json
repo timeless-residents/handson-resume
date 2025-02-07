@@ -22,7 +22,9 @@
         "experience": "職歴",
         "projects": "オープンソース・個人開発",
         "githubProjects": "GitHub プロジェクト",
-        "socialContributions": "社会貢献活動"
+        "socialContributions": "社会貢献活動",
+        "qiitaArticles": "Qiita投稿記事",
+        "zennArticles": "Zenn投稿記事"
     },
     "skillCategories": {
         "programming": "プログラミング言語",

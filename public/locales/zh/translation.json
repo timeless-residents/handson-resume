@@ -19,7 +19,9 @@
         "experience": "工作经验",
         "projects": "开源和个人项目",
         "githubProjects": "GitHub 项目",
-        "socialContributions": "社会贡献"
+        "socialContributions": "社会贡献",
+        "qiitaArticles": "Qiita 文章",
+        "zennArticles": "Zenn 文章"
     },
     "skillCategories": {
         "programming": "编程语言",

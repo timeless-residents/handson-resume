@@ -19,7 +19,9 @@
         "experience": "Опыт работы",
         "projects": "Open Source и личные проекты",
         "githubProjects": "Проекты GitHub",
-        "socialContributions": "Социальный вклад"
+        "socialContributions": "Социальный вклад",
+        "qiitaArticles": "Статьи Qiita",
+        "zennArticles": "Статьи Zenn"
     },
     "skillCategories": {
         "programming": "Языки программирования",

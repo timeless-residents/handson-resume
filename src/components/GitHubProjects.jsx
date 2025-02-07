@@ -65,7 +65,8 @@ const GitHubProjects = () => {
   }
 
   return (
-    <div className="grid grid-cols-1 md:grid-cols-2 gap-4 p-4">
+    <div className="p-4">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
       {repositories.map((repo) => (
         <div
           key={repo.name}
@@ -106,6 +107,15 @@ const GitHubProjects = () => {
           </div>
         </div>
       ))}
+      </div>
+      <a
+        href="https://github.com/timeless-residents"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="inline-block text-blue-500 hover:text-blue-600 transition-colors"
+      >
+        View more articles →
+      </a>
     </div>
   );
 };

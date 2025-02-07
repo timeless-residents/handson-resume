@@ -22,7 +22,9 @@
         "experience": "Experience",
         "projects": "Open Source & Personal Projects",
         "githubProjects": "GitHub Projects",
-        "socialContributions": "Social Contributions"
+        "socialContributions": "Social Contributions",
+        "qiitaArticles": "Qiita Articles",
+        "zennArticles": "Zenn Articles"
     },
     "skillCategories": {
         "programming": "Programming Languages",
