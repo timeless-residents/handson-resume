@@ -1,0 +1,86 @@
+{
+    "title": "Software Engineer",
+    "themeSwitch": "Theme Switch",
+    "personalInfo": {
+        "name": "Takuya Sato",
+        "title": "AI Powered Innovation Senior Specialist Lead"
+    },
+    "profileHeader": {
+        "title": "Software Engineer",
+        "themeSwitch": "Theme Switch",
+        "personalInfo": {
+            "name": "Takuya Sato",
+            "title": "AI Powered Innovation Senior Specialist Lead"
+        }
+    },
+    "sections": {
+        "introduction": "Introduction",
+        "skills": "Skills",
+        "experience": "Experience",
+        "projects": "Open Source & Personal Projects",
+        "socialContributions": "Social Contributions"
+    },
+    "skillCategories": {
+        "programming": "Programming Languages",
+        "frontend": "Frontend",
+        "backend": "Backend",
+        "database": "Database",
+        "devops": "DevOps & Tools",
+        "focus": "Focus Areas"
+    },
+    "footer": {
+        "copyright": "© 2025 Takuya Sato - All Rights Reserved"
+    },
+    "introduction": "Innovative leader with over 20 years of experience in digital transformation, AI, and advanced technologies. As an influencer with over 4,000 LinkedIn followers, I enable sustainable growth and competitive solutions for clients in rapidly changing industries. Awarded World Blockchain Summit Top 10 Project Leaders, demonstrating global technology leadership. Maximizing client business value through transformative innovation and high-impact solutions in Generative AI and emerging technology fields.",
+    "skills": {
+        "focus": {
+            "item1": "Generative AI System Design and Implementation",
+            "item2": "Emerging Technologies (IoT, Blockchain, VR/AR)",
+            "item3": "Digital Transformation Strategy Planning",
+            "item4": "Microservices Architecture Design",
+            "item5": "Legacy Modernization (COBOL/Mainframe)",
+            "item6": "DevSecOps Practices"
+        }
+    },
+    "experience": {
+        "positions1": {
+            "company": "Deloitte Tohmatsu Consulting LLC",
+            "title1": "Senior Specialist Lead",
+            "description1": "Supporting sustainable growth and innovative transformation for over 100 clients in rapidly changing industries. Achieved an average annual productivity improvement of over 30% by leveraging strategic approaches and cutting-edge technologies. Leading global projects utilizing CEFR C1 level English proficiency. Recent projects involve development mainly in VS Code using languages such as Python, JavaScript, C, and COBOL.",
+            "title2": "Studio Senior Manager",
+            "description2": "Led over 50 business incubation and new product development projects. Doubled team productivity by fostering an engineering culture. Demonstrated technology leadership through external communication, including contributions to Forbes JAPAN."
+        }
+    },
+    "projects": {
+        "item1": {
+            "title": "Enterprise AI Solution",
+            "description": "Implemented a next-generation voice recognition and generative AI system utilizing Azure Speech, OpenAI, ElevenLabs, etc. for a major manufacturer. Improved operational efficiency by 50% after implementation."
+        },
+        "item2": {
+            "title": "Next-Generation Web Platform Development",
+            "description": "Built a high-performance platform using Vite, Svelte, Next.js, etc. Led the development of a large-scale service with 1 million monthly page views."
+        }
+    },
+    "socialContributions": {
+        "item1": {
+            "title": "Chairman of the Board, Timeless Town Shin-Urayasu Neighborhood Association",
+            "period": "April 2024 - Present",
+            "description": "Appointed as the chairman of the board of Timeless Town Shin-Urayasu (approx. 300 households/1000 people) in Akemi 2-chome, Urayasu City, Chiba Prefecture. Promoted DX of the neighborhood association by introducing LINE Works in a large-scale community of mixed detached houses and condominiums. Established a hybrid information transmission system of digital and analog, improving information reach rate by 40% compared to the conventional circular board method."
+        },
+        "item2": {
+            "title": "Planning and Operation of National Diet Tour Bus Tour",
+            "period": "July 2024",
+            "description": "Planned and implemented a National Diet tour bus tour to promote political participation and understanding among local residents. Achieved an 80% application rate by providing information tailored to participants' interests using marketing automation with Mautic. Realized tours of the National Diet Building, Diet Members' Office Building, and Liberal Democratic Party Headquarters in cooperation with members of the Diet and city councilors. Conducted active exchanges of opinions on specific local issues such as local public transportation issues and disaster prevention measures with more than 50 participants. Achieved a 95% satisfaction rate in the participant questionnaire."
+        },
+        "item3": {
+            "title": "Digital Public Relations Officer, Akemi no Oka Summer Festival Executive Committee",
+            "period": "August 2024",
+            "description": "Participated in planning and operation as the digital public relations officer at the largest summer festival in the region with 8,000 visitors. Improved engagement rate on Instagram and X (formerly Twitter) by 200% year-on-year by creating SNS content utilizing generative AI (ChatGPT/Midjourney). Strengthened sponsorship relationships with local businesses and acquired sponsorships from over 30 companies. Realized information dissemination in cooperation with local media and achieved improved awareness in cross-media."
+        },
+        "item4": {
+            "title": "Planning and Operation of Community Revitalization Project \"Halloween Event\"",
+            "period": "October 2024",
+            "description": "Planned and implemented a large-scale Halloween event for the purpose of community exchange across generations. Significantly improved operational efficiency by using LINE Works for participant management and information sharing. Realized participation of administrative officials including the Mayor of Urayasu, with over 300 residents participating."
+        }
+    }
+}
