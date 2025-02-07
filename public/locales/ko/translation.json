@@ -1,0 +1,88 @@
+{
+    "title": "소프트웨어 엔지니어",
+    "themeSwitch": "테마 전환",
+    "personalInfo": {
+        "name": "사토 타쿠야",
+        "title": "AI Powered Innovation Senior Specialist Lead"
+    },
+    "profileHeader": {
+        "title": "소프트웨어 엔지니어",
+        "themeSwitch": "테마 전환",
+        "personalInfo": {
+            "name": "사토 타쿠야",
+            "title": "AI Powered Innovation Senior Specialist Lead"
+        }
+    },
+    "sections": {
+        "introduction": "소개",
+        "skills": "기술",
+        "experience": "경력",
+        "projects": "오픈소스 및 개인 프로젝트",
+        "socialContributions": "사회 공헌"
+    },
+    "skillCategories": {
+        "programming": "프로그래밍 언어",
+        "frontend": "프론트엔드",
+        "backend": "백엔드",
+        "database": "데이터베이스",
+        "devops": "DevOps 및 도구",
+        "focus": "주력 분야"
+    },
+    "footer": {
+        "copyright": "© 2025 사토 타쿠야 - 모든 권리 보유"
+    },
+    "introduction": "디지털 전환, AI, 첨단 기술 분야에서 20년 이상의 경험을 보유한 혁신적인 리더. 4,000명 이상의 LinkedIn 팔로워를 보유한 인플루언서로서, 급변하는 산업에서 고객의 지속 가능한 성장과 경쟁력 있는 솔루션을 제공. World Blockchain Summit Top 10 프로젝트 리더상을 수상하며 글로벌 기술 리더십을 입증. 생성형 AI와 신기술 분야에서의 혁신적인 변화와 고영향력 솔루션을 통해 고객의 비즈니스 가치를 극대화.",
+    "skills": {
+        "focus": {
+            "item1": "생성형 AI 시스템 설계 및 구현",
+            "item2": "신기술 (IoT, Blockchain, VR/AR)",
+            "item3": "디지털 전환 전략 기획",
+            "item4": "마이크로서비스 아키텍처 설계",
+            "item5": "레거시 현대화 (COBOL/메인프레임)",
+            "item6": "DevSecOps 실무"
+        }
+    },
+    "experience": {
+        "positions1": {
+            "company": "Deloitte Tohmatsu Consulting LLC",
+            "title1": "Senior Specialist Lead",
+            "period1": "2024년 8월 - 현재",
+            "description1": "급변하는 산업에서 100개 이상 고객사의 지속 가능한 성장과 혁신적인 변화를 지원. 전략적 접근과 최첨단 기술을 활용하여 연평균 30% 이상의 생산성 향상 달성. CEFR C1 수준의 영어 실력을 활용하여 글로벌 프로젝트 주도. 최근 프로젝트는 주로 VS Code에서 Python, JavaScript, C, COBOL 등의 언어를 사용하여 개발.",
+            "title2": "Studio Senior Manager",
+            "period2": "2020년 3월 - 2024년 8월",
+            "description2": "50개 이상의 비즈니스 인큐베이션 및 신제품 개발 프로젝트 주도. 엔지니어링 문화 조성을 통해 팀 생산성 2배 향상. Forbes JAPAN 기고 등 대외 커뮤니케이션을 통한 기술 리더십 발휘."
+        }
+    },
+    "projects": {
+        "item1": {
+            "title": "엔터프라이즈 AI 솔루션",
+            "description": "대형 제조업체를 위해 Azure Speech, OpenAI, ElevenLabs 등을 활용한 차세대 음성 인식 및 생성형 AI 시스템 구현. 도입 후 운영 효율성 50% 향상."
+        },
+        "item2": {
+            "title": "차세대 웹 플랫폼 개발",
+            "description": "Vite, Svelte, Next.js 등을 사용한 고성능 플랫폼 구축. 월 100만 PV 규모의 대규모 서비스 개발 주도."
+        }
+    },
+    "socialContributions": {
+        "item1": {
+            "title": "타임리스 타운 신우라야스 자치회 회장",
+            "period": "2024년 4월 - 현재",
+            "description": "치바현 우라야스시 아케미 2초메의 타임리스 타운 신우라야스(약 300세대/1000명 규모)의 자치회 회장으로 취임. 단독주택과 공동주택이 혼재된 대규모 커뮤니티에서 LINE Works 도입을 통한 자치회 DX 추진. 디지털과 아날로그의 하이브리드 정보 전달 체계를 구축하여 기존 회람판 방식 대비 정보 도달률 40% 향상."
+        },
+        "item2": {
+            "title": "국회 견학 버스 투어 기획 운영",
+            "period": "2024년 7월",
+            "description": "지역 주민의 정치 참여와 이해 증진을 위한 국회 견학 버스 투어 기획 실시. Mautic을 활용한 마케팅 자동화로 참가자의 관심사에 맞는 정보 제공을 실현하여 80% 신청률 달성. 국회의원 및 시의원과의 협력으로 국회의사당, 의원회관, 자민당 본부 견학 실현. 50명 이상의 참가자와 함께 지역 대중교통 문제, 방재 대책 등 구체적인 지역 과제에 대해 활발한 의견 교환 실시. 참가자 설문조사에서 95% 만족도 달성."
+        },
+        "item3": {
+            "title": "아케미노오카 여름축제 집행위원회 디지털 홍보 책임자",
+            "period": "2024년 8월",
+            "description": "방문객 8000명 규모의 지역 최대 여름축제에서 디지털 홍보 책임자로 기획 운영에 참여. 생성형 AI(ChatGPT/Midjourney)를 활용한 SNS 콘텐츠 제작으로 Instagram과 X(구 Twitter)의 참여율을 전년 대비 200% 향상. 지역 기업과의 후원 관계를 강화하여 30개 이상 기업으로부터 후원 획득. 지역 미디어와의 협력을 통한 정보 전파를 실현하여 크로스미디어에서의 인지도 향상 달성."
+        },
+        "item4": {
+            "title": "커뮤니티 활성화 사업 \"할로윈 이벤트\" 기획 운영",
+            "period": "2024년 10월",
+            "description": "세대 간 지역 교류를 목적으로 대규모 할로윈 이벤트를 기획 실시. LINE Works를 활용한 참가자 관리 및 정보 공유로 운영 효율성을 크게 개선. 우라야스 시장을 포함한 행정 관계자의 참여를 실현하여 300명 이상의 주민이 참가."
+        }
+    }
+}

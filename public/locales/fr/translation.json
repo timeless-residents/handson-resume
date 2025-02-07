@@ -1,0 +1,88 @@
+{
+    "title": "Ingénieur Logiciel",
+    "themeSwitch": "Changer de Thème",
+    "personalInfo": {
+        "name": "Takuya Sato",
+        "title": "AI Powered Innovation Senior Specialist Lead"
+    },
+    "profileHeader": {
+        "title": "Ingénieur Logiciel",
+        "themeSwitch": "Changer de Thème",
+        "personalInfo": {
+            "name": "Takuya Sato",
+            "title": "AI Powered Innovation Senior Specialist Lead"
+        }
+    },
+    "sections": {
+        "introduction": "Introduction",
+        "skills": "Compétences",
+        "experience": "Expérience",
+        "projects": "Projets Open Source & Personnels",
+        "socialContributions": "Contributions Sociales"
+    },
+    "skillCategories": {
+        "programming": "Langages de Programmation",
+        "frontend": "Frontend",
+        "backend": "Backend",
+        "database": "Base de Données",
+        "devops": "DevOps & Outils",
+        "focus": "Domaines de Spécialisation"
+    },
+    "footer": {
+        "copyright": "© 2025 Takuya Sato - Tous Droits Réservés"
+    },
+    "introduction": "Leader innovant avec plus de 20 ans d'expérience en transformation digitale, IA et technologies avancées. En tant qu'influenceur avec plus de 4 000 abonnés LinkedIn, je favorise la croissance durable et les solutions compétitives pour les clients dans des industries en rapide évolution. Récompensé parmi les 10 meilleurs chefs de projet au World Blockchain Summit, démontrant un leadership technologique mondial. Maximisation de la valeur commerciale des clients grâce à l'innovation transformatrice et des solutions à fort impact dans les domaines de l'IA générative et des technologies émergentes.",
+    "skills": {
+        "focus": {
+            "item1": "Conception et Implémentation de Systèmes d'IA Générative",
+            "item2": "Technologies Émergentes (IoT, Blockchain, VR/AR)",
+            "item3": "Planification Stratégique de Transformation Digitale",
+            "item4": "Conception d'Architecture Microservices",
+            "item5": "Modernisation Legacy (COBOL/Mainframe)",
+            "item6": "Pratiques DevSecOps"
+        }
+    },
+    "experience": {
+        "positions1": {
+            "company": "Deloitte Tohmatsu Consulting LLC",
+            "title1": "Senior Specialist Lead",
+            "period1": "Août 2024 - Présent",
+            "description1": "Soutien de la croissance durable et de la transformation innovante pour plus de 100 clients dans des industries en rapide évolution. Réalisation d'une amélioration moyenne annuelle de la productivité de plus de 30% grâce à des approches stratégiques et des technologies de pointe. Direction de projets mondiaux utilisant un niveau d'anglais CECR C1. Les projets récents impliquent principalement le développement dans VS Code utilisant des langages tels que Python, JavaScript, C et COBOL.",
+            "title2": "Studio Senior Manager",
+            "period2": "Mars 2020 - Août 2024",
+            "description2": "Direction de plus de 50 projets d'incubation d'entreprises et de développement de nouveaux produits. Doublement de la productivité de l'équipe en favorisant une culture d'ingénierie. Démonstration du leadership technologique à travers la communication externe, notamment des contributions à Forbes JAPAN."
+        }
+    },
+    "projects": {
+        "item1": {
+            "title": "Solution IA Entreprise",
+            "description": "Implémentation d'un système de reconnaissance vocale et d'IA générative de nouvelle génération utilisant Azure Speech, OpenAI, ElevenLabs, etc. pour un grand fabricant. Amélioration de l'efficacité opérationnelle de 50% après la mise en œuvre."
+        },
+        "item2": {
+            "title": "Développement de Plateforme Web Nouvelle Génération",
+            "description": "Construction d'une plateforme haute performance utilisant Vite, Svelte, Next.js, etc. Direction du développement d'un service à grande échelle avec 1 million de pages vues mensuelles."
+        }
+    },
+    "socialContributions": {
+        "item1": {
+            "title": "Président du Conseil, Association de Quartier Timeless Town Shin-Urayasu",
+            "period": "Avril 2024 - Présent",
+            "description": "Nommé président du conseil de Timeless Town Shin-Urayasu (environ 300 foyers/1000 personnes) à Akemi 2-chome, Ville d'Urayasu, Préfecture de Chiba. Promotion de la DX de l'association de quartier en introduisant LINE Works dans une communauté à grande échelle de maisons individuelles et de copropriétés. Établissement d'un système hybride de transmission d'informations numérique et analogique, améliorant le taux d'atteinte des informations de 40% par rapport à la méthode traditionnelle de tableau circulaire."
+        },
+        "item2": {
+            "title": "Planification et Exploitation de la Visite en Bus de la Diète Nationale",
+            "period": "Juillet 2024",
+            "description": "Planification et mise en œuvre d'une visite en bus de la Diète nationale pour promouvoir la participation politique et la compréhension parmi les résidents locaux. Obtention d'un taux de candidature de 80% en fournissant des informations adaptées aux intérêts des participants grâce à l'automatisation marketing avec Mautic. Réalisation de visites du bâtiment de la Diète nationale, du bâtiment des bureaux des membres de la Diète et du siège du Parti libéral-démocrate en coopération avec les membres de la Diète et les conseillers municipaux. Échanges actifs d'opinions sur des questions locales spécifiques telles que les problèmes de transport public local et les mesures de prévention des catastrophes avec plus de 50 participants. Obtention d'un taux de satisfaction de 95% dans le questionnaire des participants."
+        },
+        "item3": {
+            "title": "Responsable des Relations Publiques Numériques, Comité Exécutif du Festival d'Été Akemi no Oka",
+            "period": "Août 2024",
+            "description": "Participation à la planification et à l'exploitation en tant que responsable des relations publiques numériques au plus grand festival d'été de la région avec 8 000 visiteurs. Amélioration du taux d'engagement sur Instagram et X (anciennement Twitter) de 200% en glissement annuel en créant du contenu SNS utilisant l'IA générative (ChatGPT/Midjourney). Renforcement des relations de parrainage avec les entreprises locales et acquisition de parrainages auprès de plus de 30 entreprises. Réalisation de la diffusion d'informations en coopération avec les médias locaux et amélioration de la sensibilisation cross-média."
+        },
+        "item4": {
+            "title": "Planification et Exploitation du Projet de Revitalisation Communautaire \"Événement Halloween\"",
+            "period": "Octobre 2024",
+            "description": "Planification et mise en œuvre d'un événement Halloween à grande échelle dans le but d'échanges communautaires intergénérationnels. Amélioration significative de l'efficacité opérationnelle en utilisant LINE Works pour la gestion des participants et le partage d'informations. Réalisation de la participation de responsables administratifs, y compris le maire d'Urayasu, avec plus de 300 résidents participants."
+        }
+    }
+}

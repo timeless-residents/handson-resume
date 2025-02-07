@@ -1,4 +1,7 @@
 {
+    "language": {
+        "select": "言語を選択"
+    },
     "title": "ソフトウェアエンジニア",
     "themeSwitch": "テーマ切り替え",
     "personalInfo": {

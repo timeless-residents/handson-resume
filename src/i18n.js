@@ -14,6 +14,7 @@ i18n
   .use(initReactI18next)
   .init({
     fallbackLng: 'ja', // デフォルト言語
+    supportedLngs: ['ja', 'en', 'fr', 'ru', 'zh', 'ko'], // サポートする言語
     debug: true, // デバッグモード (開発時のみ true に推奨)
     interpolation: {
       escapeValue: false, // XSS 対策 (React ではデフォルトでエスケープされるので false でOK)

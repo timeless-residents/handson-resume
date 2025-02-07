@@ -1,4 +1,7 @@
 {
+    "language": {
+        "select": "Select Language"
+    },
     "title": "Software Engineer",
     "themeSwitch": "Theme Switch",
     "personalInfo": {

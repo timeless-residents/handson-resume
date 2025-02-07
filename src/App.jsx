@@ -14,9 +14,9 @@ import { useTranslation } from 'react-i18next';
 
 function App() {
   const [isDarkMode, setIsDarkMode] = useState(() => {
-    // ローカルストレージから初期値を取得、なければシステムの設定を使用
-    const savedTheme = localStorage.getItem('theme');
-    return savedTheme ? savedTheme === 'dark' : window.matchMedia('(prefers-color-scheme: dark)').matches;
+    // システムのカラースキーム設定を優先、なければlightモード
+    const systemPrefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    return systemPrefersDark;
   });
   const { t, i18n } = useTranslation();
   const [currentLanguage, setCurrentLanguage] = useState(i18n.language);
@@ -39,9 +39,19 @@ function App() {
   }, []);
 
   useEffect(() => {
+    // システムのカラースキーム変更を監視
+    const mediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
+    const handleChange = (e) => {
+      setIsDarkMode(e.matches);
+    };
+
+    mediaQuery.addEventListener('change', handleChange);
+    return () => mediaQuery.removeEventListener('change', handleChange);
+  }, []);
+
+  useEffect(() => {
     // テーマの変更を適用
     document.documentElement.setAttribute('data-theme', isDarkMode ? 'dark' : 'light');
-    localStorage.setItem('theme', isDarkMode ? 'dark' : 'light');
   }, [isDarkMode]);
 
   const toggleTheme = () => {
@@ -58,18 +68,31 @@ function App() {
     <div className="container mx-auto py-8 px-4 max-w-3xl text-center">
     
     <div className="fixed top-4 left-4">
-        <button
-          onClick={() => changeLanguage('ja')}
-          className={`px-2 py-1 rounded hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors ${currentLanguage === 'ja' ? 'bg-gray-300 dark:bg-gray-600 font-bold' : 'bg-gray-200 dark:bg-gray-700'}`} // 選択中の言語をハイライト
+        <select
+          value={currentLanguage}
+          onChange={(e) => changeLanguage(e.target.value)}
+          onKeyDown={(e) => {
+            if (e.key === 'Enter') {
+              changeLanguage(e.target.value);
+            }
+          }}
+          className="appearance-none px-2 py-1 pr-6 rounded bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors cursor-pointer outline-none"
+          style={{
+            backgroundImage: 'url("data:image/svg+xml,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' fill=\'none\' viewBox=\'0 0 20 20\'%3E%3Cpath stroke=\'%236b7280\' stroke-linecap=\'round\' stroke-linejoin=\'round\' stroke-width=\'1.5\' d=\'M6 8l4 4 4-4\'/%3E%3C/svg%3E")',
+            backgroundRepeat: 'no-repeat',
+            backgroundPosition: 'right 0.3rem center',
+            backgroundSize: '1.5em 1.5em',
+          }}
+          title={t('language.select')}
+          aria-label={t('language.select')}
         >
-          日本語
-        </button>
-        <button
-          onClick={() => changeLanguage('en')}
-          className={`px-2 py-1 rounded hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors ml-2 ${currentLanguage === 'en' ? 'bg-gray-300 dark:bg-gray-600 font-bold' : 'bg-gray-200 dark:bg-gray-700'}`} // 選択中の言語をハイライト
-        >
-          English
-        </button>
+          <option value="ja" title="日本語">🇯🇵</option>
+          <option value="en" title="English">🇺🇸</option>
+          <option value="fr" title="Français">🇫🇷</option>
+          <option value="ru" title="Русский">🇷🇺</option>
+          <option value="zh" title="中文">🇨🇳</option>
+          <option value="ko" title="한국어">🇰🇷</option>
+        </select>
       </div>
       <button
         onClick={toggleTheme}

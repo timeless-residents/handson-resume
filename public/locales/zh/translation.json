@@ -1,0 +1,88 @@
+{
+    "title": "软件工程师",
+    "themeSwitch": "切换主题",
+    "personalInfo": {
+        "name": "佐藤卓也",
+        "title": "AI Powered Innovation Senior Specialist Lead"
+    },
+    "profileHeader": {
+        "title": "软件工程师",
+        "themeSwitch": "切换主题",
+        "personalInfo": {
+            "name": "佐藤卓也",
+            "title": "AI Powered Innovation Senior Specialist Lead"
+        }
+    },
+    "sections": {
+        "introduction": "简介",
+        "skills": "技能",
+        "experience": "工作经验",
+        "projects": "开源和个人项目",
+        "socialContributions": "社会贡献"
+    },
+    "skillCategories": {
+        "programming": "编程语言",
+        "frontend": "前端",
+        "backend": "后端",
+        "database": "数据库",
+        "devops": "DevOps和工具",
+        "focus": "专注领域"
+    },
+    "footer": {
+        "copyright": "© 2025 佐藤卓也 - 版权所有"
+    },
+    "introduction": "在数字化转型、人工智能和先进技术领域拥有超过20年经验的创新领导者。作为拥有超过4,000名LinkedIn关注者的影响者，为快速变化行业的客户提供可持续增长和具有竞争力的解决方案。获得世界区块链峰会十大项目领导者奖，展现全球技术领导力。通过生成式AI和新兴技术领域的变革性创新和高影响力解决方案，最大化客户商业价值。",
+    "skills": {
+        "focus": {
+            "item1": "生成式AI系统设计与实现",
+            "item2": "新兴技术（物联网、区块链、VR/AR）",
+            "item3": "数字化转型战略规划",
+            "item4": "微服务架构设计",
+            "item5": "遗留系统现代化（COBOL/大型机）",
+            "item6": "DevSecOps实践"
+        }
+    },
+    "experience": {
+        "positions1": {
+            "company": "Deloitte Tohmatsu Consulting LLC",
+            "title1": "Senior Specialist Lead",
+            "period1": "2024年8月 - 至今",
+            "description1": "支持100多家客户在快速变化的行业中实现可持续增长和创新转型。通过战略方法和前沿技术，实现年均生产力提升超过30%。利用CEFR C1级英语水平领导全球项目。最近的项目主要使用VS Code进行开发，使用Python、JavaScript、C和COBOL等语言。",
+            "title2": "Studio Senior Manager",
+            "period2": "2020年3月 - 2024年8月",
+            "description2": "领导50多个业务孵化和新产品开发项目。通过培养工程文化，使团队生产力翻倍。通过外部沟通展示技术领导力，包括为Forbes JAPAN供稿。"
+        }
+    },
+    "projects": {
+        "item1": {
+            "title": "企业AI解决方案",
+            "description": "为大型制造商实施使用Azure Speech、OpenAI、ElevenLabs等的新一代语音识别和生成式AI系统。实施后运营效率提高50%。"
+        },
+        "item2": {
+            "title": "下一代Web平台开发",
+            "description": "使用Vite、Svelte、Next.js等构建高性能平台。领导开发月访问量100万PV的大规模服务。"
+        }
+    },
+    "socialContributions": {
+        "item1": {
+            "title": "Timeless Town新浦安居民委员会理事长",
+            "period": "2024年4月 - 至今",
+            "description": "被任命为千叶县浦安市明海2丁目Timeless Town新浦安（约300户/1000人）的居民委员会理事长。在混合独栋住宅和公寓的大规模社区中推进居民委员会数字化转型，引入LINE Works。建立数字和模拟混合信息传递系统，与传统的传阅板方式相比，信息到达率提高40%。"
+        },
+        "item2": {
+            "title": "国会参观巴士之旅策划运营",
+            "period": "2024年7月",
+            "description": "策划实施国会参观巴士之旅，旨在促进当地居民的政治参与和理解。通过使用Mautic营销自动化提供符合参与者兴趣的信息，实现80%的申请率。与国会议员和市议员合作，实现国会议事堂、议员会馆和自民党总部的参观。与50多名参与者就当地公共交通问题和防灾措施等具体地方问题进行积极意见交流。参与者问卷调查满意度达95%。"
+        },
+        "item3": {
+            "title": "明海之丘夏日祭执行委员会数字公关负责人",
+            "period": "2024年8月",
+            "description": "作为数字公关负责人参与策划运营该地区最大的夏日祭，访客达8000人。通过使用生成式AI（ChatGPT/Midjourney）创作社交媒体内容，使Instagram和X（原Twitter）的互动率同比提升200%。加强与当地企业的赞助关系，获得30多家企业的赞助。实现与当地媒体合作的信息传播，在跨媒体上提高认知度。"
+        },
+        "item4": {
+            "title": "社区振兴项目'万圣节活动'策划运营",
+            "period": "2024年10月",
+            "description": "策划实施大规模万圣节活动，旨在促进跨代社区交流。通过使用LINE Works进行参与者管理和信息共享，显著提高运营效率。实现包括浦安市长在内的行政官员参与，300多名居民参加。"
+        }
+    }
+}

@@ -9,7 +9,7 @@ export const profileData = {
     programming: ["JavaScript", "TypeScript", "Python", "Go", "Java", "C++", "COBOL", "Bash", "Lua"],
     frontend: ["React", "Vue.js", "Next.js", "Svelte", "Angular"],
     backend: ["Node.js", "Express", "Django", "FastAPI", "Spring Boot", "GraphQL"],
-    database: ["PostgreSQL", "MongoDB", "Redis", "Cassandra", "ElasticSearch"],
+    database: ["PostgreSQL", "MySQL",  "MongoDB", "Redis", "Cassandra", "ElasticSearch"],
     devops: ["Docker", "Kubernetes", "AWS", "Azure", "GCP", "Git", "VS Code", "Postman", "Jenkins", "Terraform"],
     focus: [
       "skills.focus.item1",
