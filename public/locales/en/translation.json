@@ -21,6 +21,7 @@
         "skills": "Skills",
         "experience": "Experience",
         "projects": "Open Source & Personal Projects",
+        "githubProjects": "GitHub Projects",
         "socialContributions": "Social Contributions"
     },
     "skillCategories": {

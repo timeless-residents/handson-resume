@@ -21,6 +21,7 @@
         "skills": "専門スキル",
         "experience": "職歴",
         "projects": "オープンソース・個人開発",
+        "githubProjects": "GitHubプロジェクト",
         "socialContributions": "社会貢献活動"
     },
     "skillCategories": {

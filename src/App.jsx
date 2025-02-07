@@ -7,6 +7,7 @@ import { SkillCategory } from './components/SkillCategory';
 import { ExperienceCard } from './components/ExperienceCard';
 import { ProjectCard } from './components/ProjectCard';
 import SocialContributionCard from './components/SocialContributionCard';
+import GitHubProjects from './components/GitHubProjects';
 import { profileData } from './data/profileData';
 import { Moon, Sun } from 'lucide-react'; 
 import { useTranslation } from 'react-i18next';
@@ -152,6 +153,12 @@ function App() {
                 <ProjectCard key={index} {...project} />
               ))}
             </div>
+          </div>
+        </Section>
+
+        <Section title={t("sections.githubProjects")}>
+          <div className="bg-white dark:bg-gray-800 shadow-md rounded-lg">
+            <GitHubProjects />
           </div>
         </Section>
 
