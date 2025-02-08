@@ -7,6 +7,9 @@ on:
   push:
     branches: [ main ]  # Also run on main branch pushes
 
+permissions:
+  contents: write
+
 jobs:
   update-feed:
     runs-on: ubuntu-latest
@@ -30,7 +33,13 @@ jobs:
 
       - name: Commit and Push Feed Data
         run: |
-          git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add public/data/*-feed.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update feed data" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update feed data")
+          
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
