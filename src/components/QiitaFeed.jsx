@@ -9,9 +9,7 @@ const QiitaFeed = () => {
   useEffect(() => {
     const fetchFeed = async () => {
       try {
-        const corsProxy = 'https://api.allorigins.win/raw?url=';
-        const feedUrl = encodeURIComponent('https://qiita.com/timeless-residents/feed');
-        const response = await axios.get(`${corsProxy}${feedUrl}`);
+        const response = await axios.get('https://api.allorigins.win/raw?url=https://qiita.com/timeless-residents/feed');
         
         // Parse XML
         const parser = new DOMParser();

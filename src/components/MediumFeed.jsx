@@ -9,9 +9,7 @@ const MediumFeed = () => {
   useEffect(() => {
     const fetchFeed = async () => {
       try {
-        const corsProxy = 'https://api.allorigins.win/raw?url=';
-        const feedUrl = encodeURIComponent('https://medium.com/feed/@business_37716');
-        const response = await axios.get(`${corsProxy}${feedUrl}`);
+        const response = await axios.get('https://api.allorigins.win/raw?url=https://medium.com/feed/@business_37716');
         
         // Parse XML
         const parser = new DOMParser();
