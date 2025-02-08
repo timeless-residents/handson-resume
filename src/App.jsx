@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import { GA_ID } from "./lib/ga4";
 import "./index.css";
 import { ProfileHeader } from "./components/ProfileHeader";
 import { Section } from "./components/Section";
@@ -31,22 +30,10 @@ function App() {
   const [currentLanguage, setCurrentLanguage] = useState(i18n.language);
 
   useEffect(() => {
-    // GA4のスクリプト設定（既存のコード）
-    const script = document.createElement("script");
-    script.src = `https://www.googletagmanager.com/gtag/js?id=${GA_ID}`;
-    script.async = true;
-    document.head.appendChild(script);
-
-    script.onload = () => {
-      window.dataLayer = window.dataLayer || [];
-      function gtag() {
-        window.dataLayer.push(arguments);
-      }
-      gtag("js", new Date());
-      gtag("config", GA_ID);
-    };
-
-    return () => document.head.removeChild(script);
+    // Track initial page view
+    import('./lib/ga4').then(({ pageview }) => {
+      pageview(window.location.pathname);
+    });
   }, []);
 
   useEffect(() => {
@@ -75,12 +62,29 @@ function App() {
     const newMode = !isDarkMode;
     setIsDarkMode(newMode);
     localStorage.setItem('darkMode', newMode.toString());
+    // Track theme change event
+    import('./lib/ga4').then(({ event }) => {
+      event({
+        action: 'change_theme',
+        category: 'Settings',
+        label: newMode ? 'dark' : 'light'
+      });
+    });
   };
 
   const changeLanguage = (lng) => {
     i18n.changeLanguage(lng);
     setCurrentLanguage(lng);
+    // Track language change event
+    import('./lib/ga4').then(({ event }) => {
+      event({
+        action: 'change_language',
+        category: 'Settings',
+        label: lng
+      });
+    });
   };
+
   const {
     personalInfo,
     introduction,

@@ -1,6 +1,18 @@
 
 export const GA_ID = 'G-EEGZND1FHZ';
 
-window.dataLayer = window.dataLayer || [];
-// eslint-disable-next-line no-unused-vars
-function gtag(){window.dataLayer.push(arguments);}
+// Page view tracking
+export const pageview = (path) => {
+  window.gtag('config', GA_ID, {
+    page_path: path,
+  });
+};
+
+// Event tracking
+export const event = ({ action, category, label, value }) => {
+  window.gtag('event', action, {
+    event_category: category,
+    event_label: label,
+    value: value,
+  });
+};
