@@ -1,6 +1,19 @@
 [
   {
     "id": {
+      "_": "https://zenn.dev/idev/books/book20250208-bb2d",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "Webpack 実践入門：モダンフロントエンド開発のベストプラクティス",
+    "url": "https://zenn.dev/idev/books/book20250208-bb2d",
+    "published": "Sat, 08 Feb 2025 21:20:31 GMT",
+    "content": "本書は、Webpack 実践入門：モダンフロントエンド開発のベストプラクティスに関する実践的なガイドです。\n各章では具体的な実装例とベストプラクティスを交えながら、\n段階的に理解を深められる構成となっています。",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--X-pq0b-k--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9jNzRlZWYwMTljLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
+  },
+  {
+    "id": {
       "_": "https://zenn.dev/idev/books/book20250207-0286",
       "$": {
         "isPermaLink": "true"
@@ -35,7 +48,7 @@
     "title": "レガシーCOBOLモダナイゼーション：クラウド移行とアジャイル開発実践ガイド",
     "url": "https://zenn.dev/idev/books/book20250205-a0cf",
     "published": "Wed, 05 Feb 2025 22:45:46 GMT",
-    "content": "本書は、レガシーCOBOLモダナイゼーション：クラウド移行とアジャイル���発実践ガイドに関する実践的なガイドです。\n各章では具体的な実装例とベストプラクティスを交えながら、\n段階的に理解を深められる構成となっています。",
+    "content": "本書は、レガシーCOBOLモダナイゼーション：クラウド移行とアジャイル開発実践ガイドに関する実践的なガイドです。\n各章では具体的な実装例とベストプラクティスを交えながら、\n段階的に理解を深められる構成となっています。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--ctUSKpRW--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8xNGE4NjAzMGFkLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -71,7 +84,7 @@
         "isPermaLink": "true"
       }
     },
-    "title": "実践!Hammerspoon��Claudeで加速するMac自動化 - 業務効率化の最前線",
+    "title": "実践!HammerspoonとClaudeで加速するMac自動化 - 業務効率化の最前線",
     "url": "https://zenn.dev/idev/books/book20250130-056e",
     "published": "Thu, 30 Jan 2025 22:08:26 GMT",
     "content": "本書は、実践!HammerspoonとClaudeで加速するMac自動化 - 業務効率化の最前線に関する実践的なガイドです。\n各章では具体的な実装例とベストプラクティスを交えながら、\n段階的に理解を深められる構成となっています。",
@@ -165,7 +178,7 @@
     "title": "初めてのGithub連携",
     "url": "https://zenn.dev/idev/articles/b442aa439acc49",
     "published": "Sun, 02 Oct 2022 06:57:48 GMT",
-    "content": "\n 初めて���Github連携\n本文が空だと記事が公開されないので注意です。\n\n",
+    "content": "\n 初めてのGithub連携\n本文が空だと記事が公開されないので注意です。\n\n",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--TJkB8Rh---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2588%259D%25E3%2582%2581%25E3%2581%25A6%25E3%2581%25AEGithub%25E9%2580%25A3%25E6%2590%25BA%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -178,7 +191,7 @@
     "title": "iDev入門-iPhone/iPadで開発する方法",
     "url": "https://zenn.dev/idev/books/0bd30dae653453",
     "published": "Tue, 27 Sep 2022 02:46:45 GMT",
-    "content": "世の中的には、映像制作や画像制作、音楽制作などクリエイティブをスマホやタブレットでどこまでできるのか、向き不向きなど話題になることが多いですが、\nシステムやアプリ開発でももっと掘り下げた情報が体系的にあってもいいのに。\nプログラミングってパソコンが無いと���きない？\nもっと気軽にプログラミングできる環境があったらいいのに。\nスマホは持ってるけどパソコンは持ってないんだけどプログラミングしたい。\nスマホ、タブレットで一体どこまでプログラミングできるのか？\nテレワークをスマホ一台で完結させてみたい。\nスマホだけでフルスタックエンジニアの業務を回してみたい。\n国内や海外旅行しながらエンジニアリングしたい。\n故郷に帰省、パソコンはかさばって荷物になるからスマホで緊急対応できる環境を作りたい。\n子育てにもっと時間を割いて隙間時間でプログラミングできるような状態を作りたい。\nもし、これらのうち一つでも当てはまるなと思ったら、あなたにとってぴったりの本になりますので、ぜひお手にとって読んでみてください。\nスマホ、タブレットでもここまでできるのか、思っていたよりもできること多いな、こんなこともできるんじゃないか、あんなこともできるんじゃ無いかなと夢が広がります。\n\n■2022/09/27 作成\n・アカウント作成\n・アカウントプロフィール画像作成\n・本のタイトル作成\n・本の表紙作成\n\n■注意事項\n・この本は��者と一緒にコンテンツを作っていくスタイルで継続的にブラッシュアップしていきます。作成初期段階ではコンテンツが少ない、薄いタイミングがあることにご了承いただいた上で賛同いただいた方にご参加頂ければと思います。\n",
+    "content": "世の中的には、映像制作や画像制作、音楽制作などクリエイティブをスマホやタブレットでどこまでできるのか、向き不向きなど話題になることが多いですが、\nシステムやアプリ開発でももっと掘り下げた情報が体系的にあってもいいのに。\nプログラミングってパソコンが無いとできない？\nもっと気軽にプログラミングできる環境があったらいいのに。\nスマホは持ってるけどパソコンは持ってないんだけどプログラミングしたい。\nスマホ、タブレットで一体どこまでプログラミングできるのか？\nテレワークをスマホ一台で完結させてみたい。\nスマホだけでフルスタックエンジニアの業務を回してみたい。\n国内や海外旅行しながらエンジニアリングしたい。\n故郷に帰省、パソコンはかさばって荷物になるからスマホで緊急対応できる環境を作りたい。\n子育てにもっと時間を割いて隙間時間でプログラミングできるような状態を作りたい。\nもし、これらのうち一つでも当てはまるなと思ったら、あなたにとってぴったりの本になりますので、ぜひお手にとって読んでみてください。\nスマホ、タブレットでもここまでできるのか、思っていたよりもできること多いな、こんなこともできるんじゃないか、あんなこともできるんじゃ無いかなと夢が広がります。\n\n■2022/09/27 作成\n・アカウント作成\n・アカウントプロフィール画像作成\n・本のタイトル作成\n・本の表紙作成\n\n■注意事項\n・この本は読者と一緒にコンテンツを作っていくスタイルで継続的にブラッシュアップしていきます。作成初期段階ではコンテンツが少ない、薄いタイミングがあることにご了承いただいた上で賛同いただいた方にご参加頂ければと思います。\n",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--_ve0NAqO--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci83ZTdhM2Q2NjNkLmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   }
 ]
