@@ -1,0 +1,184 @@
+[
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/books/book20250207-0286",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "実践 システム信頼性エンジニアリング (SRE): 安定運用と継続的改善",
+    "url": "https://zenn.dev/idev/books/book20250207-0286",
+    "published": "Fri, 07 Feb 2025 18:59:03 GMT",
+    "content": "本書は、実践 システム信頼性エンジニアリング (SRE): 安定運用と継続的改善に関する実践的なガイドです。\n各章では具体的な実装例とベストプラクティスを交えながら、\n段階的に理解を深められる構成となっています。",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--3be9d7Dq--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8yZjhlNTdlOGQwLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/books/book20250206-43e4",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "実践 クラウドモニタリング - Datadog, OpenCost, 自動化による効率的な運用とコスト最適化",
+    "url": "https://zenn.dev/idev/books/book20250206-43e4",
+    "published": "Thu, 06 Feb 2025 21:05:47 GMT",
+    "content": "本書は、実践 クラウドモニタリング - Datadog, OpenCost, 自動化による効率的な運用とコスト最適化に関する実践的なガイドです。\n各章では具体的な実装例とベストプラクティスを交えながら、\n段階的に理解を深められる構成となっています。",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--cALzysiG--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8zZTMyNWVhYWZjLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/books/book20250205-a0cf",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "レガシーCOBOLモダナイゼーション：クラウド移行とアジャイル開発実践ガイド",
+    "url": "https://zenn.dev/idev/books/book20250205-a0cf",
+    "published": "Wed, 05 Feb 2025 22:45:46 GMT",
+    "content": "本書は、レガシーCOBOLモダナイゼーション：クラウド移行とアジャイル開発実践ガイドに関する実践的なガイドです。\n各章では具体的な実装例とベストプラクティスを交えながら、\n段階的に理解を深められる構成となっています。",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--ctUSKpRW--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8xNGE4NjAzMGFkLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/books/book20250203-cadf",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "実践！Apple MLXとPythonで学ぶ次世代機械学習環境構築",
+    "url": "https://zenn.dev/idev/books/book20250203-cadf",
+    "published": "Mon, 03 Feb 2025 14:54:03 GMT",
+    "content": "本書は、実践！Apple MLXとPythonで学ぶ次世代機械学習環境構築に関する実践的なガイドです。\n各章では具体的な実装例とベストプラクティスを交えながら、\n段階的に理解を深められる構成となっています。",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--8lzyKzdC--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci82YTA2YTg2NTU1LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/books/book20250202-6779",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "実践！AWS Lambda 通知システム構築：設計から運用、トラブルシューティングまで",
+    "url": "https://zenn.dev/idev/books/book20250202-6779",
+    "published": "Sun, 02 Feb 2025 21:38:01 GMT",
+    "content": "本書は、実践！AWS Lambda 通知システム構築：設計から運用、トラブルシューティングまでに関する実践的なガイドです。\n各章では具体的な実装例とベストプラクティスを交えながら、\n段階的に理解を深められる構成となっています。",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--XUrbBb1F--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9mY2NkMmY1YTI4LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/books/book20250130-056e",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "実践!HammerspoonとClaudeで加速するMac自動化 - 業務効率化の最前線",
+    "url": "https://zenn.dev/idev/books/book20250130-056e",
+    "published": "Thu, 30 Jan 2025 22:08:26 GMT",
+    "content": "本書は、実践!HammerspoonとClaudeで加速するMac自動化 - 業務効率化の最前線に関する実践的なガイドです。\n各章では具体的な実装例とベストプラクティスを交えながら、\n段階的に理解を深められる構成となっています。",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--CFikGrXu--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9jN2Y5MzRiNGU2LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/books/book20250130-56a8",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "実践！Hammerspoon & AppleScript連携によるmacOS自動化レシピ集",
+    "url": "https://zenn.dev/idev/books/book20250130-56a8",
+    "published": "Thu, 30 Jan 2025 04:25:33 GMT",
+    "content": "本書は、実践！Hammerspoon & AppleScript連携によるmacOS自動化レシピ集に関する実践的なガイドです。\n各章では具体的な実装例とベストプラクティスを交えながら、\n段階的に理解を深められる構成となっています。",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--GRS9y_m9--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci85YzRmMDhlNjNiLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/books/book20250128-6afb",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "VS Code環境構築実践ガイド：チーム開発を加速する設定共有と最適化戦略",
+    "url": "https://zenn.dev/idev/books/book20250128-6afb",
+    "published": "Tue, 28 Jan 2025 21:09:32 GMT",
+    "content": "本書は、VS Code環境構築実践ガイド：チーム開発を加速する設定共有と最適化戦略に関する実践的なガイドです。\n各章では具体的な実装例とベストプラクティスを交えながら、\n段階的に理解を深められる構成となっています。",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--m8L4V633--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci80YjJiZDA1YzU5LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/articles/16725ebb35eff1",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "Hello world from zenn cli",
+    "url": "https://zenn.dev/idev/articles/16725ebb35eff1",
+    "published": "Sun, 26 Jan 2025 04:58:02 GMT",
+    "content": "\n this is main contents\n",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--c5iIVW8v--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_72:Hello%2520world%2520from%2520zenn%2520cli%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/articles/7da5ee3fbfd621",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "💻 ChatGPTにZenn記事を書いていただく",
+    "url": "https://zenn.dev/idev/articles/7da5ee3fbfd621",
+    "published": "Thu, 16 Feb 2023 01:04:59 GMT",
+    "content": "📝 初めに\n本記事は、ChatGPTを利用して技術系記事を執筆する方法について解説します。ChatGPTはOpenAIが開発した自然言語処理技術であり、文章生成や翻訳などの応用が可能です。本記事では、ChatGPTを用いてZennに投稿するための方法について説明します。\n🚀 実施内容\n以下の手順で、ChatGPTを利用してZennの記事を執筆します。\n投稿したい内容をメモ帳などにまとめます。\nChatGPTに入力します。入力する際に、出力したい記事の形式を指定します。\n出力された内容を校正し、不自然な表現や間違いを修正します。\n修正した記事をZennに投稿します。\n以上の手順で、簡単にZ...",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--lHlIT1ju--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%2520%2520ChatGPT%25E3%2581%25ABZenn%25E8%25A8%2598%25E4%25BA%258B%25E3%2582%2592%25E6%259B%25B8%25E3%2581%2584%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%25E3%2581%25A0%25E3%2581%258F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/articles/98ddf46dc27302",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "GitHubユーザメールアドレスを修正する",
+    "url": "https://zenn.dev/idev/articles/98ddf46dc27302",
+    "published": "Sun, 02 Oct 2022 20:32:12 GMT",
+    "content": "\n 修正方法\ngit config --global --edit\n[core]\n  quotepath = false\n[user]\n  name = hoge\n  email = emailaddress\ngit status\ngit add .\ngit commit -m \"message\"\ngit push\n",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--sAznDPfe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GitHub%25E3%2583%25A6%25E3%2583%25BC%25E3%2582%25B6%25E3%2583%25A1%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%25A2%25E3%2583%2589%25E3%2583%25AC%25E3%2582%25B9%25E3%2582%2592%25E4%25BF%25AE%25E6%25AD%25A3%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/articles/bc589ed7244a0b",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "Ubuntuに最新のnodejsをインストール",
+    "url": "https://zenn.dev/idev/articles/bc589ed7244a0b",
+    "published": "Sun, 02 Oct 2022 07:19:47 GMT",
+    "content": "\n 手順\nZenn Cliを導入したいが挙動がおかしいので、最新のNode.jsを導入して試す、\nその一環で、Ubuntu上のNode.jsを最新版にアップグレードする方法を残しておく。\nsudo apt info nodejs\nsudo su -\ncurl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -\nsudo apt-get install -y nodejs\ndpkg -i --force-overwrite /var/cache/apt/archives/nodejs_16.17.1-deb-1node...",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--LwK9v4Ro--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Ubuntu%25E3%2581%25AB%25E6%259C%2580%25E6%2596%25B0%25E3%2581%25AEnodejs%25E3%2582%2592%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25BC%25E3%2583%25AB%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/articles/b442aa439acc49",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "初めてのGithub連携",
+    "url": "https://zenn.dev/idev/articles/b442aa439acc49",
+    "published": "Sun, 02 Oct 2022 06:57:48 GMT",
+    "content": "\n 初めてのGithub連携\n本文が空だと記事が公開されないので注意です。\n\n",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--TJkB8Rh---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2588%259D%25E3%2582%2581%25E3%2581%25A6%25E3%2581%25AEGithub%25E9%2580%25A3%25E6%2590%25BA%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/books/0bd30dae653453",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "iDev入門-iPhone/iPadで開発する方法",
+    "url": "https://zenn.dev/idev/books/0bd30dae653453",
+    "published": "Tue, 27 Sep 2022 02:46:45 GMT",
+    "content": "世の中的には、映像制作や画像制作、音楽制作などクリエイティブをスマホやタブレットでどこまでできるのか、向き不向きなど話題になることが多いですが、\nシステムやアプリ開発でももっと掘り下げた情報が体系的にあってもいいのに。\nプログラミングってパソコンが無いとできない？\nもっと気軽にプログラミングできる環境があったらいいのに。\nスマホは持ってるけどパソコンは持ってないんだけどプログラミングしたい。\nスマホ、タブレットで一体どこまでプログラミングできるのか？\nテレワークをスマホ一台で完結させてみたい。\nスマホだけでフルスタックエンジニアの業務を回してみたい。\n国内や海外旅行しながらエンジニアリングしたい。\n故郷に帰省、パソコンはかさばって荷物になるからスマホで緊急対応できる環境を作りたい。\n子育てにもっと時間を割いて隙間時間でプログラミングできるような状態を作りたい。\nもし、これらのうち一つでも当てはまるなと思ったら、あなたにとってぴったりの本になりますので、ぜひお手にとって読んでみてください。\nスマホ、タブレットでもここまでできるのか、思っていたよりもできること多いな、こんなこともできるんじゃないか、あんなこともできるんじゃ無いかなと夢が広がります。\n\n■2022/09/27 作成\n・アカウント作成\n・アカウントプロフィール画像作成\n・本のタイトル作成\n・本の表紙作成\n\n■注��事項\n・この本は読者と一緒にコンテンツを作っていくスタイルで継続的にブラッシュアップしていきます。作成初期段階ではコンテンツが少ない、薄いタイミングがあることにご了承いただいた上で賛同いただいた方にご参加頂ければと思います。\n",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--_ve0NAqO--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci83ZTdhM2Q2NjNkLmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
+  }
+]

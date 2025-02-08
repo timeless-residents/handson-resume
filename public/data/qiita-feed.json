@@ -1,0 +1,30 @@
+[
+  {
+    "id": "tag:qiita.com,2005:PublicArticle/1983614",
+    "title": "API信頼性向上のための実践的レシピ: エラー処理、フォールバック、監視を徹底解説",
+    "url": "https://qiita.com/timeless-residents/items/b8be879e6e59c76e60c2",
+    "published": "2025-02-08T04:21:50+09:00",
+    "content": "API信頼性向上のための実践的レシピ: エラー処理、フォールバック、監視を徹底解説 - 予測不能な未来に備えるAPI設計術\n1. はじめに: API信頼性向上の重要性と現実的な課題 (可用性、パフォ…"
+  },
+  {
+    "id": "tag:qiita.com,2005:PublicArticle/1983244",
+    "title": "Microsoft Teams 業務効率化レシピ集: Power Automate & Bot 活用で日々のルーチンワークを自動化",
+    "url": "https://qiita.com/timeless-residents/items/19583be2bba1b4332b8e",
+    "published": "2025-02-07T07:16:14+09:00",
+    "content": "Microsoft Teams 業務効率化レシピ集: Power Automate &amp; Bot 活用で日々のルーチンワークを自動化\nこの記事では、Microsoft Teams を活用して日々のルー…"
+  },
+  {
+    "id": "tag:qiita.com,2005:PublicArticle/1982811",
+    "title": "OpenCost & Datadog 実践ガイド: クラウドコスト最適化で無駄を削減する",
+    "url": "https://qiita.com/timeless-residents/items/e7820664392fb7cc9ab3",
+    "published": "2025-02-06T07:48:20+09:00",
+    "content": "OpenCost &amp; Datadog 実践ガイド: クラウドコスト最適化で無駄を削減する\nクラウドコストは、企業の成長とともに増加する悩みの種です。適切な可視化と対策を講じなければ、無駄なコストが膨…"
+  },
+  {
+    "id": "tag:qiita.com,2005:PublicArticle/1981898",
+    "title": "EC2 Instance Connect 徹底活用：SSH接続のセキュリティ強化と運用自動化",
+    "url": "https://qiita.com/timeless-residents/items/0c201471cc822f2dc8c9",
+    "published": "2025-02-03T23:57:03+09:00",
+    "content": "EC2 Instance Connect 徹底活用：SSH接続のセキュリティ強化と運用自動化\nはじめに\n本記事では、AWS EC2インスタンスへのSSH接続をより安全かつ効率的に行うためのサービス「…"
+  }
+]

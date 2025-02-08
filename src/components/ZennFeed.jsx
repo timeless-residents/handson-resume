@@ -1,6 +1,4 @@
 import { useState, useEffect } from 'react';
-import axios from 'axios';
-
 const ZennFeed = () => {
   const [articles, setArticles] = useState([]);
   const [loading, setLoading] = useState(true);
@@ -9,33 +7,12 @@ const ZennFeed = () => {
   useEffect(() => {
     const fetchFeed = async () => {
       try {
-        const response = await axios.get('https://api.allorigins.win/raw?url=https://zenn.dev/idev/feed');
-        
-        // Parse XML
-        const parser = new DOMParser();
-        const xmlDoc = parser.parseFromString(response.data, 'text/xml');
-        const items = xmlDoc.getElementsByTagName('item');
-        
-        console.log('XML Response:', response.data);
-        const parsedArticles = Array.from(items).map(item => {
-          const content = item.getElementsByTagName('description')[0]?.textContent || '';
-          const enclosure = item.getElementsByTagName('enclosure')[0];
-          const thumbnail = enclosure?.getAttribute('url') || '';
-          
-          const article = {
-            id: item.getElementsByTagName('guid')[0]?.textContent,
-            title: item.getElementsByTagName('title')[0]?.textContent || '',
-            url: item.getElementsByTagName('link')[0]?.textContent || '',
-            published: item.getElementsByTagName('pubDate')[0]?.textContent || '',
-            content: content,
-            thumbnail: thumbnail
-          };
-          
-          console.log('Parsed Article:', article);
-          return article;
-        });
-
-        setArticles(parsedArticles);
+        const response = await fetch('/data/zenn-feed.json');
+        if (!response.ok) {
+          throw new Error('Failed to fetch Zenn feed data');
+        }
+        const data = await response.json();
+        setArticles(data);
         setLoading(false);
       } catch (err) {
         setError('Failed to fetch Zenn feed');

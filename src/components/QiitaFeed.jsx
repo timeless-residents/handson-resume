@@ -1,6 +1,4 @@
 import { useState, useEffect } from 'react';
-import axios from 'axios';
-
 const QiitaFeed = () => {
   const [articles, setArticles] = useState([]);
   const [loading, setLoading] = useState(true);
@@ -9,32 +7,12 @@ const QiitaFeed = () => {
   useEffect(() => {
     const fetchFeed = async () => {
       try {
-        const response = await axios.get('https://api.allorigins.win/raw?url=https://qiita.com/timeless-residents/feed');
-        
-        // Parse XML
-        const parser = new DOMParser();
-        const xmlDoc = parser.parseFromString(response.data, 'text/xml');
-        const entries = xmlDoc.getElementsByTagName('entry');
-        
-        console.log('XML Response:', response.data);
-        const parsedArticles = Array.from(entries).map(entry => {
-          const link = Array.from(entry.getElementsByTagName('link'))
-            .find(link => link.getAttribute('rel') === 'alternate')
-            ?.getAttribute('href') || '';
-            
-          const article = {
-            id: entry.getElementsByTagName('id')[0]?.textContent,
-            title: entry.getElementsByTagName('title')[0]?.textContent || '',
-            url: link,
-            published: entry.getElementsByTagName('published')[0]?.textContent || '',
-            content: entry.getElementsByTagName('content')[0]?.textContent || ''
-          };
-          
-          console.log('Parsed Article:', article);
-          return article;
-        });
-
-        setArticles(parsedArticles);
+        const response = await fetch('/data/qiita-feed.json');
+        if (!response.ok) {
+          throw new Error('Failed to fetch Qiita feed data');
+        }
+        const data = await response.json();
+        setArticles(data);
         setLoading(false);
       } catch (err) {
         setError('Failed to fetch Qiita feed');

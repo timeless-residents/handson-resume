@@ -1,0 +1,32 @@
+name: Update Feed Data
+
+on:
+  schedule:
+    - cron: '0 */9 * * *'  # Run every 6 hours
+  workflow_dispatch:  # Allow manual trigger
+  push:
+    branches: [ main ]  # Also run on main branch pushes
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Create Feed Directory
+        run: mkdir -p public/data
+
+      - name: Fetch All Feeds
+        run: node scripts/fetch-feeds.js
+
+      - name: Commit and Push Feed Data
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add public/data/*-feed.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update feed data" && git push)
