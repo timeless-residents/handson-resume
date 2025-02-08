@@ -6,7 +6,7 @@
   "scripts": {
     "prefetch": "node scripts/fetch-feeds.js",
     "dev": "npm run prefetch && vite",
-    "build": "vite build",
+    "build": "npm run prefetch && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },

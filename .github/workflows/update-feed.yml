@@ -2,7 +2,7 @@ name: Update Feed Data
 
 on:
   schedule:
-    - cron: '0 */9 * * *'  # Run every 6 hours
+    - cron: '0 */6 * * *'  # Run every 6 hours
   workflow_dispatch:  # Allow manual trigger
   push:
     branches: [ main ]  # Also run on main branch pushes
@@ -17,6 +17,10 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: '18'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm install
 
       - name: Create Feed Directory
         run: mkdir -p public/data
