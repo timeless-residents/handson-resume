@@ -27,7 +27,8 @@ const GitHubProjects = () => {
             stars: repo.stargazers_count,
             language: repo.language,
             updatedAt: new Date(repo.updated_at).toLocaleDateString(),
-            homepage: repo.homepage
+            homepage: repo.homepage,
+            topics: repo.topics
           }));
 
         setRepositories(filteredRepos);
@@ -90,6 +91,15 @@ const GitHubProjects = () => {
               <span className="bg-gray-100 dark:bg-gray-700 px-2 py-1 rounded">
                 {repo.language}
               </span>
+            )}
+            {repo.topics && repo.topics.length > 0 && (
+              <div className="flex flex-wrap gap-2">
+                {repo.topics.map(topic => (
+                  <span key={topic} className="bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200 px-2 py-1 rounded text-xs">
+                    {topic}
+                  </span>
+                ))}
+              </div>
             )}
             {repo.homepage && (
               <a
