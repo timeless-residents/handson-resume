@@ -13,13 +13,13 @@ const GitHubProjects = () => {
         const response = await axios.get('https://api.github.com/users/timeless-residents/repos', {
           params: {
             sort: 'updated',
-            per_page: 10
+            per_page: 30  // より多くのリポジトリを取得
           }
         });
         
-        // Filter out forked repositories and map to required data
+        // Filter out forked repositories and repositories without descriptions
         const filteredRepos = response.data
-          .filter(repo => !repo.fork)
+          .filter(repo => !repo.fork && repo.description)
           .map(repo => ({
             name: repo.name,
             description: repo.description,
@@ -29,7 +29,8 @@ const GitHubProjects = () => {
             updatedAt: new Date(repo.updated_at).toLocaleDateString(),
             homepage: repo.homepage,
             topics: repo.topics
-          }));
+          }))
+          .slice(0, 10);  // 最大10件まで表示
 
         setRepositories(filteredRepos);
         setError(null);
@@ -65,6 +66,22 @@ const GitHubProjects = () => {
     );
   }
 
+  if (repositories.length === 0) {
+    return (
+      <div className="p-4 text-center text-gray-600 dark:text-gray-300">
+        <p>No repositories with descriptions found.</p>
+        <a
+          href="https://github.com/timeless-residents"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-block mt-4 text-blue-500 hover:text-blue-600 transition-colors"
+        >
+          View all repositories →
+        </a>
+      </div>
+    );
+  }
+
   return (
     <div className="p-4">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
@@ -83,9 +100,7 @@ const GitHubProjects = () => {
               {repo.name}
             </a>
           </h3>
-          {repo.description && (
-            <p className="text-gray-600 dark:text-gray-300 mb-3">{repo.description}</p>
-          )}
+          <p className="text-gray-600 dark:text-gray-300 mb-3">{repo.description}</p>
           <div className="flex flex-wrap gap-3 text-sm">
             {repo.language && (
               <span className="bg-gray-100 dark:bg-gray-700 px-2 py-1 rounded">
