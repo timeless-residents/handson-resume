@@ -1,5 +1,12 @@
 [
   {
+    "id": "tag:qiita.com,2005:PublicArticle/1985969",
+    "title": "AWS Translate Lambdaで実現スケーラブルで低コストな多言語対応API構築実践ガイド",
+    "url": "https://qiita.com/timeless-residents/items/bd48db89a8a0f85f75f5",
+    "published": "2025-02-13T10:36:08+09:00",
+    "content": "AWS Translate &amp; Lambdaで実現！スケーラブルで低コストな多言語対応API構築実践ガイド - キャッシュ戦略とエラーハンドリングの最適化\nはじめに: 多言語対応の課題とAWS Tr…"
+  },
+  {
     "id": "tag:qiita.com,2005:PublicArticle/1985502",
     "title": "Github Actions 実践最適化：コスト削減と高速化を実現するワークフロー構築術",
     "url": "https://qiita.com/timeless-residents/items/41384154a365c1d41645",
@@ -19,12 +26,5 @@
     "url": "https://qiita.com/timeless-residents/items/f6b30c595b6b48a66ad3",
     "published": "2025-02-10T06:19:58+09:00",
     "content": "自動化システム トラブルシューティング 実践ガイド: 迅速な問題解決と安定稼働\n自動化システムは、現代のITインフラストラクチャの根幹を支える重要な要素です。しかし、複雑化するシステムにおいて、トラ…"
-  },
-  {
-    "id": "tag:qiita.com,2005:PublicArticle/1983987",
-    "title": "Gemini API エラーハンドリング完��ガイド 本番環境で役立つ実践的アプローチ",
-    "url": "https://qiita.com/timeless-residents/items/e249193d0f0343e5ebb2",
-    "published": "2025-02-09T07:09:03+09:00",
-    "content": "Gemini API エラーハンドリング完全ガイド: 本番環境で役立つ実践的アプローチ\nGemini API は強力なツールですが、本番環境で安定稼働させるためには、エラーハンドリングが不可欠です。…"
   }
 ]
