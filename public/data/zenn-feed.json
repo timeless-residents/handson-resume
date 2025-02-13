@@ -87,7 +87,7 @@
     "title": "TypeScriptのベストプラクティス2024",
     "url": "https://zenn.dev/idev/articles/article20250209-5042",
     "published": "Sun, 09 Feb 2025 22:05:08 GMT",
-    "content": "\n TypeScriptのベストプラクティス2024\n\n 1. 型付けの徹底\nTypeScriptの最大の強みは型付けです。すべての変数、関数、オブジェクトに明示的な型を指定することで、開発中のエラーを大幅に削減できます。以下に例を示します。\n// 型注釈のないコード\nlet name = 'John';\nname = 123; // エラーが発生しません\n\n// 型注釈のあるコード\nlet name: string = 'John';\nname = 123; // 型エラーが発生します\n\n 2. インターフェースと型エイリアスの活用\nインターフェースと型エイリアスは、���ードの再利用性と...",
+    "content": "\n TypeScriptのベストプラクティス2024\n\n 1. 型付けの徹底\nTypeScriptの最大の強みは型付けです。すべての変数、関数、オブジェクトに明示的な型を指定することで、開発中のエラーを大幅に削減できます。以下に例を示します。\n// 型注釈のないコード\nlet name = 'John';\nname = 123; // エラーが発生しません\n\n// 型注釈のあるコード\nlet name: string = 'John';\nname = 123; // 型エラーが発生します\n\n 2. インターフェースと型エイリアスの活用\nインターフェースと型エイリアスは、コー��の再利用性と...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--OZE-v6-w--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:TypeScript%25E3%2581%25AE%25E3%2583%2599%25E3%2582%25B9%25E3%2583%2588%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25AF%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25B92024%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -100,7 +100,7 @@
     "title": "実践 次世代テクノロジースタック構築術 - スケーラブルでインテリジェントなアプリケーション開発",
     "url": "https://zenn.dev/idev/books/book20250209-2282",
     "published": "Sun, 09 Feb 2025 21:06:42 GMT",
-    "content": "本書は、実践 次世代テクノロジースタック構築術 - スケーラブルでインテリジェントなアプリケーション開発に関する実践的なガイドです。\n各章では具体的な実装例とベストプラクティスを��えながら、\n段階的に理解を深められる構成となっています。",
+    "content": "本書は、実践 次世代テクノロジースタック構築術 - スケーラブルでインテリジェントなアプリケーション開発に関する実践的なガイドです。\n各章では具体的な実装例とベストプラクティスを交えながら、\n段階的に理解を深められる構成となっています。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--G3-c3vz2--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci81OTBlYjllM2Y1LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -191,7 +191,7 @@
     "title": "実践!HammerspoonとClaudeで加速するMac自動化 - 業務効率化の最前線",
     "url": "https://zenn.dev/idev/books/book20250130-056e",
     "published": "Thu, 30 Jan 2025 22:08:26 GMT",
-    "content": "本書は、実践!HammerspoonとClaudeで加速するMac自動化 - 業務効率化の最前線に関する実践的なガイドです。\n各章では具���的な実装例とベストプラクティスを交えながら、\n段階的に理解を深められる構成となっています。",
+    "content": "本書は、実践!HammerspoonとClaudeで加速するMac自動化 - 業務効率化の最前線に関する実践的なガイドです。\n各章では具体的��実装例とベストプラクティスを交えながら、\n段階的に理解を深められる構成となっています。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--CFikGrXu--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9jN2Y5MzRiNGU2LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -243,7 +243,7 @@
     "title": "💻 ChatGPTにZenn記事を書いていただく",
     "url": "https://zenn.dev/idev/articles/7da5ee3fbfd621",
     "published": "Thu, 16 Feb 2023 01:04:59 GMT",
-    "content": "📝 初めに\n本記事は、ChatGPTを利用して技術系記事を執筆する方法について解説します。ChatGPTはOpenAIが開発した自然言語処理技術であり、文章生成や翻訳などの応用が可能です。本記事では、ChatGPTを用いてZennに投稿するための方法について説明します。\n🚀 実施内容\n以下の手順で、ChatGPTを利用してZennの記事を執筆します。\n投稿したい内容をメモ帳などにまとめます。\nChatGPTに入力します。入力する際に、出力したい記事の形式を指定します。\n出力された内容を校正し、不自然な表現や間違いを修正します。\n修正した記事をZennに投稿します。\n以上の手順で、簡単にZ...",
+    "content": "📝 初めに\n本記事は、ChatGPTを利用して技術系記事を執筆する方法について解説します。ChatGPTはOpenAIが開発した自然言語処理技術であり、文章生成や翻訳などの応用が可能です。本記事では、ChatGPTを用いてZennに投稿するための方法について説明します。\n🚀 実施内容\n以下の手順で、ChatGPTを利用してZennの記事を執筆します。\n投稿したい内容をメモ帳などにまとめます。\nChatGPTに入力します。入力する際���、出力したい記事の形式を指定します。\n出力された内容を校正し、不自然な表現や間違いを修正します。\n修正した記事をZennに投稿します。\n以上の手順で、簡単にZ...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--lHlIT1ju--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%2520%2520ChatGPT%25E3%2581%25ABZenn%25E8%25A8%2598%25E4%25BA%258B%25E3%2582%2592%25E6%259B%25B8%25E3%2581%2584%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%25E3%2581%25A0%25E3%2581%258F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
