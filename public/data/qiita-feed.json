@@ -1,5 +1,12 @@
 [
   {
+    "id": "tag:qiita.com,2005:PublicArticle/1986338",
+    "title": "実践バッチ処理可視化：大規模データ処理をリアルタイム監視最適化する技術",
+    "url": "https://qiita.com/timeless-residents/items/5593beea40454fd70696",
+    "published": "2025-02-14T05:52:40+09:00",
+    "content": "実践！バッチ処理可視化：大規模データ処理をリアルタイム監視・最適化する技術\n大規模なデータ処理を行うバッチ処理システムは、現代のビジネスにおいて不可欠な存在です。しかし、その複雑性から、処理が遅延し…"
+  },
+  {
     "id": "tag:qiita.com,2005:PublicArticle/1985969",
     "title": "AWS Translate Lambdaで実現スケーラブルで低コストな多言語対応API構築実践ガイド",
     "url": "https://qiita.com/timeless-residents/items/bd48db89a8a0f85f75f5",
@@ -15,16 +22,9 @@
   },
   {
     "id": "tag:qiita.com,2005:PublicArticle/1984883",
-    "title": "Reminderアプリの同期爆速化オフライン優先設計と競合解決の実践",
+    "title": "Reminderアプリの同期��速化オフライン優先設計と競合解決の実践",
     "url": "https://qiita.com/timeless-residents/items/014f2662bcdabefd0aa0",
     "published": "2025-02-11T05:11:07+09:00",
     "content": "Reminderアプリの同期爆速化！オフライン優先設計と競合解決の実践\n1. はじめに：同期処理の現状分析とパフォーマンス課題の明確化 (目標設定とKPI定義)\n多くのReminderアプリが抱える…"
-  },
-  {
-    "id": "tag:qiita.com,2005:PublicArticle/1984449",
-    "title": "自動化システム トラブルシューティング 実践ガイド 迅速な問題解決と安定稼働",
-    "url": "https://qiita.com/timeless-residents/items/f6b30c595b6b48a66ad3",
-    "published": "2025-02-10T06:19:58+09:00",
-    "content": "自動化システム トラブルシューティング 実践ガイド: 迅速な問題解決と安定稼働\n自動化システムは、現代のITインフラストラクチャの根幹を支える重要な要素です。しかし、複雑化するシステムにおいて、トラ…"
   }
 ]
