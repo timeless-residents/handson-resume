@@ -1,4 +1,4 @@
-name: Update Feed Data
+name: Update Feed and Deploy
 
 on:
   schedule:
@@ -11,12 +11,13 @@ permissions:
   contents: write
 
 jobs:
-  update-feed:
+  update-and-deploy:
     runs-on: ubuntu-latest
     steps:
+      # Feed Update Steps
       - uses: actions/checkout@v3
         with:
-          fetch-depth: 1  # Shallow clone for better performance
+          fetch-depth: 1
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -45,3 +46,24 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
+
+      # Deployment Steps
+      - name: Build
+        run: npm run build
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v2
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ap-northeast-1
+
+      - name: Deploy to S3
+        run: |
+          aws s3 sync ./dist s3://www.satotakuya.jp/ --delete
+
+      - name: Invalidate CloudFront cache
+        run: |
+          aws cloudfront create-invalidation \
+            --distribution-id E1B8846OCVL4YY \
+            --paths "/*"
