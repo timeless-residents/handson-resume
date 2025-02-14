@@ -18,7 +18,7 @@ import { WakaTimeChart } from "./components/WakaTimeChart";
 
 function App() {
   const [isDarkMode, setIsDarkMode] = useState(() => {
-    // ローカルストレージから設定を読み込む
+    // ローカルストレージから設定を読込む
     const savedMode = localStorage.getItem("darkMode");
     if (savedMode !== null) {
       return savedMode === "true";
