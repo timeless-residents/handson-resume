@@ -33,8 +33,41 @@
         "frontend": "フロントエンド",
         "backend": "バックエンド",
         "database": "データベース",
+        "ai": "AI・機械学習",
+        "development": "開発環境・ツール",
         "devops": "DevOpsとツール",
         "focus": "注力領域"
+    },
+    "skillNames": {
+        "ai": {
+            "LangChain": "LangChain",
+            "MLflow": "MLflow",
+            "Hugging Face": "Hugging Face",
+            "Ollama": "Ollama",
+            "OpenAI": "OpenAI",
+            "Claude": "Claude",
+            "Gemini": "Gemini",
+            "ElevenLabs": "ElevenLabs",
+            "Perplexity": "Perplexity",
+            "PyTorch": "PyTorch",
+            "TensorFlow": "TensorFlow",
+            "scikit-learn": "scikit-learn",
+            "Stable Diffusion": "Stable Diffusion",
+            "Whisper": "Whisper",
+            "DALL-E": "DALL-E",
+            "GPT-4": "GPT-4",
+            "PaLM": "PaLM"
+        },
+        "development": {
+            "Jupyter": "Jupyter",
+            "Anaconda": "Anaconda",
+            "Docker Compose": "Docker Compose",
+            "Git LFS": "Git LFS",
+            "CUDA": "CUDA",
+            "Ray": "Ray",
+            "Weights & Biases": "Weights & Biases",
+            "DVC": "DVC"
+        }
     },
     "footer": {
         "copyright": "© 2025 Takuya Sato - All Rights Reserved"

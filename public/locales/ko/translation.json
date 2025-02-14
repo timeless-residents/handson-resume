@@ -29,8 +29,41 @@
         "frontend": "프론트엔드",
         "backend": "백엔드",
         "database": "데이터베이스",
+        "ai": "AI 및 머신러닝",
+        "development": "개발 환경 및 도구",
         "devops": "DevOps 및 도구",
         "focus": "주력 분야"
+    },
+    "skillNames": {
+        "ai": {
+            "LangChain": "LangChain",
+            "MLflow": "MLflow",
+            "Hugging Face": "Hugging Face",
+            "Ollama": "Ollama",
+            "OpenAI": "OpenAI",
+            "Claude": "Claude",
+            "Gemini": "Gemini",
+            "ElevenLabs": "ElevenLabs",
+            "Perplexity": "Perplexity",
+            "PyTorch": "PyTorch",
+            "TensorFlow": "TensorFlow",
+            "scikit-learn": "scikit-learn",
+            "Stable Diffusion": "Stable Diffusion",
+            "Whisper": "Whisper",
+            "DALL-E": "DALL-E",
+            "GPT-4": "GPT-4",
+            "PaLM": "PaLM"
+        },
+        "development": {
+            "Jupyter": "Jupyter",
+            "Anaconda": "Anaconda",
+            "Docker Compose": "Docker Compose",
+            "Git LFS": "Git LFS",
+            "CUDA": "CUDA",
+            "Ray": "Ray",
+            "Weights & Biases": "Weights & Biases",
+            "DVC": "DVC"
+        }
     },
     "footer": {
         "copyright": "© 2025 사토 타쿠야 - 모든 권리 보유"

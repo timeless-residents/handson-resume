@@ -19,9 +19,9 @@ import { WakaTimeChart } from "./components/WakaTimeChart";
 function App() {
   const [isDarkMode, setIsDarkMode] = useState(() => {
     // ローカルストレージから設定を読み込む
-    const savedMode = localStorage.getItem('darkMode');
+    const savedMode = localStorage.getItem("darkMode");
     if (savedMode !== null) {
-      return savedMode === 'true';
+      return savedMode === "true";
     }
     // 保存された設定がなければシステムの設定を使用
     return window.matchMedia("(prefers-color-scheme: dark)").matches;
@@ -31,7 +31,7 @@ function App() {
 
   useEffect(() => {
     // Track initial page view
-    import('./lib/ga4').then(({ pageview }) => {
+    import("./lib/ga4").then(({ pageview }) => {
       pageview(window.location.pathname);
     });
   }, []);
@@ -41,7 +41,7 @@ function App() {
     const mediaQuery = window.matchMedia("(prefers-color-scheme: dark)");
     const handleChange = (e) => {
       // システムの設定変更は、保存された設定がない場合のみ反映
-      if (localStorage.getItem('darkMode') === null) {
+      if (localStorage.getItem("darkMode") === null) {
         setIsDarkMode(e.matches);
       }
     };
@@ -61,13 +61,13 @@ function App() {
   const toggleTheme = () => {
     const newMode = !isDarkMode;
     setIsDarkMode(newMode);
-    localStorage.setItem('darkMode', newMode.toString());
+    localStorage.setItem("darkMode", newMode.toString());
     // Track theme change event
-    import('./lib/ga4').then(({ event }) => {
+    import("./lib/ga4").then(({ event }) => {
       event({
-        action: 'change_theme',
-        category: 'Settings',
-        label: newMode ? 'dark' : 'light'
+        action: "change_theme",
+        category: "Settings",
+        label: newMode ? "dark" : "light",
       });
     });
   };
@@ -76,11 +76,11 @@ function App() {
     i18n.changeLanguage(lng);
     setCurrentLanguage(lng);
     // Track language change event
-    import('./lib/ga4').then(({ event }) => {
+    import("./lib/ga4").then(({ event }) => {
       event({
-        action: 'change_language',
-        category: 'Settings',
-        label: lng
+        action: "change_language",
+        category: "Settings",
+        label: lng,
       });
     });
   };
@@ -186,6 +186,20 @@ function App() {
 
             <div className="mt-6">
               <SkillCategory
+                title={t("skillCategories.ai")}
+                skills={skills.ai}
+              />
+            </div>
+
+            <div className="mt-6">
+              <SkillCategory
+                title={t("skillCategories.development")}
+                skills={skills.development}
+              />
+            </div>
+
+            <div className="mt-6">
+              <SkillCategory
                 title={t("skillCategories.devops")}
                 skills={skills.devops}
               />
@@ -194,7 +208,10 @@ function App() {
             <div className="mt-6">
               <SkillCategory
                 title={t("skillCategories.focus")}
-                skills={skills.focus.map((key) => ({ name: t(key.name), icon: "" }))}
+                skills={skills.focus.map((key) => ({
+                  name: t(key.name),
+                  icon: "",
+                }))}
               />
             </div>
           </div>
@@ -215,7 +232,7 @@ function App() {
             ))}
           </div>
         </Section>
-        
+
         <Section title={t("sections.codingActivity")}>
           <div className="bg-white dark:bg-gray-800 shadow-md rounded-lg p-6">
             <WakaTimeChart isDarkMode={isDarkMode} />
@@ -255,7 +272,6 @@ function App() {
             <MediumFeed />
           </div>
         </Section>
-
       </div>
 
       <footer className="text-center py-4 mt-8 border-t border-gray-300 dark:border-gray-700">

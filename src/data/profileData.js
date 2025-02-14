@@ -1,24 +1,58 @@
-import { 
-  DiJavascript1, DiPython, DiJava, DiGo,
-  DiMongodb, DiMysql, DiPostgresql, DiRedis,
-  DiGit, DiTerminal
-} from 'react-icons/di';
 import {
-  FaReact, FaVuejs, FaAngular, FaNode, FaAws,
-  FaDocker, FaCode, FaMicrosoft, FaGoogle,
-  FaCodeBranch, FaDatabase
-} from 'react-icons/fa';
+  DiJavascript1,
+  DiPython,
+  DiJava,
+  DiGo,
+  DiMongodb,
+  DiMysql,
+  DiPostgresql,
+  DiRedis,
+  DiGit,
+  DiTerminal,
+  DiRuby,
+} from "react-icons/di";
 import {
-  SiTypescript, SiNextdotjs, SiSvelte, 
-  SiExpress, SiDjango, SiSpring, SiGraphql,
-  SiKubernetes, SiPostman, SiTerraform
-} from 'react-icons/si';
+  FaReact,
+  FaVuejs,
+  FaAngular,
+  FaNode,
+  FaAws,
+  FaDocker,
+  FaCode,
+  FaMicrosoft,
+  FaGoogle,
+  FaCodeBranch,
+  FaDatabase,
+} from "react-icons/fa";
+import {
+  SiTypescript,
+  SiNextdotjs,
+  SiSvelte,
+  SiExpress,
+  SiDjango,
+  SiSpring,
+  SiGraphql,
+  SiKubernetes,
+  SiPostman,
+  SiTerraform,
+  SiUnity,
+  SiBlender,
+  SiExpo,
+  SiIonic,
+  SiWebgl,
+  SiRubyonrails,
+  SiWebassembly,
+  SiMlflow,
+  SiTauri,
+  SiArgo,
+} from "react-icons/si";
+import { TbBrandCSharp, TbBrandReactNative } from "react-icons/tb";
 
 export const profileData = {
   personalInfo: {
     name: "personalInfo.name",
     title: "personalInfo.title",
-    image: "/assets/profile_1.jpeg"
+    image: "/assets/profile_1.jpeg",
   },
   introduction: "introduction",
   skills: {
@@ -28,17 +62,26 @@ export const profileData = {
       { name: "Python", icon: DiPython },
       { name: "Go", icon: DiGo },
       { name: "Java", icon: DiJava },
+      { name: "C#", icon: TbBrandCSharp },
       { name: "C++", icon: FaCode },
+      { name: "Rust", icon: FaCode },
+      { name: "Ruby", icon: DiRuby },
+      { name: "WebAssembly", icon: SiWebassembly },
+      { name: "Solidity", icon: FaCode },
       { name: "COBOL", icon: FaCode },
       { name: "Bash", icon: DiTerminal },
-      { name: "Lua", icon: FaCode }
+      { name: "Lua", icon: FaCode },
     ],
     frontend: [
       { name: "React", icon: FaReact },
+      { name: "React Native", icon: TbBrandReactNative },
+      { name: "Expo", icon: SiExpo },
+      { name: "Ionic", icon: SiIonic },
+      { name: "WebGL", icon: SiWebgl },
       { name: "Vue.js", icon: FaVuejs },
       { name: "Next.js", icon: SiNextdotjs },
       { name: "Svelte", icon: SiSvelte },
-      { name: "Angular", icon: FaAngular }
+      { name: "Angular", icon: FaAngular },
     ],
     backend: [
       { name: "Node.js", icon: FaNode },
@@ -46,7 +89,9 @@ export const profileData = {
       { name: "Django", icon: SiDjango },
       { name: "FastAPI", icon: FaCodeBranch },
       { name: "Spring Boot", icon: SiSpring },
-      { name: "GraphQL", icon: SiGraphql }
+      { name: "Ruby on Rails", icon: SiRubyonrails },
+      { name: "GraphQL", icon: SiGraphql },
+      { name: "Hono", icon: FaCodeBranch },
     ],
     database: [
       { name: "PostgreSQL", icon: DiPostgresql },
@@ -54,7 +99,42 @@ export const profileData = {
       { name: "MongoDB", icon: DiMongodb },
       { name: "Redis", icon: DiRedis },
       { name: "Cassandra", icon: FaDatabase },
-      { name: "ElasticSearch", icon: FaDatabase }
+      { name: "ElasticSearch", icon: FaDatabase },
+      { name: "Milvus", icon: FaDatabase },
+    ],
+    ai: [
+      { name: "LangChain", icon: FaCode },
+      { name: "MLflow", icon: SiMlflow },
+      { name: "Hugging Face", icon: FaCode },
+      { name: "Ollama", icon: FaCode },
+      { name: "OpenAI", icon: FaCode },
+      { name: "Claude", icon: FaCode },
+      { name: "Gemini", icon: FaCode },
+      { name: "ElevenLabs", icon: FaCode },
+      { name: "Perplexity", icon: FaCode },
+      { name: "PyTorch", icon: FaCode },
+      { name: "TensorFlow", icon: FaCode },
+      { name: "scikit-learn", icon: FaCode },
+      { name: "Stable Diffusion", icon: FaCode },
+      { name: "Whisper", icon: FaCode },
+      { name: "DALL-E", icon: FaCode },
+      { name: "GPT-4", icon: FaCode },
+      { name: "PaLM", icon: FaCode },
+    ],
+    development: [
+      { name: "Unity", icon: SiUnity },
+      { name: "Blender", icon: SiBlender },
+      { name: "VS Code", icon: FaCode },
+      { name: "Postman", icon: SiPostman },
+      { name: "Tauri", icon: SiTauri },
+      { name: "Jupyter", icon: FaCode },
+      { name: "Anaconda", icon: FaCode },
+      { name: "Docker Compose", icon: FaCode },
+      { name: "Git LFS", icon: FaCode },
+      { name: "CUDA", icon: FaCode },
+      { name: "Ray", icon: FaCode },
+      { name: "Weights & Biases", icon: FaCode },
+      { name: "DVC", icon: FaCode },
     ],
     devops: [
       { name: "Docker", icon: FaDocker },
@@ -63,19 +143,18 @@ export const profileData = {
       { name: "Azure", icon: FaMicrosoft },
       { name: "GCP", icon: FaGoogle },
       { name: "Git", icon: DiGit },
-      { name: "VS Code", icon: FaCode },
-      { name: "Postman", icon: SiPostman },
       { name: "Jenkins", icon: FaCodeBranch },
-      { name: "Terraform", icon: SiTerraform }
+      { name: "Argo", icon: SiArgo },
+      { name: "Terraform", icon: SiTerraform },
     ],
     focus: [
-      { name: "skills.focus.item1", icon: ""},
-      { name: "skills.focus.item2", icon: ""},
-      { name: "skills.focus.item3", icon: ""},
-      { name: "skills.focus.item4", icon: ""},
-      { name: "skills.focus.item5", icon: ""},
-      { name: "skills.focus.item6", icon: ""},
-    ]
+      { name: "skills.focus.item1", icon: "" },
+      { name: "skills.focus.item2", icon: "" },
+      { name: "skills.focus.item3", icon: "" },
+      { name: "skills.focus.item4", icon: "" },
+      { name: "skills.focus.item5", icon: "" },
+      { name: "skills.focus.item6", icon: "" },
+    ],
   },
   experience: [
     {
@@ -84,46 +163,46 @@ export const profileData = {
         {
           title: "experience.positions1.title1",
           period: "experience.positions1.period1",
-          description: "experience.positions1.description1"
+          description: "experience.positions1.description1",
         },
         {
           title: "experience.positions1.title2",
           period: "experience.positions1.period2",
-          description: "experience.positions1.description2"
-        }
-      ]
-    }
+          description: "experience.positions1.description2",
+        },
+      ],
+    },
   ],
   projects: [
     {
       title: "projects.item1.title",
-      description: "projects.item1.description"
+      description: "projects.item1.description",
     },
     {
       title: "projects.item2.title",
-      description: "projects.item2.description"
-    }
+      description: "projects.item2.description",
+    },
   ],
   socialContributions: [
     {
       title: "socialContributions.item1.title",
       period: "socialContributions.item1.period",
-      description: "socialContributions.item1.description"
+      description: "socialContributions.item1.description",
     },
     {
       title: "socialContributions.item2.title",
       period: "socialContributions.item2.period",
-      description: "socialContributions.item2.description"
+      description: "socialContributions.item2.description",
     },
     {
       title: "socialContributions.item3.title",
       period: "socialContributions.item3.period",
-      description: "socialContributions.item3.description"
+      description: "socialContributions.item3.description",
     },
     {
       title: "socialContributions.item4.title",
       period: "socialContributions.item4.period",
-      description: "socialContributions.item4.description"
-    }
-  ]
+      description: "socialContributions.item4.description",
+    },
+  ],
 };
