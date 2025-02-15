@@ -35,7 +35,7 @@
     "title": "実践Web3開発ガイド2025",
     "url": "https://zenn.dev/idev/articles/article-20250214-052117",
     "published": "Fri, 14 Feb 2025 20:20:05 GMT",
-    "content": "\n Web3開発実践ガイド2025\nはじめに\nWeb3は、ブロックチェーン、分散型台帳、スマートコントラクトなどの技術に基づく分散型ウェブの新しいパラダイムです。この革新的なアーキテクチャによって、より安全で透明性が高く、ユーザー所有型のインターネットが実現します。Web3開発の分野は急速に進化しており、開発者は新しい可能性を探求するためのツールと技術を備えています。\nこのガイドでは、Web3開発の包括的な概要を提供し、実践的な例を使用して段階的な説明を行います。ブロックチェ���ンの基礎から、スマートコントラクトの開発、分散型アプリケーション（dApp）の構築に至るまで、Web3開発の旅路...",
+    "content": "\n Web3開発実践ガイド2025\nはじめに\nWeb3は、ブロックチェーン、分散型台帳、スマートコントラクトなどの技術に基づく分散型ウェブの新しいパラダイムです。この革新的なアーキテクチャによって、より安全で透明性が高く、ユーザー所有型のインターネットが実現します。Web3開発の分野は急速に進化しており、開発者は新しい可能性を探求するためのツールと技術を備えています。\nこのガイドでは、Web3開発の包括的な概要を提供し、実践的な例を使用して段階的な説明を行います。ブロックチェーンの基礎から、スマートコントラクトの開発、分散型アプリケーション（dApp）の構築に至るまで、Web3開発の旅路...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--kjXphpmK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25AE%259F%25E8%25B7%25B5Web3%25E9%2596%258B%25E7%2599%25BA%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%25892025%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -48,7 +48,7 @@
     "title": "実践Web3開発 2025 - 最新アーキテクチャとスマートコントラクトセキュリティ、スケーラビリティ",
     "url": "https://zenn.dev/idev/books/book-20250214-052147",
     "published": "Thu, 13 Feb 2025 20:47:22 GMT",
-    "content": "本書は、Web3の基礎から応用までを網羅し、2025年のトレンドを見据えた実践的な開発スキルを習得することを目的としています。スマー���コントラクトのセキュリティ、スケーラビリティ、最新アーキテクチャ、DeFi、NFT、DAOなど、幅広い技術領域を扱います。読者は、Web3開発に必要な知識とスキルを習得し、実際にアプリケーションを開発できるようになります。",
+    "content": "本書は、Web3の基礎から応用までを網羅し、2025年のトレンドを見据えた実践的な開発スキルを習得することを目的としています。スマートコントラクトのセキュリティ、スケーラビリティ、最新アーキテクチャ、DeFi、NFT、DAOなど、幅広い技術領域を扱います。読者は、Web3開発に必要な知識とスキルを習得し、実際にアプリケーションを開発できるようになります。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--EpbweVJx--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9lMDJmODk5ZWE1LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -61,7 +61,7 @@
     "title": "実践 Solidity スマートコントラクト開発：堅牢なdApp構築とセキュリティ対策",
     "url": "https://zenn.dev/idev/books/book-20250213-123557",
     "published": "Thu, 13 Feb 2025 03:59:29 GMT",
-    "content": "本書は、Solidityを用いたスマートコントラクト開発の基礎から応用までを網羅し、堅牢なdApp構築を目指します。Ethereumの概要から開発環境構築、Solidityの文法、セキュリティ対策、Gas Optimizationなどの技術要素を解説。ERC-20トークンやDeFiプロトコル、NFT、DAOなどの応用事例���通じて、実践的なスキルを習得できます。",
+    "content": "本書は、Solidityを用いたスマートコントラクト開発の基礎から応用までを網羅し、堅牢なdApp構築を目指します。Ethereumの概要から開発環境構築、Solidityの文法、セキュリティ対策、Gas Optimizationなどの技術要素を解説。ERC-20トークンやDeFiプロトコル、NFT、DAOなどの応用事例を通じて、実践的なスキルを習得できます。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--CqzJda4h--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9hOGM2MGEzMmJiLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -87,7 +87,7 @@
     "title": "実践的Solidity開発ガイド",
     "url": "https://zenn.dev/idev/articles/article-20250213-123534",
     "published": "Thu, 13 Feb 2025 03:59:28 GMT",
-    "content": "\n 実践的 Solidity 開発ガイド\n\n 概要\nSolidity は、イーサリアム仮想マシン (EVM) 上でスマートコントラクトを書くために設計されたプログラミング言語です。本ガイドでは、Solidity 開発の基礎から高度な概念まで、段階的に説明します。\n\n Solidity 言語の基本\n\n 変���とデータ型\nSolidity には、以下の基本データ型があります。\n\n\nuint: 符号なし整数\n\nint: 符号付き整数\n\nbool: ブール値\n\naddress: イーサリアムアドレス\n\nstring: 文字列\n\n変数は次のように宣言します。\nuint myUint = 10;\n\n ...",
+    "content": "\n 実践的 Solidity 開発ガイド\n\n 概要\nSolidity は、イーサリアム仮想マシン (EVM) 上でスマートコントラクトを書くために設計されたプログラミング言語です。本ガイドでは、Solidity 開発の基礎から高度な概念まで、段階的に説明します。\n\n Solidity 言語の基本\n\n 変数とデータ型\nSolidity には、以下の基本データ型があります。\n\n\nuint: 符号なし整数\n\nint: 符号付き整数\n\nbool: ブール値\n\naddress: イーサリアムアドレス\n\nstring: 文字列\n\n変数は次のように宣言します。\nuint myUint = 10;\n\n ...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--jHPICeN9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25AE%259F%25E8%25B7%25B5%25E7%259A%2584Solidity%25E9%2596%258B%25E7%2599%25BA%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -100,7 +100,7 @@
     "title": "Apple Silicon 実践開発環境構築：パフォーマンス最大化とトラブルシューティング",
     "url": "https://zenn.dev/idev/books/book20250211-2987",
     "published": "Tue, 11 Feb 2025 22:09:49 GMT",
-    "content": "本書は、Apple Silicon 実践開発環境構築：パフォー���ンス最大化とトラブルシューティングに関する実践的なガイドです。\n各章では具体的な実装例とベストプラクティスを交えながら、\n段階的に理解を深められる構成となっています。",
+    "content": "本書は、Apple Silicon 実践開発環境構築：パフォーマンス最大化とトラブルシューティングに関する実践的なガイドです。\n各章では具体的な実装例とベストプラクティスを交えながら、\n段階的に理解を深められる構成となっています。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--xEPQnzco--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9jODNjODkxMDYzLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -139,7 +139,7 @@
     "title": "TypeScriptのベストプラクティス2024",
     "url": "https://zenn.dev/idev/articles/article20250209-5042",
     "published": "Sun, 09 Feb 2025 22:05:08 GMT",
-    "content": "\n TypeScriptのベストプラクティス2024\n\n 1. 型付けの徹底\nTypeScriptの最大の強みは型付けです。すべての変数、関数、オブジェクトに明示的な型を指定することで、開発中のエラーを大幅に削減できます。以下に例を示します。\n// 型注釈のないコード\nlet name = 'John';\nname = 123; // エラーが発生しません\n\n// 型注釈のあるコード\nlet name: string = 'John';\nname = 123; // 型エラーが発生します\n\n 2. インターフェースと型エイリアスの活用\nインターフェースと型エイリアスは、コードの再利用性と...",
+    "content": "\n TypeScriptのベストプラクティス2024\n\n 1. 型付けの徹底\nTypeScriptの最大の強みは型付けです。すべての変数、関数、オブジェクトに明示的な型を指定することで、開発中のエラーを大幅に削��できます。以下に例を示します。\n// 型注釈のないコード\nlet name = 'John';\nname = 123; // エラーが発生しません\n\n// 型注釈のあるコード\nlet name: string = 'John';\nname = 123; // 型エラーが発生します\n\n 2. インターフェースと型エイリアスの活用\nインターフェースと型エイリアスは、コードの再利用性と...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--OZE-v6-w--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:TypeScript%25E3%2581%25AE%25E3%2583%2599%25E3%2582%25B9%25E3%2583%2588%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25AF%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25B92024%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -149,7 +149,7 @@
         "isPermaLink": "true"
       }
     },
-    "title": "実践 次世代テクノロジースタック構築術 - スケ��ラブルでインテリジェントなアプリケーション開発",
+    "title": "実践 次世代テクノロジースタック構築術 - スケー���ブルでインテリジェントなアプリケーション開発",
     "url": "https://zenn.dev/idev/books/book20250209-2282",
     "published": "Sun, 09 Feb 2025 21:06:42 GMT",
     "content": "本書は、実践 次世代テクノロジースタック構築術 - スケーラブルでインテリジェントなアプリケーション開発に関する実践的なガイドです。\n各章では具体的な実装例とベストプラクティスを交えながら、\n段階的に理解を深められる構成となっています。",
@@ -165,7 +165,7 @@
     "title": "Webpack 実践入門：モダンフロントエンド開発のベストプラクティス",
     "url": "https://zenn.dev/idev/books/book20250208-bb2d",
     "published": "Sat, 08 Feb 2025 21:20:31 GMT",
-    "content": "本書は、Webpack 実践入門：モダンフロントエンド開発のベストプラクティスに関する実践的なガイドです。\n各章では具体的な実装例とベストプラクティスを交えながら、\n段階的に理解を深められる構成となっています。",
+    "content": "本書は、Webpack 実践入門：モダンフロントエンド開発のベストプラクティスに関する実践的なガイドです。\n各章では具体的な実装例とベストプラクティスを交えながら、\n段階的に理��を深められる構成となっています。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--X-pq0b-k--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9jNzRlZWYwMTljLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -256,7 +256,7 @@
     "title": "実践！Hammerspoon & AppleScript連携によるmacOS自動化レシピ集",
     "url": "https://zenn.dev/idev/books/book20250130-56a8",
     "published": "Thu, 30 Jan 2025 04:25:33 GMT",
-    "content": "本書は、実践！Hammerspoon & AppleScript連携によるmacOS自動化レシピ集に関する実践的なガイドです。\n各章では具体的な実装例とベストプラクティスを交えな���ら、\n段階的に理解を深められる構成となっています。",
+    "content": "本書は、実践！Hammerspoon & AppleScript連携によるmacOS自動化レシピ集に関する実践的なガイドです。\n各章では具体的な実装例とベストプラクティスを交えながら、\n段階的に理解を深められる構成となっています。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--GRS9y_m9--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci85YzRmMDhlNjNiLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   }
 ]
