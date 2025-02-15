@@ -139,7 +139,7 @@
     "title": "TypeScriptのベストプラクティス2024",
     "url": "https://zenn.dev/idev/articles/article20250209-5042",
     "published": "Sun, 09 Feb 2025 22:05:08 GMT",
-    "content": "\n TypeScriptのベストプラクティス2024\n\n 1. 型付けの徹底\nTypeScriptの最大の強みは型付けです。すべての変数、関数、オブジェクトに明示的な型を指定することで、開発中のエラーを大幅に削��できます。以下に例を示します。\n// 型注釈のないコード\nlet name = 'John';\nname = 123; // エラーが発生しません\n\n// 型注釈のあるコード\nlet name: string = 'John';\nname = 123; // 型エラーが発生します\n\n 2. インターフェースと型エイリアスの活用\nインターフェースと型エイリアスは、コードの再利用性と...",
+    "content": "\n TypeScriptのベストプラクティス2024\n\n 1. 型付けの徹底\nTypeScriptの最大の強みは型付けです。すべての変数、関数、オブジェクトに明示的な型を指定することで、開発中のエラーを大幅に削減で��ます。以下に例を示します。\n// 型注釈のないコード\nlet name = 'John';\nname = 123; // エラーが発生しません\n\n// 型注釈のあるコード\nlet name: string = 'John';\nname = 123; // 型エラーが発生します\n\n 2. インターフェースと型エイリアスの活用\nインターフェースと型エイリアスは、コードの再利用性と...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--OZE-v6-w--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:TypeScript%25E3%2581%25AE%25E3%2583%2599%25E3%2582%25B9%25E3%2583%2588%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25AF%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25B92024%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -149,7 +149,7 @@
         "isPermaLink": "true"
       }
     },
-    "title": "実践 次世代テクノロジースタック構築術 - スケー���ブルでインテリジェントなアプリケーション開発",
+    "title": "実践 次世代テクノロジースタック構築術 - スケーラブ���でインテリジェントなアプリケーション開発",
     "url": "https://zenn.dev/idev/books/book20250209-2282",
     "published": "Sun, 09 Feb 2025 21:06:42 GMT",
     "content": "本書は、実践 次世代テクノロジースタック構築術 - スケーラブルでインテリジェントなアプリケーション開発に関する実践的なガイドです。\n各章では具体的な実装例とベストプラクティスを交えながら、\n段階的に理解を深められる構成となっています。",
@@ -165,7 +165,7 @@
     "title": "Webpack 実践入門：モダンフロントエンド開発のベストプラクティス",
     "url": "https://zenn.dev/idev/books/book20250208-bb2d",
     "published": "Sat, 08 Feb 2025 21:20:31 GMT",
-    "content": "本書は、Webpack 実践入門：モダンフロントエンド開発のベストプラクティスに関する実践的なガイドです。\n各章では具体的な実装例とベストプラクティスを交えながら、\n段階的に理��を深められる構成となっています。",
+    "content": "本書は、Webpack 実践入門：モダンフロントエンド開発のベストプラクティスに関する実践的なガイドです。\n各章では具体的な実装例とベストプラクティスを交えながら、\n段階的に理解を��められる構成となっています。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--X-pq0b-k--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9jNzRlZWYwMTljLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
