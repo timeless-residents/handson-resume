@@ -35,7 +35,7 @@
     "title": "API統合 実践ハンドブック 2025：現場で即使える最強ガイド",
     "url": "https://zenn.dev/idev/books/book-20250216-024006",
     "published": "Sat, 15 Feb 2025 17:57:37 GMT",
-    "content": "本書は、API統合に関する基礎知識から最新トレンド、具体的な開発・運用手法までを網羅した実践的なガイドです。REST、GraphQL、gRPCなどのAPI設計、APIゲートウェイの導入、セキュリティ対策、CI/CDパイプライン構築など、API統合に必要な幅広い技術と���念を解説します。現場で即使える知識とノウハウを提供し、API統合プロジェクトの成功を支援します。",
+    "content": "本書は、API統合に関する基礎知識から最新トレンド、具体的な開発・運用手法までを網羅した実践的なガイドです。REST、GraphQL、gRPCなどのAPI設計、APIゲートウェイの導入、セキュリティ対策、CI/CDパイプライン構築など、API統合に必要な幅広い技術と概念を解説します。現場で即使える知識とノウハウを提供し、API統合プロジェクトの成功を支援します。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--z6Xx56fW--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9lYzMxMjQyNGZhLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -48,7 +48,7 @@
     "title": "実践 API統合ガイド2025",
     "url": "https://zenn.dev/idev/articles/article-20250216-023934",
     "published": "Sat, 15 Feb 2025 17:57:35 GMT",
-    "content": "実践 API 統合ガイド 2025\n\n はじめに\nAPI 統合は、現代のデジタル環境において不可欠な要素となっています。連携されたシステムは、効率の向上、データの一元化、顧客エクスペリエンスの向上をもたらします。このガイドでは、2025 年までに API 統合を効果的に実装するための包括的なロードマップを提供します。\n\n API 統合の基礎\n\n API とは何ですか?\nAPI（Application Programming Interface）は、2 つ以上のソフトウェアアプリケーション間でデータを交換す��ためのプロトコルです。API を使用すると、異なるシステムを接続して、機能を拡張し...",
+    "content": "実践 API 統合ガイド 2025\n\n はじめに\nAPI 統合は、現代のデジタル環境において不可欠な要素となっています。連携されたシステムは、効率の向上、データの一元化、顧客エクスペリエンスの向上をもたらします。このガイドでは、2025 年までに API 統合を効果的に実装するための包括的なロードマップを提供します。\n\n API 統合の基礎\n\n API とは何ですか?\nAPI（Application Programming Interface）は、2 つ以上のソフトウェアアプリケーション間でデータを交換す���ためのプロトコルです。API を使用すると、異なるシステムを接続して、機能を拡張し...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--s0I_iA_M--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25AE%259F%25E8%25B7%25B5%2520API%25E7%25B5%25B1%25E5%2590%2588%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%25892025%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -61,7 +61,7 @@
     "title": "Hono & Stream Deck: 実践的モダン開発ワークフロー構築術",
     "url": "https://zenn.dev/idev/books/book-20250215-041516",
     "published": "Fri, 14 Feb 2025 20:20:07 GMT",
-    "content": "本書は、高速WebフレームワークHonoとElgato Stream Deckを連携させ、モダンな開発ワークフローを構築する方法を解説します。CLI操作や環境構築の自動化、API開発、デプロイメント、プラグイン開発まで、実践���な内容を網羅。読者は、HonoとStream Deckを活用し、開発効率を大幅に向上させ、より創造的な開発に集中できるようになります。",
+    "content": "本書は、高速WebフレームワークHonoとElgato Stream Deckを連携させ、モダンな開発ワークフローを構築する方法を解説します。CLI操作や環境構築の自動化、API開発、デプロイメント、プラグイン開発まで、実践的な内容を網羅。読者は、HonoとStream Deckを活用し、開発効率を大幅に向上させ、より創造的な開発に集中できるようになります。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--t0jSW3ss--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8wNTc2MWEyMjAxLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -74,7 +74,7 @@
     "title": "HonoとStream Deckで実現する開発効率化ガイド",
     "url": "https://zenn.dev/idev/articles/article-20250215-041440",
     "published": "Fri, 14 Feb 2025 20:20:06 GMT",
-    "content": "HonoとStream Deckで実現する開発効率化ガイド\nはじめに\nWeb開発の効率化は常に開発者の関心事です。この記事では、最新のWebフレームワークHonoと、カスタマイズ可能なマクロパッドであるStream Deckを組み合わせることで、開発ワークフローをどのように改善できるかを解説します。\nHonoの特徴と利点\nHonoは、以下の特徴を持つモダンなWebフレームワークです：\n\n超軽量（約10KB）で高速なパフォーマンス\nEdge環境（Cloudflare Workers, Deno Deploy等）での動作に最適化\nTypeScriptファーストな開発体験\nWeb標準に基づいた...",
+    "content": "HonoとStream Deckで実現する開発効率化ガイド\nはじめに\nWeb開発の効率化は常に開発者の関心事です。この記事では、最新のWebフレームワークHonoと、カスタマイズ可能なマクロパッドであるStream Deckを組み合わせることで、開発ワークフローをどのように改善できるかを解説します。\nHonoの特徴と利点\nHonoは、以下の特徴を持つモダンなWebフレームワークです：\n\n超軽量（約10KB）で高速なパフォーマンス\nEdge��境（Cloudflare Workers, Deno Deploy等）での動作に最適化\nTypeScriptファーストな開発体験\nWeb標準に基づいた...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--Ngzl722c--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Hono%25E3%2581%25A8Stream%2520Deck%25E3%2581%25A7%25E5%25AE%259F%25E7%258F%25BE%25E3%2581%2599%25E3%2582%258B%25E9%2596%258B%25E7%2599%25BA%25E5%258A%25B9%25E7%258E%2587%25E5%258C%2596%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -87,7 +87,7 @@
     "title": "実践Web3開発ガイド2025",
     "url": "https://zenn.dev/idev/articles/article-20250214-052117",
     "published": "Fri, 14 Feb 2025 20:20:05 GMT",
-    "content": "\n Web3開発実践ガイド2025\nはじめに\nWeb3は、ブロックチェーン、分散型台帳、スマートコントラクトなどの技術に基づく分散型ウェブの新しい���ラダイムです。この革新的なアーキテクチャによって、より安全で透明性が高く、ユーザー所有型のインターネットが実現します。Web3開発の分野は急速に進化しており、開発者は新しい可能性を探求するためのツールと技術を備えています。\nこのガイドでは、Web3開発の包括的な概要を提供し、実践的な例を使用して段階的な説明を行います。ブロックチェーンの基礎から、スマートコントラクトの開発、分散型アプリケーション（dApp）の構築に至るまで、Web3開発の旅路...",
+    "content": "\n Web3開発実践ガイド2025\nはじめに\nWeb3は、ブロックチェーン、分散型台帳、スマートコントラクトなどの技術に基づく分散型ウェブの新しいパラダイムです。この革新的なアーキテクチャによって、より安全で透明性が高く、ユーザー所有型のインターネットが実現します。Web3開発の分野は急速に進化しており、開発者は新しい可能性を探求するためのツールと技術を備えています。\nこのガイドでは、Web3開発の包括的な概要を提供し、実践的な例を使用して段階的な説明を行います。ブロックチェーンの基礎から、スマートコントラクトの開発、分散型アプリケーション（dApp）の構築に至るまで、Web3開発の旅路...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--kjXphpmK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25AE%259F%25E8%25B7%25B5Web3%25E9%2596%258B%25E7%2599%25BA%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%25892025%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -126,7 +126,7 @@
     "title": "実践的Solidity開発ガイド",
     "url": "https://zenn.dev/idev/articles/article-20250213-123534",
     "published": "Thu, 13 Feb 2025 03:59:28 GMT",
-    "content": "\n 実践的 Solidity 開発ガイド\n\n 概要\nSolidity は、イーサリアム仮想マシン (EVM) 上でスマートコントラクトを書くために設計されたプログラミング言語���す。本ガイドでは、Solidity 開発の基礎から高度な概念まで、段階的に説明します。\n\n Solidity 言語の基本\n\n 変数とデータ型\nSolidity には、以下の基本データ型があります。\n\n\nuint: 符号なし整数\n\nint: 符号付き整数\n\nbool: ブール値\n\naddress: イーサリアムアドレス\n\nstring: 文字列\n\n変数は次のように宣言します。\nuint myUint = 10;\n\n ...",
+    "content": "\n 実践的 Solidity 開発ガイド\n\n 概要\nSolidity は、イーサリアム仮想マシン (EVM) 上でスマートコントラクトを書くために設計されたプログラミング言語です。本ガイドでは、Solidity 開発の基礎から高度な概念まで、段階的に説明します。\n\n Solidity 言語の基本\n\n 変数とデータ型\nSolidity には、以下の基本データ型があります。\n\n\nuint: 符号なし整数\n\nint: 符号付き整数\n\nbool: ブール値\n\naddress: イーサリアムアドレス\n\nstring: 文字列\n\n変数は次のように宣言します。\nuint myUint = 10;\n\n ...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--jHPICeN9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25AE%259F%25E8%25B7%25B5%25E7%259A%2584Solidity%25E9%2596%258B%25E7%2599%25BA%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -162,7 +162,7 @@
         "isPermaLink": "true"
       }
     },
-    "title": "アプリケーションパフォーマンス最適化 実践入門 - 問題解��から高速化まで",
+    "title": "アプリケーションパフォーマンス最適化 実践入門 - 問題解���から高速化まで",
     "url": "https://zenn.dev/idev/books/book20250210-ae28",
     "published": "Mon, 10 Feb 2025 20:07:07 GMT",
     "content": "本書は、アプリケーションパフォーマンス最適化 実践入門 - 問題解決から高速化までに関する実践的なガイドです。\n各章では具体的な実装例とベストプラクティスを交えながら、\n段階的に理解を深められる構成となっています。",
@@ -178,7 +178,7 @@
     "title": "アプリケーションパフォーマンス最適化入門",
     "url": "https://zenn.dev/idev/articles/article20250210-f21c",
     "published": "Mon, 10 Feb 2025 20:07:03 GMT",
-    "content": "\n アプリケーションパフォーマンス最適化入門: 同期処理の最適化\n\n 序論\nアプリケーションのパフォーマンスは、ユーザー エクスペリエンスとビジネスの成功に大きく影響します。アプリケーションのパフォーマンスを向上させる方法の 1 つとして、同期処理を最適化することがあります。このチュートリアルでは、同期処理を最適化するための手法を段階的に説明します。\n\n 同期処理とは?\n同期処理は、一連のタスクやアクションが順番に実行される処理モデルです。タスク A が完了するまで、タスク B は開始しません。\n\n 同期処理最適化手法\n1. マルチスレッドの使用\nマルチスレッドを使用すると、複数のタスク...",
+    "content": "\n アプリケーションパフォーマンス最適化入門: 同期処理の最適化\n\n 序論\nアプリケーションのパフォーマンスは、ユーザー エクスペリエンスとビジネスの成功に大きく影響します。アプリケーションのパフォーマンスを向上させる方法の 1 つとして、同期処理を��適化することがあります。このチュートリアルでは、同期処理を最適化するための手法を段階的に説明します。\n\n 同期処理とは?\n同期処理は、一連のタスクやアクションが順番に実行される処理モデルです。タスク A が完了するまで、タスク B は開始しません。\n\n 同期処理最適化手法\n1. マルチスレッドの使用\nマルチスレッドを使用すると、複数のタスク...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--CMlUnVSU--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2583%2591%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25B9%25E6%259C%2580%25E9%2581%25A9%25E5%258C%2596%25E5%2585%25A5%25E9%2596%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -230,7 +230,7 @@
     "title": "実践 システム信頼性エンジニアリング (SRE): 安定運用と継続的改善",
     "url": "https://zenn.dev/idev/books/book20250207-0286",
     "published": "Fri, 07 Feb 2025 18:59:03 GMT",
-    "content": "本書は、実践 システム信頼性エンジニアリング (SRE): 安定運用と継続的改善に関する実践的なガイドです。\n各章では具体的な実装例とベストプラクティスを交えながら、\n段階的に理解を深められる構成となっています。",
+    "content": "本書は、実践 システム信頼性エンジニアリング (SRE): 安定運用と継続的改善に関する実践的なガイドです。\n各章��は具体的な実装例とベストプラクティスを交えながら、\n段階的に理解を深められる構成となっています。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--3be9d7Dq--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8yZjhlNTdlOGQwLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {

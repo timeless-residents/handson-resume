@@ -22,7 +22,7 @@
   },
   {
     "id": "tag:qiita.com,2005:PublicArticle/1985969",
-    "title": "AWS Translate Lambdaで実現スケーラブルで低コストな多言語対応API構築実践ガイド",
+    "title": "AWS Translate Lambdaで実現スケーラ���ルで低コストな多言語対応API構築実践ガイド",
     "url": "https://qiita.com/timeless-residents/items/bd48db89a8a0f85f75f5",
     "published": "2025-02-13T10:36:08+09:00",
     "content": "AWS Translate &amp; Lambdaで実現！スケーラブルで低コストな多言語対応API構築実践ガイド - キャッシュ戦略とエラーハンドリングの最適化\nはじめに: 多言語対応の課題とAWS Tr…"
