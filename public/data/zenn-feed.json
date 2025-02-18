@@ -1,6 +1,19 @@
 [
   {
     "id": {
+      "_": "https://zenn.dev/idev/books/book-20250218-031650",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "実践STO構築ガイド：Foundry & Solidityによる次世代セキュリティトークン開発",
+    "url": "https://zenn.dev/idev/books/book-20250218-031650",
+    "published": "Mon, 17 Feb 2025 18:44:07 GMT",
+    "content": "本書は、FoundryとSolidityを用いて、セキュリティトークン（STO）の構築に必要な知識と技術を体系的に解説します。ERC-20ベースの基本的な実装から、拡張機能、規制対応、フロントエンド開発、セキュリティ監査、DeFiとの統合まで、STO開発の全工程を網羅的にカバーします。読者は、本書を通して、次世代のセキュリティトークンを自ら開発し、運用するための実践的なスキルを習得できます。",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--MMIV9Rpl--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8yNjI0NDA4N2FkLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
+  },
+  {
+    "id": {
       "_": "https://zenn.dev/idev/books/book-20250217-234034",
       "$": {
         "isPermaLink": "true"
@@ -48,7 +61,7 @@
     "title": "実践的なトレーディングツール活用ガイド",
     "url": "https://zenn.dev/idev/articles/article-20250217-083854",
     "published": "Sun, 16 Feb 2025 23:57:15 GMT",
-    "content": "\n 実践的なトレーディングツール活用ガイド\n\n 序論\n金融市場での成功は、強力なツールとそれらを効果的に活用するスキルにかかっています。このガイドでは、トレーダーが市場をナビゲートし、情報に基づいた意思決定を行うために役立つ実践的なトレーディングツールを調査します。テクニカル分析からファンダメンタル分析まで、幅広いツールをカバーし、段階的な説明を提供します。\n\n 技術的分析ツール\nチャートパターン：\n\nトレンドラ���ン：価格が時間とともに形成する傾向を示す線。\nサポートとレジスタンス：価格がバウンドまたは反発するレベル。\n移動平均：過去の価格データを平滑化して傾向を示す線。\n\nインジケータ...",
+    "content": "\n 実践的なトレーディングツール活用ガイド\n\n 序論\n金融市場での成功は、強力なツールとそれらを効果的に活用するスキルにかかっています。このガイドでは、トレーダーが市場をナビゲートし、情報に基づいた意思決定を行うために役立つ実践的なトレーディングツールを調査します。テクニカル分析からファンダメンタル分析まで、幅広いツールをカバーし、段階的な説明を提供します。\n\n 技術的分析ツール\nチャートパターン：\n\nトレンドライン：価格が時間とともに形成する傾向を示す線。\nサポートとレジスタンス：価格がバウンドまたは反発す��レベル。\n移動平均：過去の価格データを平滑化して傾向を示す線。\n\nインジケータ...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--N0LBEJty--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25AE%259F%25E8%25B7%25B5%25E7%259A%2584%25E3%2581%25AA%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E6%25B4%25BB%25E7%2594%25A8%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -61,7 +74,7 @@
     "title": "API統合 実践ハンドブック 2025：現場で即使える最強ガイド",
     "url": "https://zenn.dev/idev/books/book-20250216-024006",
     "published": "Sat, 15 Feb 2025 17:57:37 GMT",
-    "content": "本書は、API統合に関する基礎知識から最新トレンド、具体的な開発・運用手法までを網羅した実践的なガイドです。REST、GraphQL、gRPCなどのAPI設計、APIゲートウェイの導入、セキュリティ対策、CI/CDパイプライン構築など、API統合に必要な幅広い技術と概念を解説します。現場で即使える知識とノウハウを提供し、API統合プロジェクトの成功を支援します。",
+    "content": "本書は、API統合に関する基礎知識から最新トレンド、具体的な開発・運用手��までを網羅した実践的なガイドです。REST、GraphQL、gRPCなどのAPI設計、APIゲートウェイの導入、セキュリティ対策、CI/CDパイプライン構築など、API統合に必要な幅広い技術と概念を解説します。現場で即使える知識とノウハウを提供し、API統合プロジェクトの成功を支援します。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--z6Xx56fW--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9lYzMxMjQyNGZhLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -74,7 +87,7 @@
     "title": "実践 API統合ガイド2025",
     "url": "https://zenn.dev/idev/articles/article-20250216-023934",
     "published": "Sat, 15 Feb 2025 17:57:35 GMT",
-    "content": "実践 API 統合ガイド 2025\n\n はじめに\nAPI 統合は、現代のデジタル環境において不可欠な要素となっています。連携されたシステムは、効率の向上、データの一元化、顧客エクスペリエンスの向上をもたらします。このガイドでは、2025 年までに API 統合を効果的に実装するための包括的なロードマップを提供します。\n\n API 統合の基礎\n\n API とは何ですか?\nAPI（Application Programming Interface）は、2 つ以上のソフトウェアアプリケーション間でデータを交換するためのプロトコルです。API を使用すると、異なるシステムを接続して、機能を拡張し...",
+    "content": "実践 API 統合ガイド 2025\n\n はじめに\nAPI 統合は、現代のデジタル環境において不可欠な要素となっています。連携されたシステムは、効率の向上、データの一元化、顧客エクスペリエンスの向上をもたらします。このガイドでは、2025 年までに API 統合を効果的に実装するための���括的なロードマップを提供します。\n\n API 統合の基礎\n\n API とは何ですか?\nAPI（Application Programming Interface）は、2 つ以上のソフトウェアアプリケーション間でデータを交換するためのプロトコルです。API を使用すると、異なるシステムを接続して、機能を拡張し...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--s0I_iA_M--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25AE%259F%25E8%25B7%25B5%2520API%25E7%25B5%25B1%25E5%2590%2588%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%25892025%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -100,7 +113,7 @@
     "title": "HonoとStream Deckで実現する開発効率化ガイド",
     "url": "https://zenn.dev/idev/articles/article-20250215-041440",
     "published": "Fri, 14 Feb 2025 20:20:06 GMT",
-    "content": "HonoとStream Deckで実現する開発効率化ガイド\nはじめに\nWeb開発の効率化は常に開発者の関心事です。この記事では、最新のWebフレームワークHonoと、カスタマイズ可能なマクロパッドであるStream Deckを組み合わせることで、開発ワークフローをどのように改善できるかを解説します。\nHonoの特徴と利点\nHonoは、以下の特徴を持つモダンなWebフレームワークです：\n\n超軽量（約10KB）で高速なパフォーマンス\nEdge環境（Cloudflare Workers, Deno Deploy等）での動作に最適化\nTypeScriptファーストな開発体験\nWeb標準に基づいた...",
+    "content": "HonoとStream Deckで実現する開発効率化ガイド\nはじめに\nWeb開発の効率化は常に開発者の関心事です。この記事では、最新のWebフレームワークHonoと、カスタマイズ可能なマクロパッドであるStream Deckを組み合わせることで、開発ワーク��ローをどのように改善できるかを解説します。\nHonoの特徴と利点\nHonoは、以下の特徴を持つモダンなWebフレームワークです：\n\n超軽量（約10KB）で高速なパフォーマンス\nEdge環境（Cloudflare Workers, Deno Deploy等）での動作に最適化\nTypeScriptファーストな開発体験\nWeb標準に基づいた...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--Ngzl722c--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Hono%25E3%2581%25A8Stream%2520Deck%25E3%2581%25A7%25E5%25AE%259F%25E7%258F%25BE%25E3%2581%2599%25E3%2582%258B%25E9%2596%258B%25E7%2599%25BA%25E5%258A%25B9%25E7%258E%2587%25E5%258C%2596%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -110,7 +123,7 @@
         "isPermaLink": "true"
       }
     },
-    "title": "実践Web3開発ガイド2025",
+    "title": "実践Web3開発��イド2025",
     "url": "https://zenn.dev/idev/articles/article-20250214-052117",
     "published": "Fri, 14 Feb 2025 20:20:05 GMT",
     "content": "\n Web3開発実践ガイド2025\nはじめに\nWeb3は、ブロックチェーン、分散型台帳、スマートコントラクトなどの技術に基づく分散型ウェブの新しいパラダイムです。この革新的なアーキテクチャによって、より安全で透明性が高く、ユーザー所有型のインターネットが実現します。Web3開発の分野は急速に進化しており、開発者は新しい可能性を探求するためのツールと技術を備えています。\nこのガイドでは、Web3開発の包括的な概要を提供し、実践的な例を使用して段階的な説明を行います。ブロックチェーンの基礎から、スマートコントラクトの開発、分散型アプリケーション（dApp）の構築に至るまで、Web3開発の旅路...",
@@ -144,19 +157,6 @@
   },
   {
     "id": {
-      "_": "https://zenn.dev/idev/articles/article-20250213-123534",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "実践的Solidity開発ガイド",
-    "url": "https://zenn.dev/idev/articles/article-20250213-123534",
-    "published": "Thu, 13 Feb 2025 03:59:28 GMT",
-    "content": "\n 実践的 Solidity 開発ガイド\n\n 概要\nSolidity は、イーサリアム仮想マシン (EVM) 上でスマートコントラクトを書くために設計されたプログラミング言語です。本ガイドでは、Solidity 開発の基礎から高度な概念まで、段階的に説明します。\n\n Solidity 言語の基本\n\n 変数とデータ型\nSolidity には、以下の基本データ型があります。\n\n\nuint: 符号なし整数\n\nint: 符号付き整数\n\nbool: ブール値\n\naddress: イーサリアムアドレス\n\nstring: 文字列\n\n変数は次のように宣言します。\nuint myUint = 10;\n\n ...",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--jHPICeN9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25AE%259F%25E8%25B7%25B5%25E7%259A%2584Solidity%25E9%2596%258B%25E7%2599%25BA%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-  },
-  {
-    "id": {
       "_": "https://zenn.dev/idev/articles/article20250211-b5ab",
       "$": {
         "isPermaLink": "true"
@@ -167,6 +167,19 @@
     "published": "Thu, 13 Feb 2025 03:59:28 GMT",
     "content": "\n Apple Silicon時代の開発環境構築完全ガイド\n\n 序盤\nApple siliconへの移行により、Mac開発者のワークフローに大きな変化が生じました。本ガイドでは、新しいアーキテクチャに対応した最適な開発環境を構築するための段階的な手順を紹介します。\n\n 要件\nハードウェア:\n\nApple silicon搭載Mac（M1以降）\n\nソフトウェア:\n\nmacOS Ventura以降\nXcode 14以降\n\n\n 手順\n1. Xcodeのインストールと設定:\n\nApp StoreからXcodeをインストールします。\nXcodeを起動し、以下の設定を行います。\n\n\nコマンドラインツー...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--9wULMPX0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Apple%2520Silicon%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AE%25E9%2596%258B%25E7%2599%25BA%25E7%2592%25B0%25E5%25A2%2583%25E6%25A7%258B%25E7%25AF%2589%25E5%25AE%258C%25E5%2585%25A8%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/articles/article-20250213-123534",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "実践的Solidity開発ガイド",
+    "url": "https://zenn.dev/idev/articles/article-20250213-123534",
+    "published": "Thu, 13 Feb 2025 03:59:28 GMT",
+    "content": "\n 実践的 Solidity 開発ガイド\n\n 概要\nSolidity は、イーサリアム仮想マシン (EVM) 上でスマートコントラクトを書くために設計されたプログラミング言語です。本ガイドでは、Solidity 開発の基礎から高度な概念まで、段階的に説明します。\n\n Solidity 言語の基本\n\n 変数とデータ型\nSolidity には、以下の基本データ型があります。\n\n\nuint: 符号なし整数\n\nint: 符号付き整数\n\nbool: ブール値\n\naddress: イーサリアムアドレス\n\nstring: 文字列\n\n変数は次のように宣言します。\nuint myUint = 10;\n\n ...",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--jHPICeN9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25AE%259F%25E8%25B7%25B5%25E7%259A%2584Solidity%25E9%2596%258B%25E7%2599%25BA%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
     "id": {
@@ -245,18 +258,5 @@
     "published": "Sat, 08 Feb 2025 21:20:31 GMT",
     "content": "本書は、Webpack 実践入門：モダンフロントエンド開発のベストプラクティスに関する実践的なガイドです。\n各章では具体的な実装例とベストプラクティスを交えながら、\n段階的に理解を深められる構成となっています。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--X-pq0b-k--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9jNzRlZWYwMTljLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/books/book20250207-0286",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "実践 システム信頼性エンジニアリング (SRE): 安定運用と継続的改善",
-    "url": "https://zenn.dev/idev/books/book20250207-0286",
-    "published": "Fri, 07 Feb 2025 18:59:03 GMT",
-    "content": "本書は、実践 システム信頼性エンジニアリング (SRE): 安定運用と継続的改善に関する実践的なガイドです。\n各章では具体的な実装例とベストプラクティスを交えながら、\n段階的に理解を深められる構成となっています。",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--3be9d7Dq--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8yZjhlNTdlOGQwLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   }
 ]
