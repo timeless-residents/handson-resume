@@ -1,5 +1,12 @@
 [
   {
+    "id": "tag:qiita.com,2005:PublicArticle/1989522",
+    "title": "AWS見積もり完全ガイド アーキテクチャ設計からコスト最適化まで2025年版",
+    "url": "https://qiita.com/timeless-residents/items/270461a8f53b9d5d6b45",
+    "published": "2025-02-21T06:34:05+09:00",
+    "content": "AWS見積もり完全ガイド: アーキテクチャ設計からコスト最適化まで【2025年版】 - 予測精度を高める裏技と未来への展望\n1. はじめに: なぜAWS見積もりは重要なのか？ (ビジネスインパクトと…"
+  },
+  {
     "id": "tag:qiita.com,2005:PublicArticle/1988960",
     "title": "GitHubリポジトリ自動生成：TerraformとGitHub Actionsで始めるInfrastructure as Code",
     "url": "https://qiita.com/timeless-residents/items/63c2c77b00770633e529",
@@ -19,12 +26,5 @@
     "url": "https://qiita.com/timeless-residents/items/e68e4ff0dc8218507000",
     "published": "2025-02-16T03:04:45+09:00",
     "content": "AWS EKS on Fargate 実践ガイド: コスト最適化と運用効率化を実現するマイクロサービス構築\nEKS on Fargate は、Kubernetes の運用を大幅に簡素化し、サーバーレ…"
-  },
-  {
-    "id": "tag:qiita.com,2005:PublicArticle/1986763",
-    "title": "MacでSpring Boot PostgreSQL開発：Docker活用爆速環境構築と実戦デプロイ",
-    "url": "https://qiita.com/timeless-residents/items/46e7de980237048a1b9b",
-    "published": "2025-02-15T05:30:11+09:00",
-    "content": "Docker活用、爆速環境構築と実戦デプロイ - 限界突破編\nはじめに：なぜDockerを使うべきか？(メリットとデメリット) - 開発環境の「再現性」と「分離」を極める\nDockerを使う理由は、…"
   }
 ]
