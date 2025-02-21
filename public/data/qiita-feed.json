@@ -22,7 +22,7 @@
   },
   {
     "id": "tag:qiita.com,2005:PublicArticle/1987198",
-    "title": "AWS EKS on Fargate ���践ガイド コスト最適化と運用効率化を実現するマイクロサービス構築",
+    "title": "AWS EKS on Fargate 実践ガイド コスト最適化と運用効率化を実現するマイクロサービス構築",
     "url": "https://qiita.com/timeless-residents/items/e68e4ff0dc8218507000",
     "published": "2025-02-16T03:04:45+09:00",
     "content": "AWS EKS on Fargate 実践ガイド: コスト最適化と運用効率化を実現するマイクロサービス構築\nEKS on Fargate は、Kubernetes の運用を大幅に簡素化し、サーバーレ…"
