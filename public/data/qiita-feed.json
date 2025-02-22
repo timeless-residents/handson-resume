@@ -1,5 +1,12 @@
 [
   {
+    "id": "tag:qiita.com,2005:PublicArticle/1989987",
+    "title": "AWSコスト最適化実践ガイド：見積もりから運用まで無駄をなくす",
+    "url": "https://qiita.com/timeless-residents/items/824ae289195efea49c7a",
+    "published": "2025-02-22T06:29:31+09:00",
+    "content": "AWSコスト最適化実践ガイド：見積もりから運用まで無駄をなくす - 開発者が本当に知りたいコスト削減の秘訣\nAWSのコスト最適化は、単なる節約術ではありません。それは、開発スピードを落とさずに、より…"
+  },
+  {
     "id": "tag:qiita.com,2005:PublicArticle/1989522",
     "title": "AWS見積もり完全ガイド アーキテクチャ設計からコスト最適化まで2025年版",
     "url": "https://qiita.com/timeless-residents/items/270461a8f53b9d5d6b45",
@@ -19,12 +26,5 @@
     "url": "https://qiita.com/timeless-residents/items/4517471fd960b92c45fb",
     "published": "2025-02-18T00:18:18+09:00",
     "content": "現場で使える！ブロックチェーン開発実践ガイド：セキュリティと効率性を両立したスマートコントラクト構築\nブロックチェーン開発は、セキュリティと効率性のバランスが非常に重要です。この記事では、現場で直面…"
-  },
-  {
-    "id": "tag:qiita.com,2005:PublicArticle/1987198",
-    "title": "AWS EKS on Fargate 実践ガイド コスト最適化と運用効率化を実現するマイクロサービス構築",
-    "url": "https://qiita.com/timeless-residents/items/e68e4ff0dc8218507000",
-    "published": "2025-02-16T03:04:45+09:00",
-    "content": "AWS EKS on Fargate 実践ガイド: コスト最適化と運用効率化を実現するマイクロサービス構築\nEKS on Fargate は、Kubernetes の運用を大幅に簡素化し、サーバーレ…"
   }
 ]
