@@ -1,6 +1,32 @@
 [
   {
     "id": {
+      "_": "https://zenn.dev/idev/books/book-20250223-053845",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "子供向け地図学習アプリ開発：React Nativeと地図データ活用実践ガイド",
+    "url": "https://zenn.dev/idev/books/book-20250223-053845",
+    "published": "Sat, 22 Feb 2025 20:56:33 GMT",
+    "content": "この技術書は、React Nativeを用いて子供向けの地図学習アプリを開発するための実践的なガイドです。地図ライブラリの選定からUI/UXデザイン、パフォーマンスチューニング、Firebaseを用いたデータ管理まで、開発に必要な幅広い知識を網羅しています。読者は、インタラクティブな地図アプリをゼロから構築し、デプロイ、収益化、そして継続的な改善を行うためのスキルを習得できます。",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--UGg4HFOx--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8yOWVkNGU5YzA4LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/articles/article-20250223-053820",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "子供向け地図学習アプリの設計と実装",
+    "url": "https://zenn.dev/idev/articles/article-20250223-053820",
+    "published": "Sat, 22 Feb 2025 20:56:28 GMT",
+    "content": "\n 子供向け地図学習アプリの設計と実装\n\n はじめに\n地理の学習を楽しく魅力的なものにすることは、子供たちの地理的理解を深める上で不可欠です。子供向け地図学習アプリは、このニーズに応える上で貴重なツールとなり、インタラクティブな地図、楽しいゲーム、クイズを通じて子供の地理的知識を向上させます。この記事では、子供向けの地図学習アプリの包括的な設計と実装手順を段階的に説明します。\n\n 要件分析\n地図学習アプリを設計する前に、ターゲットユーザーのニーズと要件を明確に理解することが重要です。\n\n\n対象年齢：アプリはどの年齢層の子供を対象にしていますか？\n\n学習目標：どのような地理的概念を子供に教...",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--8ZoTyFFr--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25AD%2590%25E4%25BE%259B%25E5%2590%2591%25E3%2581%2591%25E5%259C%25B0%25E5%259B%25B3%25E5%25AD%25A6%25E7%25BF%2592%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2581%25AE%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%25A8%25E5%25AE%259F%25E8%25A3%2585%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+  },
+  {
+    "id": {
       "_": "https://zenn.dev/idev/books/book-20250222-055217",
       "$": {
         "isPermaLink": "true"
@@ -9,7 +35,7 @@
     "title": "実践！テキスト処理エキスパート養成講座：sed、AI連携からPrompt Engineeringまで",
     "url": "https://zenn.dev/idev/books/book-20250222-055217",
     "published": "Fri, 21 Feb 2025 21:26:09 GMT",
-    "content": "本書は、テキスト処理の基礎から応用、最新のAI連携までを網羅的に解説します。UNIXコマンド、正規表現、プログラミング言語、自然言語処理、Prompt Engineeringといった幅広い技術を習得し、ログ解析、設定ファイル管理、テキストマイニングなどの実践的な課題解決能力を養います。読者は、テキストデータを効果的に処理し、AI技術を活用して新たな価値を創造できるようになります。",
+    "content": "本書は、テキスト処理の基礎から応用、最新のAI連携までを網羅的に解説します。UNIXコマンド、正規表現、プログラミング言語、自然言語処理、Prompt Engineeringといった幅広い技術を習得し、ログ解析、設定ファイル管理、��キストマイニングなどの実践的な課題解決能力を養います。読者は、テキストデータを効果的に処理し、AI技術を活用して新たな価値を創造できるようになります。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--ppkYcTaS--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9iMmI4N2VkM2YxLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -35,7 +61,7 @@
     "title": "実践 Sitecore XM Cloud ハンズオン：Next.js & SXA によるモダンなWebサイト構築",
     "url": "https://zenn.dev/idev/books/book-20250221-053659",
     "published": "Thu, 20 Feb 2025 21:27:03 GMT",
-    "content": "本書は、Sitecore XM CloudとNext.js、SXAを用いてモダンなウェブサイトを構築するための実践的なハンズオン形式の技術書で���。開発環境構築からコンポーネント開発、データ取得、多言語対応、パフォーマンスチューニング、セキュリティ対策まで、XM Cloudを活用したウェブサイト開発に必要な知識とスキルを網羅的に解説します。読者は本書を通じて、ヘッドレスCMSによる柔軟でスケーラブルなウェブサイト構築を習得し、最新のウェブ開発技術を効果的に活用できるようになります。",
+    "content": "本書は、Sitecore XM CloudとNext.js、SXAを用いてモダンなウェブサイトを構築するための実践的なハンズオン形式の技術書です。開発環境構築からコンポーネント開発、データ取得、多言語対応、パフォーマンスチューニング、セキュリティ対策まで、XM Cloudを活用したウェブサイト開発に必要な知識とスキルを網羅的に解説します。読者は本書を通じて、ヘッドレスCMSによる柔軟でスケーラブルなウェブサイト構築を習得し、最新のウェブ開発技術を効果的に活用できるようになります。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--fKFzOjQl--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8yZGMxYmViZmNlLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -48,7 +74,7 @@
     "title": "実践！プログレッシブAIエージェント開発：LlamaIndex、BabyAGI、そして評価まで",
     "url": "https://zenn.dev/idev/books/book-20250220-054649",
     "published": "Wed, 19 Feb 2025 21:16:55 GMT",
-    "content": "本書は、LlamaIndexとBabyAGIを中心に、プログレッシブなAIエージェント開発の実践的な手法を解説します。データインデックスの構築か���自律的タスク処理、エージェント間の連携、評価までを網羅し、Langchain AgentsやLLMの活用、セキュリティ・倫理まで踏み込みます。読者は、AIエージェント開発に必要な知識とスキルを習得し、実用的なアプリケーションを構築できるようになります。",
+    "content": "本書は、LlamaIndexとBabyAGIを中心に、プログレッシブなAIエージェント開発の実践的な手法を解説します。データインデックスの構築から自律的タスク処理、エージェント間の連携、評価までを網羅し、Langchain AgentsやLLMの活用、セキュリティ・倫理まで踏み込みます。読者は、AIエージェント開発に必要な知識とスキルを習得し、実用的なアプリケーションを構築できるようになります。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--OTeWnWnV--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci82YmI1MWNiNGJkLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -61,7 +87,7 @@
     "title": "AI生成プラットフォーム（SaaS型）爆速構築！1人で1日で作る、スケール可能なAIサービス立ち上げ完全ガイド",
     "url": "https://zenn.dev/idev/books/book-20250219-105249",
     "published": "Wed, 19 Feb 2025 21:16:41 GMT",
-    "content": "本書は、SaaS型AI生成プラットフォームを1日で構築するための実践的なガイドです。NoCode/LowCodeツールを活用し、AIモデル連携、UI/UX設計、バックエンド実装、デプロイメントまでを網羅。読者は、MVPとして機能するAI���ービスを迅速に立ち上げ、スケールさせるための知識とスキルを得られます。",
+    "content": "本書は、SaaS型AI生成プラットフォームを1日で構築するための実践的なガイドです。NoCode/LowCodeツールを活用し、AIモデル連携、UI/UX設計、バックエンド実装、デプロイメントまでを網羅。読者は、MVPとして機能するAIサービスを迅速に立ち上げ、スケールさせるための知識とスキルを得られます。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--0mfIZrWy--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9hODY1ZGE1ZTllLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -74,7 +100,7 @@
     "title": "プログレッシブAIツール統合ガイド",
     "url": "https://zenn.dev/idev/articles/article-20250220-054629",
     "published": "Wed, 19 Feb 2025 21:16:37 GMT",
-    "content": "\n プログレッシブAIツール統合ガイド\n\n はじめに\n人工知能（AI）は急速に医療分野を変革しており、医療従事者に新たなツールを提供して患者の治療を改善しています。しかし、急速に進化するAIランドスケープの中で、医療機関は適切なAIツールを選択し、効果的に統合する方法に直面しています。\nこの包括的なガイドでは、プログレッシブAIツールを医療環境に効果的に統合するための段階的なアプローチを提示します。このガイドに従うことで、医療機関���AIのメリットを最大限に活用し、患者のケアを最適化できます。\n\n ステップ 1: AI戦略の策定\n\n\n目標の特定: AI統合の目的を明確にする。患者の転帰を改...",
+    "content": "\n プログレッシブAIツール統合ガイド\n\n はじめに\n人工知能（AI）は急速に医療分野を変革しており、医療従事者に新たなツールを提供して患者の治療を改善しています。しかし、急速に進化するAIランドスケープの中で、医療機関は適切なAIツールを選択し、効果的に統合する方法に直面しています。\nこの包括的なガイドでは、プログレッシブAIツールを医療環境に効果的に統合するための段階的なアプローチを提示します。このガイドに従うことで、医療機関はAIのメリットを最大限に活用し、患者のケアを最適化できます。\n\n ステップ 1: AI戦略の策定\n\n\n目標の特定: AI統合の目的を明確にする。患者の転帰を改...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--L1z4CkwD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B7%25E3%2583%2596AI%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E7%25B5%25B1%25E5%2590%2588%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -87,7 +113,7 @@
     "title": "AI生成プラットフォーム（SaaS型）を1人で1日で立ち上げる",
     "url": "https://zenn.dev/idev/articles/article-20250219-105218",
     "published": "Wed, 19 Feb 2025 21:16:36 GMT",
-    "content": "\n AI生成プラットフォーム（SaaS型）を1人で1日で立ち��げる\n\n 序章\n近年、人工知能（AI）は急速に進歩しており、さまざまな産業に革命を起こしています。AI生成プラットフォームの登場により、コンテンツの生成が自動化され、時間とリソースが大幅に削減されました。このチュートリアルでは、たった1人で1日であなただけのAI生成SaaSプラットフォームを立ち上げるための包括的なガイドを紹介します。\nこのガイドでは、技術的な正確性と実践的な例を重視し、段階的な説明を通じて各ステップを詳しく説明します。コーディングの初心者にも理解できるようにコードサンプルも豊富に掲載しています。このプラットフ...",
+    "content": "\n AI生成プラットフォーム（SaaS型）を1人で1日で立ち上げる\n\n 序章\n近年、人工知能（AI）は急速に進歩しており、さまざまな産業に革命を起こしています。AI生成プラットフォームの登場により、コンテンツの生成が自動化され、時間とリソースが大幅に削減されました。このチュートリアルでは、たった1人で1日であなただけのAI生成SaaSプラットフォームを立ち上げるための包括的なガイドを紹介します。\nこのガイドでは、技術的な正確性と実践的な例を重視し、段階的な説明を通じて各ステップを詳しく説明します。コーディングの初心者にも理解できるようにコードサンプルも豊富に掲載しています。このプラットフ...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--FGyINryp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E7%2594%259F%25E6%2588%2590%25E3%2583%2597%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2588%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%25A0%25EF%25BC%2588SaaS%25E5%259E%258B%25EF%25BC%2589%25E3%2582%25921%25E4%25BA%25BA%25E3%2581%25A71%25E6%2597%25A5%25E3%2581%25A7%25E7%25AB%258B%25E3%2581%25A1%25E4%25B8%258A%25E3%2581%2592%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -100,7 +126,7 @@
     "title": "実践STO構築ガイド：Foundry & Solidityによる次世代セキュリティトークン開発",
     "url": "https://zenn.dev/idev/books/book-20250218-031650",
     "published": "Mon, 17 Feb 2025 18:44:07 GMT",
-    "content": "本書は、FoundryとSolidityを用いて、セキュリティトークン（STO）の構築に必要な知識と技術を体系的に解説します。ERC-20ベースの基本的な実装から、拡張機能、規制対応、フロントエンド開発、セキュリティ監査、DeFiとの統合まで、STO開発の全工程を網羅的にカバーします。読者は、本書を通して、次世代のセキュリティトークンを自ら開発し、運用するための実践的なスキルを習得できます。",
+    "content": "本書は、FoundryとSolidityを用いて、セキュリティトークン（STO）の構築に必要な知識と技術を体系的に解説します。ERC-20ベースの基本的な実装から、拡張機能、規制対応、フロントエンド開発、セキュリティ監査、DeFiとの統合��で、STO開発の全工程を網羅的にカバーします。読者は、本書を通して、次世代のセキュリティトークンを自ら開発し、運用するための実践的なスキルを習得できます。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--MMIV9Rpl--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8yNjI0NDA4N2FkLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -113,7 +139,7 @@
     "title": "実践 ドライブレコーダー映像解析：AIで事故を未然に防ぐ",
     "url": "https://zenn.dev/idev/books/book-20250217-234034",
     "published": "Mon, 17 Feb 2025 15:03:27 GMT",
-    "content": "本書は、ドライブレコーダー映像解析の基礎から応用までを網羅し、事故防止や安全運転支援などの実現を目指します。Python、OpenCV、TensorFlow/PyTorchなどの技術を用いて、物体検出、セマンティックセグメンテーション、異常行動検出などを実装します。読者は、AIを活用したドライブレコーダー映像解析の知識と実践的なスキルを習得し、交通安全分野での課題解決に貢献できます。",
+    "content": "本書は、ドライブレコーダー映像解析の基礎から応用までを網羅し、事故防止や安全運転支援などの実現を目指します。Python、OpenCV、TensorFlow/PyTorchなどの技術を用いて、物体検出、セマンティックセグメンテーション、異常行動検出などを実装します。読者は、AIを活用したドライブレコーダー映像解析の知識と実践的なスキルを習得し、交通安全���野での課題解決に貢献できます。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--rsn-78Ox--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9jOTQ3OTdhYTczLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -152,7 +178,7 @@
     "title": "実践的なトレーディングツール活用ガイド",
     "url": "https://zenn.dev/idev/articles/article-20250217-083854",
     "published": "Sun, 16 Feb 2025 23:57:15 GMT",
-    "content": "\n 実践的なトレーディングツール活用ガイド\n\n 序論\n金融市場での成功は、強力なツールとそれらを効果的に活用するスキルにかかっています。このガイドでは、トレーダーが市場をナビゲートし、情報に基づいた意思決定を行うために役立つ実践的なトレーディングツールを調査します。テクニカル分析からファンダメンタル分析まで、幅広いツールをカバーし、段階的な説明を提供します。\n\n 技術的分析ツール\nチャートパターン：\n\nトレンドライン：価格が時間とともに形成する傾向を示す線。\nサポートとレジスタンス：価格がバウンドまたは反発するレベル。\n移動平均：過去の価格データを平滑化して傾向を示す線。\n\nインジケータ...",
+    "content": "\n 実践的なトレーディングツール活用ガイド\n\n 序論\n金融市場での成功は、強力なツールとそれらを効果的に活用するスキルにかかっています。このガイドでは、トレーダーが市場をナビゲートし、情報に基づいた意思決定を行うために��立つ実践的なトレーディングツールを調査します。テクニカル分析からファンダメンタル分析まで、幅広いツールをカバーし、段階的な説明を提供します。\n\n 技術的分析ツール\nチャートパターン：\n\nトレンドライン：価格が時間とともに形成する傾向を示す線。\nサポートとレジスタンス：価格がバウンドまたは反発するレベル。\n移動平均：過去の価格データを平滑化して傾向を示す線。\n\nインジケータ...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--N0LBEJty--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25AE%259F%25E8%25B7%25B5%25E7%259A%2584%25E3%2581%25AA%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E6%25B4%25BB%25E7%2594%25A8%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -178,7 +204,7 @@
     "title": "実践 API統合ガイド2025",
     "url": "https://zenn.dev/idev/articles/article-20250216-023934",
     "published": "Sat, 15 Feb 2025 17:57:35 GMT",
-    "content": "実践 API 統合ガイド 2025\n\n はじめに\nAPI 統合は、現代のデジタル環境において不可欠な要素となっています。連携されたシステムは、効率の向上、データの一元化、顧客エクスペリエンスの向上をもたらします。このガイドでは、2025 年までに API 統合を効果的に実装するため��包括的なロードマップを提供します。\n\n API 統合の基礎\n\n API とは何ですか?\nAPI（Application Programming Interface）は、2 つ以上のソフトウェアアプリケーション間でデータを交換するためのプロトコルです。API を使用すると、異なるシステムを接続して、機能を拡張し...",
+    "content": "実践 API 統合ガイド 2025\n\n はじめに\nAPI 統合は、現代のデジタル環境において不可欠な要素となっています。連携されたシステムは、効率の向上、データの一元化、顧客エクスペリエンスの向上をもたらします。このガイドでは、2025 年までに API 統合を効果的に実装するための包括的なロードマップを提供します。\n\n API 統合の基礎\n\n API とは何ですか?\nAPI（Application Programming Interface）は、2 つ以上のソフトウェアアプリケーション間でデータを交換するためのプロトコルです。API を使用すると、異なるシステムを接続して、機能を拡張し...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--s0I_iA_M--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25AE%259F%25E8%25B7%25B5%2520API%25E7%25B5%25B1%25E5%2590%2588%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%25892025%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -191,7 +217,7 @@
     "title": "Hono & Stream Deck: 実践的モダン開発ワークフロー構築術",
     "url": "https://zenn.dev/idev/books/book-20250215-041516",
     "published": "Fri, 14 Feb 2025 20:20:07 GMT",
-    "content": "本書は、高速Webフレームワー��HonoとElgato Stream Deckを連携させ、モダンな開発ワークフローを構築する方法を解説します。CLI操作や環境構築の自動化、API開発、デプロイメント、プラグイン開発まで、実践的な内容を網羅。読者は、HonoとStream Deckを活用し、開発効率を大幅に向上させ、より創造的な開発に集中できるようになります。",
+    "content": "本書は、高速WebフレームワークHonoとElgato Stream Deckを連携させ、モダンな開発ワークフローを構築する方法を解説します。CLI操作や環境構築の自動化、API開発、デプロイメント、プラグイン開発まで、実践的な内容を網羅。読者は、HonoとStream Deckを活用し、開発効率を大幅に向上させ、より創造的な開発に集中できるようになります。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--t0jSW3ss--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8wNTc2MWEyMjAxLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -230,33 +256,7 @@
     "title": "実践Web3開発 2025 - 最新アーキテクチャとスマートコントラクトセキュリティ、スケーラビリティ",
     "url": "https://zenn.dev/idev/books/book-20250214-052147",
     "published": "Thu, 13 Feb 2025 20:47:22 GMT",
-    "content": "本書は、Web3の基礎から応用までを網羅し、2025年のトレンドを見据えた実践的な開発スキルを習得することを目的としています。スマートコントラクトのセキュリティ、スケーラビリティ、最新アーキテクチャ、DeFi、NFT、DAOなど、幅広い技術領域を扱います。読者は、Web3開発に必要な知識とスキルを習得し、実際にアプリケーションを開発できるようになります。",
+    "content": "本書は、Web3の基礎から応用までを網羅し、2025年のトレンドを見据えた実践的な開発スキルを習得することを目的としています。スマートコントラクトのセキュリティ、スケーラビリティ、最新アーキテクチャ、DeFi、NFT、DAOなど、幅広い技術領域を扱います。読者は、Web3開発に必要な知識とスキルを習���し、実際にアプリケーションを開発できるようになります。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--EpbweVJx--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9lMDJmODk5ZWE1LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/books/book-20250213-123557",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "実践 Solidity スマートコントラクト開発：堅牢なdApp構築とセキュリティ対策",
-    "url": "https://zenn.dev/idev/books/book-20250213-123557",
-    "published": "Thu, 13 Feb 2025 03:59:29 GMT",
-    "content": "本書は、Solidityを用いたスマートコントラクト開発の基礎から応用までを網羅し、堅牢なdApp構築を目指します。Ethereumの概要から開発環境構築、Solidityの文法、セキュリティ対策、Gas Optimizationなどの技術要素を解説。ERC-20トークンやDeFiプロトコル、NFT、DAOなどの応用事例を通じて、実践的なスキルを習得できます。",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--CqzJda4h--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9hOGM2MGEzMmJiLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/articles/article20250211-b5ab",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "Apple Silicon時代の開発���境構築完全ガイド",
-    "url": "https://zenn.dev/idev/articles/article20250211-b5ab",
-    "published": "Thu, 13 Feb 2025 03:59:28 GMT",
-    "content": "\n Apple Silicon時代の開発環境構築完全ガイド\n\n 序盤\nApple siliconへの移行により、Mac開発者のワークフローに大きな変化が生じました。本ガイドでは、新しいアーキテクチャに対応した最適な開発環境を構築するための段階的な手順を紹介します。\n\n 要件\nハードウェア:\n\nApple silicon搭載Mac（M1以降）\n\nソフトウェア:\n\nmacOS Ventura以降\nXcode 14以降\n\n\n 手順\n1. Xcodeのインストールと設定:\n\nApp StoreからXcodeをインストールします。\nXcodeを起動し、以下の設定を行います。\n\n\nコマンドラインツー...",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--9wULMPX0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Apple%2520Silicon%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AE%25E9%2596%258B%25E7%2599%25BA%25E7%2592%25B0%25E5%25A2%2583%25E6%25A7%258B%25E7%25AF%2589%25E5%25AE%258C%25E5%2585%25A8%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   }
 ]
