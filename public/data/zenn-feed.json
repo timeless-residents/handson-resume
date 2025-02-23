@@ -48,7 +48,7 @@
     "title": "ハンズオンで学ぶテキスト処理マスターガイド：sedからPrompt flowまで",
     "url": "https://zenn.dev/idev/articles/article-20250222-055142",
     "published": "Fri, 21 Feb 2025 21:26:04 GMT",
-    "content": "\n ハンズオンで学ぶテキスト処理マスターガイド：sedからPrompt Flowまで\n\n はじめに\nテキスト処理は現代におけるソフトウェア開発に不可欠なタスクです。メールの解析、ログファイルの処理、ドキュメントの自動化など、さまざまなアプリケーションで使用されています。このガイドでは、初心者から上級者まで、テキスト処理の包���的なマスターガイドを提供します。\n\n 第1段階：基礎を固める\n\n sed：ストリームエディター\nsedは、テキストストリームを操作するための強力なコマンドラインツールです。基本的な構文は次のとおりです。\nsed 'コマンド' 入力ファイル\n例： 行末に「.」を付加する...",
+    "content": "\n ハンズオンで学ぶテキスト処理マスターガイド：sedからPrompt Flowまで\n\n はじめに\nテキスト処理は現代におけるソフトウェア開発に不可欠なタスクです。メールの解析、ログファイルの処理、ドキュメントの自動化など、さまざまなアプリケーションで使用されています。このガイドでは、初心者から上級者まで、テキスト処理の包括的なマ���ターガイドを提供します。\n\n 第1段階：基礎を固める\n\n sed：ストリームエディター\nsedは、テキストストリームを操作するための強力なコマンドラインツールです。基本的な構文は次のとおりです。\nsed 'コマンド' 入力ファイル\n例： 行末に「.」を付加する...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--JCRvW3W8--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%258F%25E3%2583%25B3%25E3%2582%25BA%25E3%2582%25AA%25E3%2583%25B3%25E3%2581%25A7%25E5%25AD%25A6%25E3%2581%25B6%25E3%2583%2586%25E3%2582%25AD%25E3%2582%25B9%25E3%2583%2588%25E5%2587%25A6%25E7%2590%2586%25E3%2583%259E%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%25EF%25BC%259Ased%25E3%2581%258B%25E3%2582%2589Prompt%2520flow%25E3%2581%25BE%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -84,7 +84,7 @@
         "isPermaLink": "true"
       }
     },
-    "title": "AI生成プラットフォ��ム（SaaS型）爆速構築！1人で1日で作る、スケール可能なAIサービス立ち上げ完全ガイド",
+    "title": "AI生成プラットフォーム（SaaS���）爆速構築！1人で1日で作る、スケール可能なAIサービス立ち上げ完全ガイド",
     "url": "https://zenn.dev/idev/books/book-20250219-105249",
     "published": "Wed, 19 Feb 2025 21:16:41 GMT",
     "content": "本書は、SaaS型AI生成プラットフォームを1日で構築するための実践的なガイドです。NoCode/LowCodeツールを活用し、AIモデル連携、UI/UX設計、バックエンド実装、デプロイメントまでを網羅。読者は、MVPとして機能するAIサービスを迅速に立ち上げ、スケールさせるための知識とスキルを得られます。",
@@ -100,7 +100,7 @@
     "title": "プログレッシブAIツール統合ガイド",
     "url": "https://zenn.dev/idev/articles/article-20250220-054629",
     "published": "Wed, 19 Feb 2025 21:16:37 GMT",
-    "content": "\n プログレッシブAIツール統合ガイド\n\n はじめに\n人工知能（AI）は急速に医療分野を変革しており、医療従事者に新たなツールを提供���て患者の治療を改善しています。しかし、急速に進化するAIランドスケープの中で、医療機関は適切なAIツールを選択し、効果的に統合する方法に直面しています。\nこの包括的なガイドでは、プログレッシブAIツールを医療環境に効果的に統合するための段階的なアプローチを提示します。このガイドに従うことで、医療機関はAIのメリットを最大限に活用し、患者のケアを最適化できます。\n\n ステップ 1: AI戦略の策定\n\n\n目標の特定: AI統合の目的を明確にする。患者の転帰を改...",
+    "content": "\n プログレッシブAIツール統合ガイド\n\n はじめに\n人工知能（AI）は急速に医療分野を変革しており、医療従事者に新たなツールを提供して患者���治療を改善しています。しかし、急速に進化するAIランドスケープの中で、医療機関は適切なAIツールを選択し、効果的に統合する方法に直面しています。\nこの包括的なガイドでは、プログレッシブAIツールを医療環境に効果的に統合するための段階的なアプローチを提示します。このガイドに従うことで、医療機関はAIのメリットを最大限に活用し、患者のケアを最適化できます。\n\n ステップ 1: AI戦略の策定\n\n\n目標の特定: AI統合の目的を明確にする。患者の転帰を改...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--L1z4CkwD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B7%25E3%2583%2596AI%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E7%25B5%25B1%25E5%2590%2588%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -139,7 +139,7 @@
     "title": "実践 ドライブレコーダー映像解析：AIで事故を未然に防ぐ",
     "url": "https://zenn.dev/idev/books/book-20250217-234034",
     "published": "Mon, 17 Feb 2025 15:03:27 GMT",
-    "content": "本書は、ドライブレコーダー映像解析の基礎から応用までを網羅し、事故防止や安全運転支援などの実現を目指します。Python、OpenCV、TensorFlow/PyTorchなどの技術を用いて、物体検出、セマンティックセグメンテーション、異常行動検出などを実装します。読者は、AIを活用したドライブレコーダー映像解析の知識と実践的なスキルを習得し、��通安全分野での課題解決に貢献できます。",
+    "content": "本書は、ドライブレコーダー映像解析の基礎から応用までを網羅し、事故防止や安全運転支援などの実現を目指します。Python、OpenCV、TensorFlow/PyTorchなどの技術を用いて、物体検出、セマンティックセグメンテーション、異常行動検出などを実装します。読者は、AIを活用したドライブレコーダー映像解析の知識と実践的なスキルを習得し、交通安全��野での課題解決に貢献できます。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--rsn-78Ox--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9jOTQ3OTdhYTczLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -152,7 +152,7 @@
     "title": "ドライブレコーダー映像のAI解析入門",
     "url": "https://zenn.dev/idev/articles/article-20250217-234011",
     "published": "Mon, 17 Feb 2025 15:03:24 GMT",
-    "content": "\n ドライブレコーダー映像の AI 解析入門\n近年、ドライブレコーダーは事故や事件の記録や証拠収集に欠かせないツールとなっています。しかし、膨大な量の録画映像を手動で確認するのは非常に手間のかかる作業です。そこで、AI（人工知能）の活用が注目されています。\nこの技術記事では、ドライブレコーダー映像の AI 解析の基本について説明します。AI を使用して映像から有益な情報を効率的に抽出する方法を段階的に解説します。\n\n AI 解析の仕組み\nAI 解析は、コンピュータービジョン���機械学習のテクノロジーを活用して、画像や動画から意味のあるパターンを認識します。ドライブレコーダー映像の解析では、...",
+    "content": "\n ドライブレコーダー映像の AI 解析入門\n近年、ドライブレコーダーは事故や事件の記録や証拠収集に欠かせないツールとなっています。しかし、膨大な量の録画映像を手動で確認するのは非常に手間のかかる作業です。そこで、AI（人工知能）の活用が注目されています。\nこの技術記事では、ドライブレコーダー映像の AI 解析の基本について説明します。AI を使用して映像から有益な情報を効率的に抽出する方法を段階的に解説します。\n\n AI 解析の仕組み\nAI 解析は、コンピュータービジョンと機械学���のテクノロジーを活用して、画像や動画から意味のあるパターンを認識します。ドライブレコーダー映像の解析では、...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--04vWbNai--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2589%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2596%25E3%2583%25AC%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E6%2598%25A0%25E5%2583%258F%25E3%2581%25AEAI%25E8%25A7%25A3%25E6%259E%2590%25E5%2585%25A5%25E9%2596%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -165,7 +165,7 @@
     "title": "実践トレード戦略: TradingView, データ分析, 自動売買システム構築",
     "url": "https://zenn.dev/idev/books/book-20250217-083917",
     "published": "Sun, 16 Feb 2025 23:57:17 GMT",
-    "content": "本書は、TradingViewを活用したトレード戦略の構築から、デ���タ分析、自動売買システムの実装までを網羅的に解説します。Pine Scriptによるカスタムインジケーター開発、Pythonによるデータ分析、API連携による自動売買まで、幅広い技術を習得できます。読者は、実践的なスキルを身につけ、自らのトレード戦略を自動化し、効率的な運用を目指すことができます。",
+    "content": "本書は、TradingViewを活用したトレード戦略の構築から、データ分析���自動売買システムの実装までを網羅的に解説します。Pine Scriptによるカスタムインジケーター開発、Pythonによるデータ分析、API連携による自動売買まで、幅広い技術を習得できます。読者は、実践的なスキルを身につけ、自らのトレード戦略を自動化し、効率的な運用を目指すことができます。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--A9y5vm5n--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9lOTY5ODM1YzA1LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -201,7 +201,7 @@
         "isPermaLink": "true"
       }
     },
-    "title": "実践 API統合ガイド2025",
+    "title": "実��� API統合ガイド2025",
     "url": "https://zenn.dev/idev/articles/article-20250216-023934",
     "published": "Sat, 15 Feb 2025 17:57:35 GMT",
     "content": "実践 API 統合ガイド 2025\n\n はじめに\nAPI 統合は、現代のデジタル環境において不可欠な要素となっています。連携されたシステムは、効率の向上、データの一元化、顧客エクスペリエンスの向上をもたらします。このガイドでは、2025 年までに API 統合を効果的に実装するための包括的なロードマップを提供します。\n\n API 統合の基礎\n\n API とは何ですか?\nAPI（Application Programming Interface）は、2 つ以上のソフトウェアアプリケーション間でデータを交換するためのプロトコルです。API を使用すると、異なるシステムを接続して、機能を拡張し...",
@@ -256,7 +256,7 @@
     "title": "実践Web3開発 2025 - 最新アーキテクチャとスマートコントラクトセキュリティ、スケーラビリティ",
     "url": "https://zenn.dev/idev/books/book-20250214-052147",
     "published": "Thu, 13 Feb 2025 20:47:22 GMT",
-    "content": "本書は、Web3の基礎から応用までを網羅し、2025年のトレンドを見据えた実践的な開発スキルを習得することを目的としています。スマートコントラクトのセキュリティ、スケーラビリティ、最新アーキテクチャ、DeFi、NFT、DAOなど、幅広い技術領域を扱います。読者は、Web3開発に必要な知識とス��ルを習得し、実際にアプリケーションを開発できるようになります。",
+    "content": "本書は、Web3の基礎から応用までを網羅し、2025年のトレンドを見据えた実践的な開発スキルを習得することを目的としています。スマートコントラクトのセキュリティ、スケーラビリティ、最新アーキテクチャ、DeFi、NFT、DAOなど、幅広い技術領域を扱います。読者は、Web3開発に必要な知識とスキルを習��し、実際にアプリケーションを開発できるようになります。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--EpbweVJx--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9lMDJmODk5ZWE1LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   }
 ]
