@@ -1,5 +1,12 @@
 [
   {
+    "id": "tag:qiita.com,2005:PublicArticle/1991222",
+    "title": "Vanilla JavaScriptモダン開発：Vite npm で始める実践的プロジェクト構築",
+    "url": "https://qiita.com/timeless-residents/items/ae26b9ee56c961a451ee",
+    "published": "2025-02-24T07:55:30+09:00",
+    "content": "Vanilla JavaScript モダン開発：Vite + npm で始める実践的プロジェクト構築\nモダンなフロントエンド開発において、Vanilla JavaScript (プレーンなJava…"
+  },
+  {
     "id": "tag:qiita.com,2005:PublicArticle/1990542",
     "title": "Vim爆速化実務で役立つ設定術とトラブルシューティング：開発効率を最大化する",
     "url": "https://qiita.com/timeless-residents/items/d25d2b422d2a4dd94fb6",
@@ -19,12 +26,5 @@
     "url": "https://qiita.com/timeless-residents/items/270461a8f53b9d5d6b45",
     "published": "2025-02-21T06:34:05+09:00",
     "content": "AWS見積もり完全ガイド: アーキテクチャ設計からコスト最適化まで【2025年版】 - 予測精度を高める裏技と未来への展望\n1. はじめに: なぜAWS見積もりは重要なのか？ (ビジネスインパクトと…"
-  },
-  {
-    "id": "tag:qiita.com,2005:PublicArticle/1988960",
-    "title": "GitHubリポジトリ自動生成：TerraformとGitHub Actionsで始めるInfrastructure as Code",
-    "url": "https://qiita.com/timeless-residents/items/63c2c77b00770633e529",
-    "published": "2025-02-20T06:21:22+09:00",
-    "content": "GitHubリポジトリ自動生成：TerraformとGitHub Actionsで始めるInfrastructure as Code - ちょっと変わったIaCアプローチ\nはじめに：なぜリポジトリ自…"
   }
 ]
