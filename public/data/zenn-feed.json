@@ -61,7 +61,7 @@
     "title": "実践！テキスト処理エキスパート養成講座：sed、AI連携からPrompt Engineeringまで",
     "url": "https://zenn.dev/idev/books/book-20250222-055217",
     "published": "Fri, 21 Feb 2025 21:26:09 GMT",
-    "content": "本書は、テキスト処理��基礎から応用、最新のAI連携までを網羅的に解説します。UNIXコマンド、正規表現、プログラミング言語、自然言語処理、Prompt Engineeringといった幅広い技術を習得し、ログ解析、設定ファイル管理、テキストマイニングなどの実践的な課題解決能力を養います。読者は、テキストデータを効果的に処理し、AI技術を活用して新たな価値を創造できるようになります。",
+    "content": "本書は、テキスト処��の基礎から応用、最新のAI連携までを網羅的に解説します。UNIXコマンド、正規表現、プログラミング言語、自然言語処理、Prompt Engineeringといった幅広い技術を習得し、ログ解析、設定ファイル管理、テキストマイニングなどの実践的な課題解決能力を養います。読者は、テキストデータを効果的に処理し、AI技術を活用して新たな価値を創造できるようになります。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--ppkYcTaS--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9iMmI4N2VkM2YxLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -139,7 +139,7 @@
     "title": "AI生成プラットフォーム（SaaS型）を1人で1日で立ち上げる",
     "url": "https://zenn.dev/idev/articles/article-20250219-105218",
     "published": "Wed, 19 Feb 2025 21:16:36 GMT",
-    "content": "\n AI生成プラットフォーム（SaaS型）を1人で1日で立ち上げる\n\n 序章\n近年、人工知能（AI）は急速に進歩しており、さまざまな産業に革命を起こしています。AI生成プラットフォームの登場により、コンテンツの生成が自動化され、時間とリソースが大幅に削減されました。このチュートリアルでは、たった1人で1日であなただけのAI生成SaaSプラットフォームを立ち上げるための包括的なガイドを紹介します。\nこのガイドでは、技術的な正確性と実践的な例を重視し、段階的な説明を通じて各ステップを詳しく説明します。コーディングの初心者にも理解で��るようにコードサンプルも豊富に掲載しています。このプラットフ...",
+    "content": "\n AI生成プラットフォーム（SaaS型）を1人で1日で立ち上げる\n\n 序章\n近年、人工知能（AI）は急速に進歩しており、さまざまな産業に革命を起こしています。AI生成プラットフォームの登場により、コンテンツの生成が自動化され、時間とリソースが大幅に削減されました。このチュートリアルでは、たった1人で1日であなただけのAI生成SaaSプラットフォームを立ち上げるための包括的なガイドを紹介します。\nこのガイドでは、技術的な正確性と実践的な例を重視し、段階的な説明を通じて各ステップを詳しく説明します。コーディングの初心者にも理解��きるようにコードサンプルも豊富に掲載しています。このプラットフ...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--FGyINryp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E7%2594%259F%25E6%2588%2590%25E3%2583%2597%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2588%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%25A0%25EF%25BC%2588SaaS%25E5%259E%258B%25EF%25BC%2589%25E3%2582%25921%25E4%25BA%25BA%25E3%2581%25A71%25E6%2597%25A5%25E3%2581%25A7%25E7%25AB%258B%25E3%2581%25A1%25E4%25B8%258A%25E3%2581%2592%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -178,7 +178,7 @@
     "title": "ドライブレコーダー映像のAI解析入門",
     "url": "https://zenn.dev/idev/articles/article-20250217-234011",
     "published": "Mon, 17 Feb 2025 15:03:24 GMT",
-    "content": "\n ドライブレコーダー映像の AI 解析入門\n近年、ドライブレコーダーは事故や事件の記録や証拠収集に欠かせないツールとなっています。しかし、膨大な量の録画映像を手動で確認するのは非常に手間のかかる作業です。そこで、AI（人工知能）の活用が注目されています。\nこの技術記事では、ドライブ��コーダー映像の AI 解析の基本について説明します。AI を使用して映像から有益な情報を効率的に抽出する方法を段階的に解説します。\n\n AI 解析の仕組み\nAI 解析は、コンピュータービジョンと機械学習のテクノロジーを活用して、画像や動画から意味のあるパターンを認識します。ドライブレコーダー映像の解析では、...",
+    "content": "\n ドライブレコーダー映像の AI 解析入門\n近年、ドライブレコーダーは事故や事件の記録や証拠収集に欠かせないツールとなっています。しかし、膨大な量の録画映像を手動で確認するのは非常に手間のかかる作業です。そこで、AI（人工知能）の活用が注目されています。\nこの技術記事では、ドライ��レコーダー映像の AI 解析の基本について説明します。AI を使用して映像から有益な情報を効率的に抽出する方法を段階的に解説します。\n\n AI 解析の仕組み\nAI 解析は、コンピュータービジョンと機械学習のテクノロジーを活用して、画像や動画から意味のあるパターンを認識します。ドライブレコーダー映像の解析では、...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--04vWbNai--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2589%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2596%25E3%2583%25AC%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E6%2598%25A0%25E5%2583%258F%25E3%2581%25AEAI%25E8%25A7%25A3%25E6%259E%2590%25E5%2585%25A5%25E9%2596%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
