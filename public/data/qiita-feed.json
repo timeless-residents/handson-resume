@@ -1,5 +1,12 @@
 [
   {
+    "id": "tag:qiita.com,2005:PublicArticle/1993343",
+    "title": "Discord通知で開発効率爆上げGitHub Actions連携でリアルタイムエラー検知緊急デプロイ",
+    "url": "https://qiita.com/timeless-residents/items/282bf5994d0f5264d519",
+    "published": "2025-02-28T02:07:45+09:00",
+    "content": "Discord通知で開発効率爆上げ！GitHub Actions連携でリアルタイムエラー検知＆緊急デプロイ - 一歩先行く開発チームのための実践テクニック\nはじめに: なぜDiscord通知が重要な…"
+  },
+  {
     "id": "tag:qiita.com,2005:PublicArticle/1992930",
     "title": "Macストレージ不足もう悩まない劇的に改善する5つの実践テクニック",
     "url": "https://qiita.com/timeless-residents/items/a46b8bacbb35de372973",
@@ -19,12 +26,5 @@
     "url": "https://qiita.com/timeless-residents/items/a6ba2102cf801051450e",
     "published": "2025-02-25T03:08:34+09:00",
     "content": "Three.js大規模ギャラリー最適化：WebGLコンテキスト限界突破とパフォーマンス改善の実践\nThree.jsで大規模な3Dモデルギャラリーを構築する際、WebGLコンテキストの限界やパフォーマ…"
-  },
-  {
-    "id": "tag:qiita.com,2005:PublicArticle/1991222",
-    "title": "Vanilla JavaScriptモダン開発：Vite npm で始める実践的プロジェクト構築",
-    "url": "https://qiita.com/timeless-residents/items/ae26b9ee56c961a451ee",
-    "published": "2025-02-24T07:55:30+09:00",
-    "content": "Vanilla JavaScript モダン開発：Vite + npm で始める実践的プロジェクト構築\nモダンなフロントエンド開発において、Vanilla JavaScript (プレーンなJava…"
   }
 ]
