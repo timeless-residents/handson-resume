@@ -1,6 +1,32 @@
 [
   {
     "id": {
+      "_": "https://zenn.dev/idev/articles/article-20250301-000945",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "音声認識実践ガイド: WhisperからリアルタイムDictationまで",
+    "url": "https://zenn.dev/idev/articles/article-20250301-000945",
+    "published": "Fri, 28 Feb 2025 15:28:01 GMT",
+    "content": "\n 音声認識実践ガイド: WhisperからリアルタイムDictationまで\nこの記事では、音声認識技術の実践的な実装方法について、Whisperモデルを用いた音声転写からリアルタイムの音声入力システム（Dictation）構築までを解説します。音声認識は、人間の音声をテキストデータに変換する技術であり、様々なアプリケーションで活用されています。本記事は、『音声認識 実践開発ガイド: Whisper &amp; 最新技術で実現するリアルタイム音声処理』の内容に基づき、実践的なコード例と段階的な説明を通じて、読者が音声認識技術を理解し、自身のプロジェクトに適用できるようガ���ドします。\n\n...",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--7Cqnskb0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%259F%25B3%25E5%25A3%25B0%25E8%25AA%258D%25E8%25AD%2598%25E5%25AE%259F%25E8%25B7%25B5%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%253A%2520Whisper%25E3%2581%258B%25E3%2582%2589%25E3%2583%25AA%25E3%2582%25A2%25E3%2583%25AB%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%25A0Dictation%25E3%2581%25BE%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/books/book-20250228-235813",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "音声認識 開発ガイド: Whisper & 最新技術で実現するリアルタイム音声処理",
+    "url": "https://zenn.dev/idev/books/book-20250228-235813",
+    "published": "Fri, 28 Feb 2025 15:23:33 GMT",
+    "content": "本書は、OpenAIのWhisperを中心に、最新の音声認識技術を用いたリアルタイム音声処理の実践的な開発ガイドです。Python環境構築から始まり、Webアプリやスマホアプリへの統合、精度向上、さらには話者分離やエッジAI環境での実行までを網羅します。読者は、Whisperを使いこなし、様々な応用システムを構築するための知識とスキルを習得できます。",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--e_5O-Cte--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9kMGI1Mjg2MzhjLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
+  },
+  {
+    "id": {
       "_": "https://zenn.dev/idev/books/book-20250228-014804",
       "$": {
         "isPermaLink": "true"
@@ -35,7 +61,7 @@
     "title": "実践Fintech開発：コードで金融の未来を創る",
     "url": "https://zenn.dev/idev/books/book-20250227-124135",
     "published": "Thu, 27 Feb 2025 04:19:30 GMT",
-    "content": "【FOR THE ELITE】本書は、Fintech分野のアプリケーション開発に必要な技術と知識を体系的に解説します。プログラミング環境構築から、データ分析、決済システム、AI活用まで、幅広いトピックをカバーし、実践的なプロジェクトを通じて理解を深めます。読者は、金融業界の課題を解決する革新的なアプリケーションを開発するためのスキルと知識を習得できます。",
+    "content": "【FOR THE ELITE】本書は、Fintech分野のアプリケーション開発に必要な技術と知識を体系的に解説します。プログラミング��境構築から、データ分析、決済システム、AI活用まで、幅広いトピックをカバーし、実践的なプロジェクトを通じて理解を深めます。読者は、金融業界の課題を解決する革新的なアプリケーションを開発するためのスキルと知識を習得できます。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--cVCjP5ie--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci83MmY4NjE5ZjE0LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -48,7 +74,7 @@
     "title": "【FOR THE ELITE】実践Fintech開発：コードで金融の未来を創る",
     "url": "https://zenn.dev/idev/articles/article-20250227-125527",
     "published": "Thu, 27 Feb 2025 04:19:22 GMT",
-    "content": "\n 【FOR THE ELITE】実践Fintech開発：コードで金融の未来を創る\nこの記事では、エリート開発者向けの「実践Fintech開発：コードで金融の未来を創る」の内容をご紹介します。金融テクノロジー研究会による本書は、高度なFintech開発スキルを求めるエリートプログラマーのために設計された実践的ガイドとして高い評価を得ています。\n\n はじめに：エリートのためのFintech開発\nFintech（フィンテック）は、Finance（金融）とTechnology（技術）を組み合わせた分野であり、一般的な開発者ではなく、卓越したスキルを持つエリートプログラマーこそが真価を発揮で���る...",
+    "content": "\n 【FOR THE ELITE】実践Fintech開発：コードで金融の未来を創る\nこの記事では、エリート開発者向けの「実践Fintech開発：コードで金融の未来を創る」の内容をご紹介します。金融テクノロジー研究会による本書は、高度なFintech開発スキルを求めるエリートプログラマーのため���設計された実践的ガイドとして高い評価を得ています。\n\n はじめに：エリートのためのFintech開発\nFintech（フィンテック）は、Finance（金融）とTechnology（技術）を組み合わせた分野であり、一般的な開発者ではなく、卓越したスキルを持つエリートプログラマーこそが真価を発揮できる...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--qN147yMY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590FOR%2520THE%2520ELITE%25E3%2580%2591%25E5%25AE%259F%25E8%25B7%25B5Fintech%25E9%2596%258B%25E7%2599%25BA%25EF%25BC%259A%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25A7%25E9%2587%2591%25E8%259E%258D%25E3%2581%25AE%25E6%259C%25AA%25E6%259D%25A5%25E3%2582%2592%25E5%2589%25B5%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -71,10 +97,10 @@
         "isPermaLink": "true"
       }
     },
-    "title": "ホームラボエンジニアリング: 自宅サーバーからはじめるインフラ構築",
+    "title": "ホー���ラボエンジニアリング: 自宅サーバーからはじめるインフラ構築",
     "url": "https://zenn.dev/idev/articles/article-20250227-070828",
     "published": "Wed, 26 Feb 2025 22:28:58 GMT",
-    "content": "\n ホームラボエンジニアリング: 自宅サーバーからはじめるインフラ構築\n自宅にサーバーを構築することは、インフラエンジニアリングのスキルを磨くための優れた方法です。実践的な経験��積み、新しいテクノロジーを試すことができる安全な環境を提供します。この技術記事では、自宅サーバーの構築から始め、様々なインフラ技術を学ぶための実践的なガイドを提供します。\n\n 1. ハードウェアの選択\nまずは、サーバーに使用するハードウェアを選びます。選択肢は大きく分けて３つあります。\n\n\n古いパソコンの再利用: 低コストで始められるメリットがありますが、性能や電力効率に限界がある場合があります。\n\nミニPC: ...",
+    "content": "\n ホームラボエンジニアリング: 自宅サーバーからはじめるインフラ構築\n自宅にサーバーを構築することは、インフラエンジニアリングのスキルを磨くための優れた方法です。実践的な経験を積み、新しいテクノロジーを試すことができる安全な環境を提供します。この技術記事では、自宅サーバーの構築から始め、様々なインフラ技術を学ぶための実践的なガイドを提供します。\n\n 1. ハードウェアの選択\nまずは、サーバーに使用するハードウェアを選びます。選択肢は大きく分けて３つあります。\n\n\n古いパソコンの再利用: 低コストで始められるメリットがありますが、性能や電力効率に限界がある場合があります。\n\nミニPC: ...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--_DjbE36j--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%259B%25E3%2583%25BC%25E3%2583%25A0%25E3%2583%25A9%25E3%2583%259C%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%253A%2520%25E8%2587%25AA%25E5%25AE%2585%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%25E3%2581%258B%25E3%2582%2589%25E3%2581%25AF%25E3%2581%2598%25E3%2582%2581%25E3%2582%258B%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2595%25E3%2583%25A9%25E6%25A7%258B%25E7%25AF%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -87,7 +113,7 @@
     "title": "プログラミングパラダイムシフト：レガシーコードをモダンに進化させる実践ガイド",
     "url": "https://zenn.dev/idev/books/book-20250226-103247",
     "published": "Wed, 26 Feb 2025 02:08:35 GMT",
-    "content": "本書は、命令型からリアクティブまで、様々なプログラミングパラダイムを習得し、レガシーコードをモダンなアーキテクチャへと進化させるための実践的なガイドです。Pascal, Perl, Lisp, Objective-C, C++, D, F#, Solidityといった複数の言語を用いて、具体的なコード例を交えながらパラダイムシフトを解説します。読者は、デザインパターン、テスト駆動開発、ドメイン駆動設計などの手法を習得し、Docker, Kubernetes, サーバーレスといった最新技術を活用できるようになります。",
+    "content": "本書は、命令型からリアクティブまで、様々なプログラミングパラダイムを習得し、レガシーコードをモダンなアーキテクチャへと進化させるための実践的なガイドです。Pascal, Perl, Lisp, Objective-C, C++, D, F#, Solidityといった複数の言語を用いて、具体的なコード例を交えながらパラダイムシフト���解説します。読者は、デザインパターン、テスト駆動開発、ドメイン駆動設計などの手法を習得し、Docker, Kubernetes, サーバーレスといった最新技術を活用できるようになります。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--Tvacg9Dl--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9mN2ZiMDE2NWQzLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -165,7 +191,7 @@
     "title": "子供向け地図学習アプリ開発：React Nativeと地図データ活用実践ガイド",
     "url": "https://zenn.dev/idev/books/book-20250223-053845",
     "published": "Sat, 22 Feb 2025 20:56:33 GMT",
-    "content": "この技術書は、React Nativeを用いて子供向けの地図学習アプリを開発するための実践的なガイドです。地図ライブラリの選定からUI/UXデザイン、パフォーマンスチューニング、Firebaseを用いたデータ管理まで、開発に必要な幅広い知識を網羅しています。読者は、インタラクティブな地図アプリをゼロから構築し、デプロイ、収益化、そして継続的な改善を行うためのスキルを習得できます。",
+    "content": "この技術書は、React Nativeを用いて子供向けの地図学習アプリを開発するための実践的なガイドです。地図ライブラリの選定からUI/UXデザイン、パフォーマンスチュー��ング、Firebaseを用いたデータ管理まで、開発に必要な幅広い知識を網羅しています。読者は、インタラクティブな地図アプリをゼロから構築し、デプロイ、収益化、そして継続的な改善を行うためのスキルを習得できます。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--UGg4HFOx--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8yOWVkNGU5YzA4LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -178,7 +204,7 @@
     "title": "子供向け地図学習アプリの設計と実装",
     "url": "https://zenn.dev/idev/articles/article-20250223-053820",
     "published": "Sat, 22 Feb 2025 20:56:28 GMT",
-    "content": "\n 子供向け地図学習アプリの設計と実装\n\n はじめに\n地理の学習を楽しく魅力的なものにすることは、子供たちの地理的理解を深める上で不可欠です。子供向け地図学習アプリは、このニーズに応える上で貴重なツールとなり、インタラクティブな地図、楽しいゲーム、クイズを通じて子供の地理的知識を向上させます。この記事では、子供向けの地図学習アプリの包括的な設計と実装手順を段階的に説明します。\n\n 要件分析\n地図学習アプリを設計する前に、ターゲットユーザーのニーズと要件を明確に理解することが重要です。\n\n\n対象年齢：アプリはどの年齢層の子供を対象にしていますか��\n\n学習目標：どのような地理的概念を子供に教...",
+    "content": "\n 子供向け地図学習アプリの設計と実装\n\n はじめに\n地理の学習を楽しく魅力的なものにすることは、子供たちの地理的理解を深める上で不可欠です。子供向け地図学習アプリは、このニーズに応える上で貴重なツールとなり、インタラクティブな地図、楽しいゲーム、クイズを通じて子供の地理的知識を向上させ���す。この記事では、子供向けの地図学習アプリの包括的な設計と実装手順を段階的に説明します。\n\n 要件分析\n地図学習アプリを設計する前に、ターゲットユーザーのニーズと要件を明確に理解することが重要です。\n\n\n対象年齢：アプリはどの年齢層の子供を対象にしていますか？\n\n学習目標：どのような地理的概念を子供に教...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--8ZoTyFFr--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25AD%2590%25E4%25BE%259B%25E5%2590%2591%25E3%2581%2591%25E5%259C%25B0%25E5%259B%25B3%25E5%25AD%25A6%25E7%25BF%2592%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2581%25AE%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%25A8%25E5%25AE%259F%25E8%25A3%2585%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -191,7 +217,7 @@
     "title": "実践！テキスト処理エキスパート養成講座：sed、AI連携からPrompt Engineeringまで",
     "url": "https://zenn.dev/idev/books/book-20250222-055217",
     "published": "Fri, 21 Feb 2025 21:26:09 GMT",
-    "content": "本書は、テキスト処理の基礎から応用、最新のAI連携までを網羅的に解説します。UNIXコマンド、正規表現、プログラ���ング言語、自然言語処理、Prompt Engineeringといった幅広い技術を習得し、ログ解析、設定ファイル管理、テキストマイニングなどの実践的な課題解決能力を養います。読者は、テキストデータを効果的に処理し、AI技術を活用して新たな価値を創造できるようになります。",
+    "content": "本書は、テキスト処理の基礎から応用、最新のAI連携までを網羅的に解説します。UNIXコマンド、正規表現、プログラミング言語、自然言語処理、Prompt Engineeringといった幅広い技術を習得し、ログ解析、設定ファイル管理、テキストマイニングなどの実践的な課題解決能力を養います。読者は、テキストデータを効果的に処理し、AI技術を活用して新たな価値を創造できるようになります。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--ppkYcTaS--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9iMmI4N2VkM2YxLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -201,10 +227,10 @@
         "isPermaLink": "true"
       }
     },
-    "title": "ハンズオンで学ぶテキスト処理マスターガイド：sedからPrompt flowまで",
+    "title": "ハンズオンで学ぶテキスト処理マスターガイド���sedからPrompt flowまで",
     "url": "https://zenn.dev/idev/articles/article-20250222-055142",
     "published": "Fri, 21 Feb 2025 21:26:04 GMT",
-    "content": "\n ハンズオンで学ぶテキスト処理マスターガイド：sedからPrompt Flowまで\n\n はじめに\nテキスト処理は現代におけるソフトウェア開発に不可欠なタスクです。メールの解析、ログファイルの処理、ドキュメントの自動化など、さまざまなア��リケーションで使用されています。このガイドでは、初心者から上級者まで、テキスト処理の包括的なマスターガイドを提供します。\n\n 第1段階：基礎を固める\n\n sed：ストリームエディター\nsedは、テキストストリームを操作するための強力なコマンドラインツールです。基本的な構文は次のとおりです。\nsed 'コマンド' 入力ファイル\n例： 行末に「.」を付加する...",
+    "content": "\n ハンズオンで学ぶテキスト処理マスターガイド：sedからPrompt Flowまで\n\n はじめに\nテキスト処理は現代におけるソフトウェア開発に不可欠なタスクです。メールの解析、ログファイルの処理、ドキュメントの自動化など、さまざまなアプリケーションで使用されています。このガイドでは、初心者から上級者まで、テキスト処理の包括的なマスターガイドを提供します。\n\n 第1段階：基礎を固める\n\n sed：ストリームエディター\nsedは、テキストストリームを操作するための強力なコマンドラインツールです。基本的な構文は次のとおりです。\nsed 'コマンド' 入力ファイル\n例： 行末に「.」を付加する...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--JCRvW3W8--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%258F%25E3%2583%25B3%25E3%2582%25BA%25E3%2582%25AA%25E3%2583%25B3%25E3%2581%25A7%25E5%25AD%25A6%25E3%2581%25B6%25E3%2583%2586%25E3%2582%25AD%25E3%2582%25B9%25E3%2583%2588%25E5%2587%25A6%25E7%2590%2586%25E3%2583%259E%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%25EF%25BC%259Ased%25E3%2581%258B%25E3%2582%2589Prompt%2520flow%25E3%2581%25BE%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -217,7 +243,7 @@
     "title": "実践 Sitecore XM Cloud ハンズオン：Next.js & SXA によるモダンなWebサイト構築",
     "url": "https://zenn.dev/idev/books/book-20250221-053659",
     "published": "Thu, 20 Feb 2025 21:27:03 GMT",
-    "content": "本書は、Sitecore XM CloudとNext.js、SXAを用いてモダンなウェブサイトを構築するための実践的なハンズオン形式の技術書です。開発環境構築からコンポーネント開発、データ取得、多言語対応、パフォーマンスチューニング、セキュリティ対策まで、XM Cloudを活用したウェブサイト開発に必要な知識とスキルを網羅的に解説します。読者は本書を通じて、ヘッドレスCMSによる柔軟でスケーラブルなウェブサイト構築を習得し、最新のウェブ開発技術を効果的に活用できるようになります。",
+    "content": "本書は、Sitecore XM CloudとNext.js、SXAを用いてモダンなウェブサイトを構築するための実践的なハンズオン形式の技術書です。開発環境構築からコンポーネント開発、データ取得、多言語対応、パフォーマンスチューニング、セキュリティ対策まで、XM Cloudを活用したウェブサイト開発に必要な知識とスキルを網羅的に解説します。読者は本書を通じて、ヘッドレスCMSによる柔軟でスケーラブルなウェブサイト構築を習得し、最新のウェ���開発技術を効果的に活用できるようになります。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--fKFzOjQl--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8yZGMxYmViZmNlLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -232,31 +258,5 @@
     "published": "Wed, 19 Feb 2025 21:16:55 GMT",
     "content": "本書は、LlamaIndexとBabyAGIを中心に、プログレッシブなAIエージェント開発の実践的な手法を解説します。データインデックスの構築から自律的タスク処理、エージェント間の連携、評価までを網羅し、Langchain AgentsやLLMの活用、セキュリティ・倫理まで踏み込みます。読者は、AIエージェント開発に必要な知識とスキルを習得し、実用的なアプリケーションを構築できるようになります。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--OTeWnWnV--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci82YmI1MWNiNGJkLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/books/book-20250219-105249",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "AI生成プラットフォーム（SaaS型）爆速構築！1人で1日で作る、スケール可能なAIサービス立ち上げ完全ガイド",
-    "url": "https://zenn.dev/idev/books/book-20250219-105249",
-    "published": "Wed, 19 Feb 2025 21:16:41 GMT",
-    "content": "本書は、SaaS型AI生成プラットフォームを1日で構築するための実践的なガイドです。NoCode/LowCodeツールを活用し、AIモデル連携、UI/UX設計、バックエンド実装、デプロイメントまでを網羅。読者は、MVPとして機能するAIサービスを迅速に立ち上げ、スケールさせるための知識とスキルを得られます。",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--0mfIZrWy--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9hODY1ZGE1ZTllLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/articles/article-20250220-054629",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "プログレッシブAIツール統合ガイド",
-    "url": "https://zenn.dev/idev/articles/article-20250220-054629",
-    "published": "Wed, 19 Feb 2025 21:16:37 GMT",
-    "content": "\n プログレッシブAIツール統合ガイ��\n\n はじめに\n人工知能（AI）は急速に医療分野を変革しており、医療従事者に新たなツールを提供して患者の治療を改善しています。しかし、急速に進化するAIランドスケープの中で、医療機関は適切なAIツールを選択し、効果的に統合する方法に直面しています。\nこの包括的なガイドでは、プログレッシブAIツールを医療環境に効果的に統合するための段階的なアプローチを提示します。このガイドに従うことで、医療機関はAIのメリットを最大限に活用し、患者のケアを最適化できます。\n\n ステップ 1: AI戦略の策定\n\n\n目標の特定: AI統合の目的を明確にする。患者の転帰を改...",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--L1z4CkwD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B7%25E3%2583%2596AI%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E7%25B5%25B1%25E5%2590%2588%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   }
 ]
