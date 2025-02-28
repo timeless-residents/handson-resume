@@ -48,7 +48,7 @@
     "title": "【FOR THE ELITE】実践Fintech開発：コードで金融の未来を創る",
     "url": "https://zenn.dev/idev/articles/article-20250227-125527",
     "published": "Thu, 27 Feb 2025 04:19:22 GMT",
-    "content": "\n 【FOR THE ELITE】実践Fintech開発：コードで金融の未来を創る\nこの記事では、エリート開発者向けの「実践Fintech開発：コードで金融の未来を創る」の内容をご紹介します。金融テクノロジー研究会による本書は、高度なFintech開発スキルを求めるエリートプログラマーのために設計された実践的ガイドとして高い評価を得ています。\n\n はじめに：エリートのためのFintech開発\nFintech（フィンテック）は、Finance（金融）とTechnology（技術）を組み合わせた分野であり、一般的な開発者ではなく、卓越したスキルを持つエリートプログラマーこそが真価を発揮で��る...",
+    "content": "\n 【FOR THE ELITE】実践Fintech開発：コードで金融の未来を創る\nこの記事では、エリート開発者向けの「実践Fintech開発：コードで金融の未来を創る」の内容をご紹介します。金融テクノロジー研究会による本書は、高度なFintech開発スキルを求めるエリートプログラマーのために設計された実践的ガイドとして高い評価を得ています。\n\n はじめに：エリートのためのFintech開発\nFintech（フィンテック）は、Finance（金融）とTechnology（技術）を組み合わせた分野であり、一般的な開発者ではなく、卓越したスキルを持つエリートプログラマーこそが真価を発揮で���る...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--qN147yMY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590FOR%2520THE%2520ELITE%25E3%2580%2591%25E5%25AE%259F%25E8%25B7%25B5Fintech%25E9%2596%258B%25E7%2599%25BA%25EF%25BC%259A%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25A7%25E9%2587%2591%25E8%259E%258D%25E3%2581%25AE%25E6%259C%25AA%25E6%259D%25A5%25E3%2582%2592%25E5%2589%25B5%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -61,7 +61,7 @@
     "title": "ホームラボ進化論：自宅サーバーで学ぶ、実践インフラエンジニアリング",
     "url": "https://zenn.dev/idev/books/book-20250227-070848",
     "published": "Wed, 26 Feb 2025 22:29:05 GMT",
-    "content": "本書は自宅サーバー（ホームラボ）の構築を通じて、インフラエンジニアリングの実践的な知識とスキルを習得すること���目的としています。Ubuntu Server、Docker、Kubernetes、Terraformなど幅広い技術を扱い、Webサーバー、データベース、ネットワークストレージ、CI/CDパイプライン構築などを解説します。読者は本書を通じて、自宅環境で様々なインフラ技術を試せるようになり、キャリアアップやスキルアップに繋げることができます。",
+    "content": "本書は自宅サーバー（ホームラボ）の構築を通じて、インフラエンジニアリングの実践的な知識とスキルを習得することを目的としています。Ubuntu Server、Docker、Kubernetes、Terraformなど幅広い技術を扱い、Webサーバー、データベース、ネットワークストレージ、CI/CDパイプライン構築などを解説します。読者は本書を通じて、自宅環境で様々なインフラ技術を試せるようになり、キャリアアップやスキルアップに繋げることができます。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--OiWHnzvi--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9hZjcxOTg4N2UyLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -74,7 +74,7 @@
     "title": "ホームラボエンジニアリング: 自宅サーバーからはじめるインフラ構築",
     "url": "https://zenn.dev/idev/articles/article-20250227-070828",
     "published": "Wed, 26 Feb 2025 22:28:58 GMT",
-    "content": "\n ホームラボエンジニアリング: 自宅サーバーからはじめるインフラ構築\n自宅にサーバーを構築することは、インフラエンジニアリングのスキルを磨くための優れた方法です。実践的な経験を積み、新しいテクノロジーを試すことができる安全な環境を提供します。この技術記事では、自宅サーバーの構築から始め、様々なインフラ技術を学ぶための実践的なガイドを提供します。\n\n 1. ハードウェアの選択\nまずは、サーバーに使用するハードウェアを選びます。選択肢は大きく分けて３つあります。\n\n\n古いパソコンの再利用: 低コストで始められるメリットがありますが、性能や電力効率に限界がある場合があります。\n\nミニPC: ...",
+    "content": "\n ホームラボエンジニアリング: 自宅サーバーからはじめるインフラ構築\n自宅にサーバーを構築することは、インフラエンジニアリングのスキルを磨くための優れた方法です。実践的な経験��積み、新しいテクノロジーを試すことができる安全な環境を提供します。この技術記事では、自宅サーバーの構築から始め、様々なインフラ技術を学ぶための実践的なガイドを提供します。\n\n 1. ハードウェアの選択\nまずは、サーバーに使用するハードウェアを選びます。選択肢は大きく分けて３つあります。\n\n\n古いパソコンの再利用: 低コストで始められるメリットがありますが、性能や電力効率に限界がある場合があります。\n\nミニPC: ...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--_DjbE36j--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%259B%25E3%2583%25BC%25E3%2583%25A0%25E3%2583%25A9%25E3%2583%259C%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%253A%2520%25E8%2587%25AA%25E5%25AE%2585%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%25E3%2581%258B%25E3%2582%2589%25E3%2581%25AF%25E3%2581%2598%25E3%2582%2581%25E3%2582%258B%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2595%25E3%2583%25A9%25E6%25A7%258B%25E7%25AF%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -100,7 +100,7 @@
     "title": "レガシーからモダンまで：7つの言語から学ぶプログラミングパラダイム",
     "url": "https://zenn.dev/idev/articles/article-20250226-103231",
     "published": "Wed, 26 Feb 2025 02:08:29 GMT",
-    "content": "\n レガシーからモダンまで：7つの言語から学ぶプログラミングパラダイム\nプログラミングパラダイムは、プログラムを構造化し、問題を解決するための基本的なアプローチを定義します。異なるパラダイムを理解することは、より効率的で、読みやすく、保守しやすいコードを書くために不可欠です。この記事では、7つの主要なプログラミング言語を通して、異なるパラダイムを探求し、それぞれの利点と欠点、そして具体的な使用例を学びます。\n1. Fortran (手続き型プログラミング):\nFortranは、科学技術計算のために開発された初期の言語であり、手続き型プログラミングの典型です。手続き型プログ���ミングは、一連...",
+    "content": "\n レガシーからモダンまで：7つの言語から学ぶプログラミングパラダイム\nプログラミングパラダイムは、プログラムを構造化し、問題を解決するための基本的なアプローチを定義します。異なるパラダイムを理解することは、より効率的で、読みやすく、保守しやすいコードを書くために不可欠です。この記事では、7つの主要なプログラミング言語を通して、異なるパラダイムを探求し、それぞれの利点と欠点、そして具体的な使用例を学びます。\n1. Fortran (手続き型プログラミング):\nFortranは、科学技術計算のために開発された初期の言語であり、手続き型プログラミングの典型です。手続き型プログラミングは、一連...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--xKS8x7DR--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AC%25E3%2582%25AC%25E3%2582%25B7%25E3%2583%25BC%25E3%2581%258B%25E3%2582%2589%25E3%2583%25A2%25E3%2583%2580%25E3%2583%25B3%25E3%2581%25BE%25E3%2581%25A7%25EF%25BC%259A7%25E3%2581%25A4%25E3%2581%25AE%25E8%25A8%2580%25E8%25AA%259E%25E3%2581%258B%25E3%2582%2589%25E5%25AD%25A6%25E3%2581%25B6%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2591%25E3%2583%25A9%25E3%2583%2580%25E3%2582%25A4%25E3%2583%25A0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -178,7 +178,7 @@
     "title": "子供向け地図学習アプリの設計と実装",
     "url": "https://zenn.dev/idev/articles/article-20250223-053820",
     "published": "Sat, 22 Feb 2025 20:56:28 GMT",
-    "content": "\n 子供向け地図学習アプリの設計と実装\n\n はじめに\n地理の学習を楽しく魅力的なものにすることは、子供たちの地理的理解を深める上で不可欠です。子供向け地図学習アプリは、このニーズに応える上で貴重なツールとなり、インタラクティブな地図、楽しいゲーム、クイズを通じて子供の地理的知識を向上させます。この記事では、子供向けの地図学習アプリの包括的な設計と実装手順を段階的に説明します。\n\n 要件分析\n地図学習アプリを設計する前に、ターゲットユーザーのニーズと要件を明確に理解することが重要です。\n\n\n対象年齢：アプリはどの年齢層の子供を対象にしていますか？\n\n学習目標：どのような地理的概念を子供に教...",
+    "content": "\n 子供向け地図学習アプリの設計と実装\n\n はじめに\n地理の学習を楽しく魅力的なものにすることは、子供たちの地理的理解を深める上で不可欠です。子供向け地図学習アプリは、このニーズに応える上で貴重なツールとなり、インタラクティブな地図、楽しいゲーム、クイズを通じて子供の地理的知識を向上させます。この記事では、子供向けの地図学習アプリの包括的な設計と実装手順を段階的に説明します。\n\n 要件分析\n地図学習アプリを設計する前に、ターゲットユーザーのニーズと要件を明確に理解することが重要です。\n\n\n対象年齢：アプリはどの年齢層の子供を対象にしていますか��\n\n学習目標：どのような地理的概念を子供に教...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--8ZoTyFFr--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25AD%2590%25E4%25BE%259B%25E5%2590%2591%25E3%2581%2591%25E5%259C%25B0%25E5%259B%25B3%25E5%25AD%25A6%25E7%25BF%2592%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2581%25AE%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%25A8%25E5%25AE%259F%25E8%25A3%2585%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -191,7 +191,7 @@
     "title": "実践！テキスト処理エキスパート養成講座：sed、AI連携からPrompt Engineeringまで",
     "url": "https://zenn.dev/idev/books/book-20250222-055217",
     "published": "Fri, 21 Feb 2025 21:26:09 GMT",
-    "content": "本書は、テキスト処理の基礎から応用、最新のAI連携までを網羅的に解説します。UNIXコマンド、正規表現、プログラ��ング言語、自然言語処理、Prompt Engineeringといった幅広い技術を習得し、ログ解析、設定ファイル管理、テキストマイニングなどの実践的な課題解決能力を養います。読者は、テキストデータを効果的に処理し、AI技術を活用して新たな価値を創造できるようになります。",
+    "content": "本書は、テキスト処理の基礎から応用、最新のAI連携までを網羅的に解説します。UNIXコマンド、正規表現、プログラ���ング言語、自然言語処理、Prompt Engineeringといった幅広い技術を習得し、ログ解析、設定ファイル管理、テキストマイニングなどの実践的な課題解決能力を養います。読者は、テキストデータを効果的に処理し、AI技術を活用して新たな価値を創造できるようになります。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--ppkYcTaS--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9iMmI4N2VkM2YxLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -204,7 +204,7 @@
     "title": "ハンズオンで学ぶテキスト処理マスターガイド：sedからPrompt flowまで",
     "url": "https://zenn.dev/idev/articles/article-20250222-055142",
     "published": "Fri, 21 Feb 2025 21:26:04 GMT",
-    "content": "\n ハンズオンで学ぶテキスト処理マスターガイド：sedからPrompt Flowまで\n\n はじめに\nテキスト処理は現代におけるソフトウェア開発に不可欠なタスクです。メールの解析、ログファイルの処理、ドキュメントの自動化など、さまざまなアプリケーションで使用されています。このガイドでは、初心者から上級者まで、テキスト処理の包括的なマスターガイドを提供します。\n\n 第1段階：基礎を固める\n\n sed：ストリームエディター\nsedは、テキストストリームを操作するための強力なコマンドラインツールです。基本的な構文は次のとおりです。\nsed 'コマンド' 入力ファイル\n例： 行末に「.」を付加する...",
+    "content": "\n ハンズオンで学ぶテキスト処理マスターガイド：sedからPrompt Flowまで\n\n はじめに\nテキスト処理は現代におけるソフトウェア開発に不可欠なタスクです。メールの解析、ログファイルの処理、ドキュメントの自動化など、さまざまなア��リケーションで使用されています。このガイドでは、初心者から上級者まで、テキスト処理の包括的なマスターガイドを提供します。\n\n 第1段階：基礎を固める\n\n sed：ストリームエディター\nsedは、テキストストリームを操作するための強力なコマンドラインツールです。基本的な構文は次のとおりです。\nsed 'コマンド' 入力ファイル\n例： 行末に「.」を付加する...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--JCRvW3W8--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%258F%25E3%2583%25B3%25E3%2582%25BA%25E3%2582%25AA%25E3%2583%25B3%25E3%2581%25A7%25E5%25AD%25A6%25E3%2581%25B6%25E3%2583%2586%25E3%2582%25AD%25E3%2582%25B9%25E3%2583%2588%25E5%2587%25A6%25E7%2590%2586%25E3%2583%259E%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%25EF%25BC%259Ased%25E3%2581%258B%25E3%2582%2589Prompt%2520flow%25E3%2581%25BE%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -256,7 +256,7 @@
     "title": "プログレッシブAIツール統合ガイド",
     "url": "https://zenn.dev/idev/articles/article-20250220-054629",
     "published": "Wed, 19 Feb 2025 21:16:37 GMT",
-    "content": "\n プログレッシブAIツール統合ガイド\n\n はじめに\n人工知能（AI）は急速に医療分野を変革しており、医療従事者に新たなツールを提供して患者の治療を改善しています。しかし、急速に進化するAIランドスケープの中で、医療機関は適切なAIツールを選択し、効果的に統合する方法に直面しています。\nこの包括的なガイドでは、プログレッシブAIツールを医療環境に効果的に統合するための段階的なアプローチを提示します。このガイドに従うことで、医療機関はAIのメリットを最大限に活用し、患者のケアを最適化できます。\n\n ステップ 1: AI戦略の策定\n\n\n目標の特定: AI統合の目的を明確にする。患者の転帰を改...",
+    "content": "\n プログレッシブAIツール統合ガイ��\n\n はじめに\n人工知能（AI）は急速に医療分野を変革しており、医療従事者に新たなツールを提供して患者の治療を改善しています。しかし、急速に進化するAIランドスケープの中で、医療機関は適切なAIツールを選択し、効果的に統合する方法に直面しています。\nこの包括的なガイドでは、プログレッシブAIツールを医療環境に効果的に統合するための段階的なアプローチを提示します。このガイドに従うことで、医療機関はAIのメリットを最大限に活用し、患者のケアを最適化できます。\n\n ステップ 1: AI戦略の策定\n\n\n目標の特定: AI統合の目的を明確にする。患者の転帰を改...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--L1z4CkwD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B7%25E3%2583%2596AI%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E7%25B5%25B1%25E5%2590%2588%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   }
 ]
