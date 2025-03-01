@@ -9,7 +9,7 @@
     "title": "実践OpenAI Platform開発：API活用から自社サービス構築まで",
     "url": "https://zenn.dev/idev/books/book-20250301-054619",
     "published": "Fri, 28 Feb 2025 21:17:37 GMT",
-    "content": "本書は、OpenAI PlatformのAPIを活用し、テキスト生成、画像生成、音声認識などのAI機能を自社サービスに組み込むための実践的なガイドです。主要モデルであるGPT、DALL-E、Whisperの解説から、LangChainやSemantic Kernelといったフレームワークの利用、さらにFine-tuningによるモデルのカスタマイズまで、幅広い技術を網羅しています。AI技術を活用したサービス開発に興味があるエンジニアや開発者として、WebアプリケーションやVS Code拡張機能の開発を通じて、AI開発の実践的なスキルを習得し、自社サービスにAIを組み込むための知識とノウハウを得ることができます。��新のAI技術を実践的に学ぶための価値あるリソースの提供に加え、具体的なコード例や実践的なプロジェクトを通じて、即戦力となるスキルを身につけることができます。",
+    "content": "本書は、OpenAI PlatformのAPIを活用し、テキスト生成、画像生成、音声認識などのAI機能を自社サービスに組み込むための実践的なガイドです。主要モデルであるGPT、DALL-E、Whisperの解説から、LangChainやSemantic Kernelといったフレームワークの利用、さらにFine-tuningによるモデルのカスタマイズまで、幅広い技術を網羅しています。AI技術を活用したサービス開発に興味があるエンジニアや開発者として、WebアプリケーションやVS Code拡張機能の開発を通じて、AI開発の実践的なスキルを習得し、自社サービスにAIを組み込むための知識とノウハウを得ることができます。最新のAI技術を実践的に学ぶための価値あるリソースの提供に加え、具体的なコード例や実践的なプロジェクトを通じて、即戦力となるスキルを身につけることができます。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--xTV1gC3h--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9hOWE3MTU4OWJkLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -113,7 +113,7 @@
     "title": "ホームラボ進化論：自宅サーバーで学ぶ、実践インフラエンジニアリング",
     "url": "https://zenn.dev/idev/books/book-20250227-070848",
     "published": "Wed, 26 Feb 2025 22:29:05 GMT",
-    "content": "本書は自宅サーバー（ホームラボ）の構築を通じて、インフラエンジニアリングの実践的な知識とスキルを習得することを目的としています。Ubuntu Server、Docker、Kubernetes、Terraformなど幅広い技術を扱い、Webサーバー、データベース、ネットワークストレージ、CI/CDパイプライン構築などを解説します。読者は本書を通じて、自宅環境で様々なインフラ技術を試せるようになり、キャリアアップやスキルアップに繋���ることができます。",
+    "content": "本書は自宅サーバー（ホームラボ）の構築を通じて、インフラエンジニアリングの実践的な知識とスキルを習得することを目的としています。Ubuntu Server、Docker、Kubernetes、Terraformなど幅広い技術を扱い、Webサーバー、データベース、ネットワークストレージ、CI/CDパイプライン構築などを解説します。読者は本書を通じて、自宅環境で様々なインフラ技術を試せるようになり、キャリアアップやスキルアップに繋げるこ���ができます。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--OiWHnzvi--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9hZjcxOTg4N2UyLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -188,7 +188,7 @@
         "isPermaLink": "true"
       }
     },
-    "title": "実践Three.js：Webクリエイティブを極める",
+    "title": "実践Three.js：Webクリ��イティブを極める",
     "url": "https://zenn.dev/idev/books/book-20250224-071449",
     "published": "Sun, 23 Feb 2025 22:46:44 GMT",
     "content": "本書は、JavaScriptライブラリThree.jsを用いて、Webブラウザ上で高度な3D表現を実現するための実践的な技術を解説します。基本的な要素から、シェーダー、物理エンジン、VR/ARまで幅広いトピックを扱い、読者は創造的なWebクリエイティブを開発できるようになります。サンプルコードと豊富な図解を通して、Three.jsの理解を深め、Webクリエイティブの可能性を広げます。",
@@ -204,7 +204,7 @@
     "title": "実践Three.js：クリエイティブコーディングの世界",
     "url": "https://zenn.dev/idev/articles/article-20250224-071421",
     "published": "Sun, 23 Feb 2025 22:46:38 GMT",
-    "content": "\n 実践 Three.js: クリエイティブコーディングの世界\n\n はじめに\nThree.jsは、ウェブブラウザ上でインタラクティブな3Dグラフィックスを作成するためのオープンソースJavaScriptライブラリです。その直感的なAPIと強力な機能により、Three.jsはWeb開発者やデザイナーにとって、没入型の3D体験を作成するための貴重なツールとなっています。この技術記事では、Three.jsの基礎を把握し、そのクリエイティブな可能性を探求します。\n\n Three.jsのセットアップ\nプロジェクトにThree.jsを追加するには、以下のコードスニペットをHTMLドキュメントの&lt...",
+    "content": "\n 実践 Three.js: クリエイティブコーディングの世界\n\n はじめに\nThree.jsは、ウェブブラウザ上でインタラクティブな3D���ラフィックスを作成するためのオープンソースJavaScriptライブラリです。その直感的なAPIと強力な機能により、Three.jsはWeb開発者やデザイナーにとって、没入型の3D体験を作成するための貴重なツールとなっています。この技術記事では、Three.jsの基礎を把握し、そのクリエイティブな可能性を探求します。\n\n Three.jsのセットアップ\nプロジェクトにThree.jsを追加するには、以下のコードスニペットをHTMLドキュメントの&lt...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--b__RkQYM--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25AE%259F%25E8%25B7%25B5Three.js%25EF%25BC%259A%25E3%2582%25AF%25E3%2583%25AA%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2586%25E3%2582%25A3%25E3%2583%2596%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25AE%25E4%25B8%2596%25E7%2595%258C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -256,7 +256,7 @@
     "title": "ハンズオンで学ぶテキスト処理マスターガイド：sedからPrompt flowまで",
     "url": "https://zenn.dev/idev/articles/article-20250222-055142",
     "published": "Fri, 21 Feb 2025 21:26:04 GMT",
-    "content": "\n ハンズオンで学ぶテキスト処理マスターガイド：sedからPrompt Flowまで\n\n はじめに\nテキスト処理は現代におけるソフトウェア開発に不可欠なタスクです。メールの解析、ログファイルの処理、ドキュメントの自動化など、さまざまなアプリケーションで使用されています。このガイドでは、初心者から上級者まで、テキスト処理の包括的なマスターガイドを提供します。\n\n 第1段階：基礎を固める\n\n sed：ストリームエディター\nsedは、テキストストリームを操作するための強力なコマンドラインツール���す。基本的な構文は次のとおりです。\nsed 'コマンド' 入力ファイル\n例： 行末に「.」を付加する...",
+    "content": "\n ハンズオンで学ぶテキスト処理マスターガイド：sedからPrompt Flowまで\n\n はじめに\nテキスト処理は現代におけるソフトウェア開発に不可欠なタスクです。メールの解析、ログファイルの処理、ドキュメントの自動化など、さまざまなアプリケーションで使用されています。このガイドでは、初心者から上級者まで、テキスト処理の包括的なマスターガイドを提供します。\n\n 第1段階：基礎を固める\n\n sed：ストリームエディター\nsedは、テキストストリームを操作するための強力なコマンドラインツールです。基本的な構文は次のとおりです。\nsed 'コマンド' 入力ファイル\n例： 行末に「.」を付加する...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--JCRvW3W8--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%258F%25E3%2583%25B3%25E3%2582%25BA%25E3%2582%25AA%25E3%2583%25B3%25E3%2581%25A7%25E5%25AD%25A6%25E3%2581%25B6%25E3%2583%2586%25E3%2582%25AD%25E3%2582%25B9%25E3%2583%2588%25E5%2587%25A6%25E7%2590%2586%25E3%2583%259E%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%25EF%25BC%259Ased%25E3%2581%258B%25E3%2582%2589Prompt%2520flow%25E3%2581%25BE%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   }
 ]
