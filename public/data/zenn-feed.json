@@ -32,7 +32,7 @@
         "isPermaLink": "true"
       }
     },
-    "title": "実践OpenAI Platform開発：API活用から自社サービス構築��で",
+    "title": "実践OpenAI Platform開発：API活用から自社サービス構築まで",
     "url": "https://zenn.dev/idev/books/book-20250301-054619",
     "published": "Fri, 28 Feb 2025 21:17:37 GMT",
     "content": "本書は、OpenAI PlatformのAPIを活用し、テキスト生成、画像生成、音声認識などのAI機能を自社サービスに組み込むための実践的なガイドです。主要モデルであるGPT、DALL-E、Whisperの解説から、LangChainやSemantic Kernelといったフレームワークの利用、さらにFine-tuningによるモデルのカスタマイズまで、幅広い技術を網羅しています。AI技術を活用したサービス開発に興味があるエンジニアや開発者として、WebアプリケーションやVS Code拡張機能の開発を通じて、AI開発の実践的なスキルを習得し、自社サービスにAIを組み込むための知識とノウハウを得ることができます。最新のAI技術を実践的に学ぶための価値あるリソースの提供に加え、具体的なコード例や実践的なプロジェクトを通じて、即戦力となるスキルを身につけることができます。w",
@@ -61,7 +61,7 @@
     "title": "音声認識実践ガイド: WhisperからリアルタイムDictationまで",
     "url": "https://zenn.dev/idev/articles/article-20250301-000945",
     "published": "Fri, 28 Feb 2025 15:28:01 GMT",
-    "content": "\n 音声認識実践ガイド: WhisperからリアルタイムDictationまで\nこの記事では、音声認識技術の実践的な実装方法について、Whisperモデルを用いた音声転写からリアルタイムの音声入力システム（Dictation）構築までを解説します。音声認識は、人間の音声をテキストデータに変換する技術であり、様々なアプリケーションで活用されています。本記事は、『音声認識 実践開発ガイド: Whisper &amp; 最新技術で実現するリアルタイム音声処理』の内容に基づき、実践的なコード例と段階的な説明を通じて、読者が音声認識技術を理解し、自身のプロジェクトに���用できるようガイドします。\n\n...",
+    "content": "\n 音声認識実践ガイド: WhisperからリアルタイムDictationまで\nこの記事では、音声認識技術の実践的な実装方法について、Whisperモデルを用いた音声転写からリアルタイムの音声入力システム（Dictation）構築までを解説します。音声認識は、人間の音声をテキストデータに変換する技術であり、様々なアプリケーションで活用されています。本記事は、『音声認識 実践開発ガイド: Whisper &amp; 最新技術で実現するリアルタイム音声処理』の内容に基づき、実践的なコード例と段階的な説明を通じて、読者が音声認識技術を理解し、自身のプロジェ��トに適用できるようガイドします。\n\n...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--7Cqnskb0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%259F%25B3%25E5%25A3%25B0%25E8%25AA%258D%25E8%25AD%2598%25E5%25AE%259F%25E8%25B7%25B5%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%253A%2520Whisper%25E3%2581%258B%25E3%2582%2589%25E3%2583%25AA%25E3%2582%25A2%25E3%2583%25AB%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%25A0Dictation%25E3%2581%25BE%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -74,7 +74,7 @@
     "title": "音声認識 開発ガイド: Whisper & 最新技術で実現するリアルタイム音声処理",
     "url": "https://zenn.dev/idev/books/book-20250228-235813",
     "published": "Fri, 28 Feb 2025 15:23:33 GMT",
-    "content": "本書は、OpenAIのWhisperを中心に、最新の音声認識技術を用いたリアルタイム音声処理の実践的な���発ガイドです。Python環境構築から始まり、Webアプリやスマホアプリへの統合、精度向上、さらには話者分離やエッジAI環境での実行までを網羅します。読者は、Whisperを使いこなし、様々な応用システムを構築するための知識とスキルを習得できます。",
+    "content": "本書は、OpenAIのWhisperを中心に、最新の音声認識技術を用いたリアルタイム音声処理の実��的な開発ガイドです。Python環境構築から始まり、Webアプリやスマホアプリへの統合、精度向上、さらには話者分離やエッジAI環境での実行までを網羅します。読者は、Whisperを使いこなし、様々な応用システムを構築するための知識とスキルを習得できます。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--e_5O-Cte--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9kMGI1Mjg2MzhjLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -87,7 +87,7 @@
     "title": "Immutable X 実践Web3開発：スケーラブルなNFTプラットフォーム構築",
     "url": "https://zenn.dev/idev/books/book-20250228-014804",
     "published": "Fri, 28 Feb 2025 00:07:12 GMT",
-    "content": "本書は、Immutable Xを活用したWeb3開発を実践的に解説し、スケーラブルなNFTプラットフォーム構築を目指します。Immutable Xの基本概念からAPIの使い方、ガス代最適化、セキュリティ対策、NFTゲーム開発まで幅広くカバーします。読者はImmutable Xを用いたNFTアプリケーション開発の知識とスキルを習得し、独自のWeb3プロジェクトを立ち上げることが可能になります。",
+    "content": "本書は、Immutable Xを活用したWeb3開発を実践的に解説し、スケーラブルなNFTプラットフォーム構築を目指します。Immutable Xの基本概念からAPIの使い方、ガス代最適化、セキュリティ対策、NFTゲーム開発まで幅広くカバーします。読者はImmutable Xを用いたNFTア���リケーション開発の知識とスキルを習得し、独自のWeb3プロジェクトを立ち上げることが可能になります。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--0Ygg0kYD--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8xOTM3OTEyNjIwLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -100,7 +100,7 @@
     "title": "Immutable X開発実践ガイド：ゼロからのWeb3開発入門",
     "url": "https://zenn.dev/idev/articles/article-20250228-020039",
     "published": "Thu, 27 Feb 2025 17:03:38 GMT",
-    "content": "\n Immutable X開発実践ガイド：ゼロからのWeb3開発入門\nこの記事では、Immutable Xを用いたWeb3開発の基礎を、実践的な例を交えながらステップバイステップで解説します。NFTマーケットプレイス構築などを想定し、Immutable Xの主要機能や開発フローを理解することで、スケーラブルなWeb3アプリケーション開発の第一歩を踏み出しましょう。この記事は、『Immutable X 実践Web3開発：スケーラブルなNFTプラットフォーム構築』の内容に��づいています。\n\n Immutable Xとは？\nImmutable Xは、Ethereumのレイヤー2スケーリングソリ...",
+    "content": "\n Immutable X開発実践ガイド：ゼロからのWeb3開発入門\nこの記事では、Immutable Xを用いたWeb3開発の基礎を、実践的な例を交えながらステップバイステップで解説します。NFTマーケットプレイス構築などを想定し、Immutable Xの主要機能や開発フローを理解することで、スケーラブルなWeb3アプリケーション開発の第一歩を踏み出しましょう。この記事は、『Immutable X 実践Web3開発：スケーラブルなNFTプラットフォーム構築』の内容に基づいています。\n\n Immutable Xとは？\nImmutable Xは、Ethereumのレイヤー2スケーリングソリ...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--WpFVZ0a_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Immutable%2520X%25E9%2596%258B%25E7%2599%25BA%25E5%25AE%259F%25E8%25B7%25B5%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%25EF%25BC%259A%25E3%2582%25BC%25E3%2583%25AD%25E3%2581%258B%25E3%2582%2589%25E3%2581%25AEWeb3%25E9%2596%258B%25E7%2599%25BA%25E5%2585%25A5%25E9%2596%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -113,7 +113,7 @@
     "title": "実践Fintech開発：コードで金融の未来を創る",
     "url": "https://zenn.dev/idev/books/book-20250227-124135",
     "published": "Thu, 27 Feb 2025 04:19:30 GMT",
-    "content": "【FOR THE ELITE】本書は、Fintech分野のアプリケーション開発に必要な技術と知識を体系的に解説します��プログラミング環境構築から、データ分析、決済システム、AI活用まで、幅広いトピックをカバーし、実践的なプロジェクトを通じて理解を深めます。読者は、金融業界の課題を解決する革新的なアプリケーションを開発するためのスキルと知識を習得できます。",
+    "content": "【FOR THE ELITE】本書は、Fintech分野のアプリケーション開発に必要な技術と知識を体系的に解説します。プログラミング環境構築から、データ分析、決済システム、AI活用まで、幅広いトピックをカバーし、実践的なプロジェクトを通じて理解を深めます。読者は、金融業界の課題を解決する革新的なアプリケーションを開発するためのスキルと知識を習得できます。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--cVCjP5ie--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci83MmY4NjE5ZjE0LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -126,7 +126,7 @@
     "title": "【FOR THE ELITE】実践Fintech開発：コードで金融の未来を創る",
     "url": "https://zenn.dev/idev/articles/article-20250227-125527",
     "published": "Thu, 27 Feb 2025 04:19:22 GMT",
-    "content": "\n 【FOR THE ELITE】実践Fintech開発：コードで金融の未来を創る\nこの記事では、エリート開発者向けの「実践Fintech開発：コードで金融の未来を創る」の内容をご紹介します。金融テクノロジー研究会による本書は、高度なFintech開発スキルを求めるエリートプ���グラマーのために設計された実践的ガイドとして高い評価を得ています。\n\n はじめに：エリートのためのFintech開発\nFintech（フィンテック）は、Finance（金融）とTechnology（技術）を組み合わせた分野であり、一般的な開発者ではなく、卓越したスキルを持つエリートプログラマーこそが真価を発揮できる...",
+    "content": "\n 【FOR THE ELITE】実践Fintech開発：コードで金融の未来を創る\nこの記事では、エリート開発者向けの「実践Fintech開発：コードで金融の未来を創る」の内容をご紹介します。金融テクノロジー研究会による本書は、高度なFintech開発スキルを求めるエリ��トプログラマーのために設計された実践的ガイドとして高い評価を得ています。\n\n はじめに：エリートのためのFintech開発\nFintech（フィンテック）は、Finance（金融）とTechnology（技術）を組み合わせた分野であり、一般的な開発者ではなく、卓越したスキルを持つエリートプログラマーこそが真価を発揮できる...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--qN147yMY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590FOR%2520THE%2520ELITE%25E3%2580%2591%25E5%25AE%259F%25E8%25B7%25B5Fintech%25E9%2596%258B%25E7%2599%25BA%25EF%25BC%259A%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25A7%25E9%2587%2591%25E8%259E%258D%25E3%2581%25AE%25E6%259C%25AA%25E6%259D%25A5%25E3%2582%2592%25E5%2589%25B5%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -165,7 +165,7 @@
     "title": "プログラミングパラダイムシフト：レガシーコードをモダンに進化させる実践ガイド",
     "url": "https://zenn.dev/idev/books/book-20250226-103247",
     "published": "Wed, 26 Feb 2025 02:08:35 GMT",
-    "content": "本書は、命令型からリアクティブまで、様々なプログラミングパラダイムを習得し、レガシーコードをモダンなアーキテクチャへと進化させるための実践的なガイドです。Pascal, Perl, Lisp, Objective-C, C++, D, F#, Solidityといった複数の言語を用いて、具体的なコード例を交えながら���ラダイムシフトを解説します。読者は、デザインパターン、テスト駆動開発、ドメイン駆動設計などの手法を習得し、Docker, Kubernetes, サーバーレスといった最新技術を活用できるようになります。",
+    "content": "本書は、命令型からリアクティブまで、様々なプログラミングパラダイムを習得し、レガシーコードをモダンなアーキテクチャへと進化させるための実践的なガイドです。Pascal, Perl, Lisp, Objective-C, C++, D, F#, Solidityといった複数の言語を用いて、具体的なコード例を交え��がらパラダイムシフトを解説します。読者は、デザインパターン、テスト駆動開発、ドメイン駆動設計などの手法を習得し、Docker, Kubernetes, サーバーレスといった最新技術を活用できるようになります。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--Tvacg9Dl--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9mN2ZiMDE2NWQzLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -178,7 +178,7 @@
     "title": "レガシーからモダンまで：7つの言語から学ぶプログラミングパラダイム",
     "url": "https://zenn.dev/idev/articles/article-20250226-103231",
     "published": "Wed, 26 Feb 2025 02:08:29 GMT",
-    "content": "\n レガシーからモダンまで：7つの言語から学ぶプログラミングパラダイム\nプログラミングパラダイムは、プログラムを構造化し、問題を解決するための基本的なアプローチを定義します。異なるパラダイムを理解することは、より効率的で、読みやすく、保守しやすいコードを書くために不可欠です。こ���記事では、7つの主要なプログラミング言語を通して、異なるパラダイムを探求し、それぞれの利点と欠点、そして具体的な使用例を学びます。\n1. Fortran (手続き型プログラミング):\nFortranは、科学技術計算のために開発された初期の言語であり、手続き型プログラミングの典型です。手続き型プログラミングは、一連...",
+    "content": "\n レガシーからモダンまで：7つの言語から学ぶプログラミングパラダイム\nプログラミングパラダイムは、プログラムを構造化し、問題を解決するための基本的なアプローチを定義します。異なるパラダイムを理解することは、より効率的で、読みやすく、保守しやすいコードを書くために不可欠で��。この記事では、7つの主要なプログラミング言語を通して、異なるパラダイムを探求し、それぞれの利点と欠点、そして具体的な使用例を学びます。\n1. Fortran (手続き型プログラミング):\nFortranは、科学技術計算のために開発された初期の言語であり、手続き型プログラミングの典型です。手続き型プログラミングは、一連...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--xKS8x7DR--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AC%25E3%2582%25AC%25E3%2582%25B7%25E3%2583%25BC%25E3%2581%258B%25E3%2582%2589%25E3%2583%25A2%25E3%2583%2580%25E3%2583%25B3%25E3%2581%25BE%25E3%2581%25A7%25EF%25BC%259A7%25E3%2581%25A4%25E3%2581%25AE%25E8%25A8%2580%25E8%25AA%259E%25E3%2581%258B%25E3%2582%2589%25E5%25AD%25A6%25E3%2581%25B6%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2591%25E3%2583%25A9%25E3%2583%2580%25E3%2582%25A4%25E3%2583%25A0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -243,7 +243,7 @@
     "title": "子供向け地図学習アプリ開発：React Nativeと地図データ活用実践ガイド",
     "url": "https://zenn.dev/idev/books/book-20250223-053845",
     "published": "Sat, 22 Feb 2025 20:56:33 GMT",
-    "content": "この技術書は、React Nativeを用いて子供向けの地図学習アプリを開発するための実践的なガイドです。地図ライブラリの選定からUI/UXデザイン、パフ��ーマンスチューニング、Firebaseを用いたデータ管理まで、開発に必要な幅広い知識を網羅しています。読者は、インタラクティブな地図アプリをゼロから構築し、デプロイ、収益化、そして継続的な改善を行うためのスキルを習得できます。",
+    "content": "この技術書は、React Nativeを用いて子供向けの地図学習アプリを開発するための実践的なガイドです。地図ライブラリの選定からUI/UXデザイン、パフォーマンスチューニング、Firebaseを用いたデータ管理まで、開発に必要な幅広い知識を網羅しています。読者は、インタラクティブな地図アプリをゼロから構築し、デプロイ、収益化、そして継続的な改善を行うためのスキルを習得できます。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--UGg4HFOx--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8yOWVkNGU5YzA4LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -256,7 +256,7 @@
     "title": "子供向け地図学習アプリの設計と実装",
     "url": "https://zenn.dev/idev/articles/article-20250223-053820",
     "published": "Sat, 22 Feb 2025 20:56:28 GMT",
-    "content": "\n 子供向け地図学習アプリの設計と実装\n\n はじめに\n地理の学習を楽しく魅力的なものにすることは、子供たちの地理的理解を深める上で不可欠です。子供向け地図学習アプリは、このニーズに応える上で貴重なツールとなり、インタラクティブな地図、楽しいゲーム��クイズを通じて子供の地理的知識を向上させます。この記事では、子供向けの地図学習アプリの包括的な設計と実装手順を段階的に説明します。\n\n 要件分析\n地図学習アプリを設計する前に、ターゲットユーザーのニーズと要件を明確に理解することが重要です。\n\n\n対象年齢：アプリはどの年齢層の子供を対象にしていますか？\n\n学習目標：どのような地理的概念を子供に教...",
+    "content": "\n 子供向け地図学習アプリの設計と実装\n\n はじめに\n地理の学習を楽しく魅力的なものにすることは、子供たちの地理的理解を深める上で不可欠です。子供向け地図学習アプリは、このニーズに応える上で貴重なツールとなり、インタラクティブな地図、楽しいゲーム、クイズを通じて子供の地理的知識を向上させます。この記事では、子供向けの地図学習アプリの包括的な設計と実装手順を段階的に説明します。\n\n 要件分析\n地図学習アプリを設計する前に、ターゲットユーザーのニーズと要件を明確に理解することが重要です。\n\n\n対象年齢：アプリはどの年齢層の子供を対象にしていますか？\n\n学習目標：どのような地理的概念を子供に教...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--8ZoTyFFr--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25AD%2590%25E4%25BE%259B%25E5%2590%2591%25E3%2581%2591%25E5%259C%25B0%25E5%259B%25B3%25E5%25AD%25A6%25E7%25BF%2592%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2581%25AE%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%25A8%25E5%25AE%259F%25E8%25A3%2585%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   }
 ]
