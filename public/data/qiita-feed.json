@@ -1,5 +1,12 @@
 [
   {
+    "id": "tag:qiita.com,2005:PublicArticle/1994631",
+    "title": "Canva Apps SDK実践ガイド",
+    "url": "https://qiita.com/timeless-residents/items/d754046f38dba2c49598",
+    "published": "2025-03-03T06:42:15+09:00",
+    "content": "はじめに – Canva Apps SDKの概要と魅力\nCanvaは、世界で1億3,500万人以上が利用する人気のオンラインデザインプラットフォームです。[^1] 豊富なテンプレートと直感的な操作性…"
+  },
+  {
     "id": "tag:qiita.com,2005:PublicArticle/1994205",
     "title": "Elmで始める堅牢なWeb UI開発：型安全とリアクティブアーキテクチャの実践",
     "url": "https://qiita.com/timeless-residents/items/0244c4b8c511186ab24a",
@@ -19,12 +26,5 @@
     "url": "https://qiita.com/timeless-residents/items/282bf5994d0f5264d519",
     "published": "2025-02-28T02:07:45+09:00",
     "content": "Discord通知で開発効率爆上げ！GitHub Actions連携でリアルタイムエラー検知＆緊急デプロイ - 一歩先行く開発チームのための実践テクニック\nP\nはじめに: なぜDiscord通知が重…"
-  },
-  {
-    "id": "tag:qiita.com,2005:PublicArticle/1992930",
-    "title": "Macストレージ不足もう悩まない劇的に改善する5つの実践テクニック",
-    "url": "https://qiita.com/timeless-residents/items/a46b8bacbb35de372973",
-    "published": "2025-02-27T07:34:03+09:00",
-    "content": "Macストレージ不足、もう悩まない！劇的に改善する5つの実践テクニック\nMacのストレージ、いつの間にかいっぱいになっていませんか？「写真も音楽もそんなに入れてないのに…」と感じているなら、この記事…"
   }
 ]
