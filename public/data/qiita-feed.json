@@ -1,5 +1,12 @@
 [
   {
+    "id": "tag:qiita.com,2005:PublicArticle/1995069",
+    "title": "AnkiConnect Python 実践レシピ フラッシュカード学習を効率化する自動化スクリプト集",
+    "url": "https://qiita.com/timeless-residents/items/6fe82bcd962b63ca1ca7",
+    "published": "2025-03-04T11:08:36+09:00",
+    "content": "AnkiConnect + Python 実践レシピ: フラッシュカード学習を効率化する自動化スクリプト集\nはじめに: AnkiConnectとPythonで学習を自動化するメリット\nAnkiは強力…"
+  },
+  {
     "id": "tag:qiita.com,2005:PublicArticle/1994631",
     "title": "Canva Apps SDK実践ガイド",
     "url": "https://qiita.com/timeless-residents/items/d754046f38dba2c49598",
@@ -18,13 +25,6 @@
     "title": "Macで実現高品質な音声収録編集ワークフロー：実務で使えるPythonスクリプトとトラブルシューティング",
     "url": "https://qiita.com/timeless-residents/items/ad01276606caedbe6d60",
     "published": "2025-03-01T00:30:05+09:00",
-    "content": "Macで実現！高品質な音声収録・編集ワークフロー：実務で使えるPythonスクリプトとトラブルシューティング\nはじめに：Macでの音声収録における課題と解決策\nMacは標準で高品質なオーディオインタ…"
-  },
-  {
-    "id": "tag:qiita.com,2005:PublicArticle/1993343",
-    "title": "Discord通知で開発効率爆上げGitHub Actions連携でリアルタイムエラー検知緊急デプロイ",
-    "url": "https://qiita.com/timeless-residents/items/282bf5994d0f5264d519",
-    "published": "2025-02-28T02:07:45+09:00",
-    "content": "Discord通知で開発効率爆上げ！GitHub Actions連携でリアルタイムエラー検知＆緊急デプロイ - 一歩先行く開発チームのための実践テクニック\nP\nはじめに: なぜDiscord通知が重…"
+    "content": "Macで実現！高品質な��声収録・編集ワークフロー：実務で使えるPythonスクリプトとトラブルシューティング\nはじめに：Macでの音声収録における課題と解決策\nMacは標準で高品質なオーディオインタ…"
   }
 ]
