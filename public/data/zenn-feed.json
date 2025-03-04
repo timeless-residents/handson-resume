@@ -35,7 +35,7 @@
     "title": "Three.jsをはじめよう！- Introduction",
     "url": "https://zenn.dev/idev/articles/threejes-introduction",
     "published": "Mon, 03 Mar 2025 06:06:41 GMT",
-    "content": "\n Three.jsをはじめよう！- Introduction\nこの記事では、ブラウザ上で動く3Dライブラリ Three.js の基礎や魅力についてご紹介します。WebGLの複雑な処理をラップしてくれるThree.jsを使えば、JavaScriptの初歩知識だけで簡単にリッチな3D表現を実装できるようになります。\n「なんだか難しそう…」と思わ���るかもしれませんが、はじめはほんの数行のコードからスタートできるのがThree.jsの良いところです。実際にサンプルコードを試しながら進めると、3Dプログラミングの楽しさをすぐに体感できるでしょう。\n\n\n 1. Three.jsって何が良いの？\n\n...",
+    "content": "\n Three.jsをはじめよう！- Introduction\nこの記事では、ブラウザ上で動く3Dライブラリ Three.js の基礎や魅力についてご紹介します。WebGLの複雑な処理をラップしてくれるThree.jsを使えば、JavaScriptの初歩知識だけで簡単にリッチな3D表現を実装できるようになります。\n「なんだか難しそう…」と思���れるかもしれませんが、はじめはほんの数行のコードからスタートできるのがThree.jsの良いところです。実際にサンプルコードを試しながら進めると、3Dプログラミングの楽しさをすぐに体感できるでしょう。\n\n\n 1. Three.jsって何が良いの？\n\n...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--sgFe5wCK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Three.js%25E3%2582%2592%25E3%2581%25AF%25E3%2581%2598%25E3%2582%2581%25E3%2582%2588%25E3%2581%2586%25EF%25BC%2581-%2520Introduction%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -48,7 +48,7 @@
     "title": "Three.js Everyday SEASON 01 ブラウザ上で驚くような3D体験を作り出そう！",
     "url": "https://zenn.dev/idev/books/_evg-threejs",
     "published": "Mon, 03 Mar 2025 05:56:20 GMT",
-    "content": "Three.jsを使ってブラウザ上で驚���ような3D体験を作り出そう！\n\nこのシリーズ「Three.js Everyday」のSEASON 01では、3Dグラフィックスの世界への第一歩を踏み出します。JavaScriptの知識があれば、複雑な数学や低レベルのグラフィックスAPIを理解する必要なく、すぐに美しい3D表現を実現できます。\n\n基本的なセットアップから始まり、リアルタイム3Dアニメーション、インタラクティブな3Dモデル操作、魅力的なパーティクルエフェクトまで、実践的なコード例とともに段階的に学んでいきます。各チャプターでは実用的なテクニックを紹介し、すぐに自分のプロジェクトに応用できる知識を提供します。\n\nWebサイトやアプリケーションにモダンでインパクトのある3D要素を取り入れたいすべての開発者に最適なガイドです。毎日少しずつ進めることで、いつの間にかThree.jsマスターへの道を歩んでいることでしょう！\n\n全てのユースケースは以下のリンクから\n実際に動かしてお試しいただけます。\n\nhttps://timeless-residents.github.io/handson-threejs/",
+    "content": "Three.jsを使ってブラウザ上で���くような3D体験を作り出そう！\n\nこのシリーズ「Three.js Everyday」のSEASON 01では、3Dグラフィックスの世界への第一歩を踏み出します。JavaScriptの知識があれば、複雑な数学や低レベルのグラフィックスAPIを理解する必要なく、すぐに美しい3D表現を実現できます。\n\n基本的なセットアップから始まり、リアルタイム3Dアニメーション、インタラクティブな3Dモデル操作、魅力的なパーティクルエフェクトまで、実践的なコード例とともに段階的に学んでいきます。各チャプターでは実用的なテクニックを紹介し、すぐに自分のプロジェクトに応用できる知識を提供します。\n\nWebサイトやアプリケーションにモダンでインパクトのある3D要素を取り入れたいすべての開発者に最適なガイドです。毎日少しずつ進めることで、いつの間にかThree.jsマスターへの道を歩んでいることでしょう！\n\n全てのユースケースは以下のリンクから\n実際に動かしてお試しいただけます。\n\nhttps://timeless-residents.github.io/handson-threejs/",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--VKRAjEKi--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci81MWE1NzU4MTNmLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -100,7 +100,7 @@
     "title": "フロントエンド開発者のための関数型プログラミング入門 〜Elmで学ぶ関数型の考え方〜",
     "url": "https://zenn.dev/idev/articles/article-20250302-050228",
     "published": "Sat, 01 Mar 2025 20:12:01 GMT",
-    "content": "\n フロントエンド開発者のための関数型プログラミング入門 〜Elmで学ぶ関数型の考え方〜\nフロントエンド開発は複雑さを増しており、堅牢で保守性の高いコードを書くことがますます重要になっています。関数型プログラミング (FP) は、この課題に対する強力な解決策を提供します。本記事では、関数型プログラミングの基礎をElm言語を通し��学び、フロントエンド開発にどのように応用できるかを具体例と共に解説します。\nこの記事は、『フロントエンド開発者のための実践関数型プログラミング：Elmで学ぶ堅牢なUI構築と実務応用』の内容に基づいています。\n\n 関数型プログラミングとは？\n関数型プログラミングは、...",
+    "content": "\n フロントエンド開発者のための関数型プログラミング入門 〜Elmで学ぶ関数型の考え方〜\nフロントエンド開発は複雑さを増しており、堅牢で保守性の高いコードを書くことがますます重要になっています。関数型プログラミング (FP) は、この課題に対する強力な解決策を提供します。本記事では、関数型プログラミングの基礎をElm言語を通��て学び、フロントエンド開発にどのように応用できるかを具体例と共に解説します。\nこの記事は、『フロントエンド開発者のための実践関数型プログラミング：Elmで学ぶ堅牢なUI構築と実務応用』の内容に基づいています。\n\n 関数型プログラミングとは？\n関数型プログラミングは、...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--uHM805mL--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E9%2596%258B%25E7%2599%25BA%25E8%2580%2585%25E3%2581%25AE%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%25E9%2596%25A2%25E6%2595%25B0%25E5%259E%258B%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E5%2585%25A5%25E9%2596%2580%2520%25E3%2580%259CElm%25E3%2581%25A7%25E5%25AD%25A6%25E3%2581%25B6%25E9%2596%25A2%25E6%2595%25B0%25E5%259E%258B%25E3%2581%25AE%25E8%2580%2583%25E3%2581%2588%25E6%2596%25B9%25E3%2580%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -113,7 +113,7 @@
     "title": "実践OpenAI Platform開発：API活用から自社サービス構築まで",
     "url": "https://zenn.dev/idev/books/book-20250301-054619",
     "published": "Fri, 28 Feb 2025 21:17:37 GMT",
-    "content": "本書は、OpenAI PlatformのAPIを活用し、テキスト生成、画像生成、音声認識などのAI機能を自社サービスに組み込むための実践的なガイドです。主要モデルであるGPT、DALL-E、Whisperの解説から、LangChainやSemantic Kernelといったフレームワークの利用、さらにFine-tuningによるモデルのカスタマイズまで、幅広い技術を網羅しています。AI技術を活用したサービス開発に興味があるエンジニアや開発者として、WebアプリケーションやVS Code拡張機能の開発を通じて、AI開発の実践的なスキルを習得し、自社サービスにAIを組み込むための知識とノウハウを得ることができます。最新のAI技術を実践的に学ぶための価値あるリソースの提供に加え、具体的なコード例や実践的なプロジェクトを通じて、���戦力となるスキルを身につけることができます。w",
+    "content": "本書は、OpenAI PlatformのAPIを活用し、テキスト生成、画像生成、音声認識などのAI機能を自社サービスに組み込むための実践的なガイドです。主要モデルであるGPT、DALL-E、Whisperの解説から、LangChainやSemantic Kernelといったフレームワークの利用、さらにFine-tuningによるモデルのカスタマイズまで、幅広い技術を網羅しています。AI技術を活用したサービス開発に興味があるエンジニアや開発者として、WebアプリケーションやVS Code拡張機能の開発を通じて、AI開発の実践的なスキルを習得し、自社サービスにAIを組み込むための知識とノウハウを得ることができます。最新のAI技術を実践的に学ぶための価値あるリソースの提供に加え、具体的なコード例や実践的なプロジェクトを通じて���即戦力となるスキルを身につけることができます。w",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--xTV1gC3h--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9hOWE3MTU4OWJkLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -162,7 +162,7 @@
         "isPermaLink": "true"
       }
     },
-    "title": "Immutable X 実践Web3開発：スケーラブルなNFTプラットフォーム構築",
+    "title": "Immutable X 実践Web3開発：スケーラブル���NFTプラットフォーム構築",
     "url": "https://zenn.dev/idev/books/book-20250228-014804",
     "published": "Fri, 28 Feb 2025 00:07:12 GMT",
     "content": "本書は、Immutable Xを活用したWeb3開発を実践的に解説し、スケーラブルなNFTプラットフォーム構築を目指します。Immutable Xの基本概念からAPIの使い方、ガス代最適化、セキュリティ対策、NFTゲーム開発まで幅広くカバーします。読者はImmutable Xを用いたNFTアプリケーション開発の知識とスキルを習得し、独自のWeb3プロジェクトを立ち上げることが可能になります。",
@@ -201,7 +201,7 @@
         "isPermaLink": "true"
       }
     },
-    "title": "【FOR THE ELITE】実践Fintech開��：コードで金融の未来を創る",
+    "title": "【FOR THE ELITE】実践Fintech��発：コードで金融の未来を創る",
     "url": "https://zenn.dev/idev/articles/article-20250227-125527",
     "published": "Thu, 27 Feb 2025 04:19:22 GMT",
     "content": "\n 【FOR THE ELITE】実践Fintech開発：コードで金融の未来を創る\nこの記事では、エリート開発者向けの「実践Fintech開発：コードで金融の未来を創る」の内容をご紹介します。金融テクノロジー研究会による本書は、高度なFintech開発スキルを求めるエリートプログラマーのために設計された実践的ガイドとして高い評価を得ています。\n\n はじめに：エリートのためのFintech開発\nFintech（フィンテック）は、Finance（金融）とTechnology（技術）を組み合わせた分野であり、一般的な開発者ではなく、卓越したスキルを持つエリートプログラマーこそが真価を発揮できる...",
@@ -230,7 +230,7 @@
     "title": "ホームラボエンジニアリング: 自宅サーバーからはじめるインフラ構築",
     "url": "https://zenn.dev/idev/articles/article-20250227-070828",
     "published": "Wed, 26 Feb 2025 22:28:58 GMT",
-    "content": "\n ホームラボエンジニアリング: 自宅サーバーからはじめるインフラ構築\n自宅にサーバーを構築することは、インフラエンジニアリングのスキルを磨くための優れた方法です。実践的な経験を積み、新しいテクノロジーを試すことができる安全な環境を提供します。この技術記事では、自宅サーバーの構築から始め、様々なインフラ技術を学ぶための実践的なガイドを提供します。\n\n 1. ハードウェアの選択\nまずは、サーバーに使用するハードウェアを選びます。選択肢は大きく分けて３つあります。\n\n\n古いパソコンの再利用: 低コストで始められるメリットがありますが、性能や電力効率に限界がある���合があります。\n\nミニPC: ...",
+    "content": "\n ホームラボエンジニアリング: 自宅サーバーからはじめるインフラ構築\n自宅にサーバーを構築することは、インフラエンジニアリングのスキルを磨くための優れた方法です。実践的な経験を積み、新しいテクノロジーを試すことができる安全な環境を提供します。この技術記事では、自宅サーバーの構築から始め、様々なインフラ技術を学ぶための実践的なガイドを提供します。\n\n 1. ハードウェアの選択\nまずは、サーバーに使用するハードウェアを選びます。選択肢は大きく分けて３つあります。\n\n\n古いパソコンの再利用: 低コストで始められるメリットがありますが、性能や電力効率に限界があ���場合があります。\n\nミニPC: ...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--_DjbE36j--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%259B%25E3%2583%25BC%25E3%2583%25A0%25E3%2583%25A9%25E3%2583%259C%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%253A%2520%25E8%2587%25AA%25E5%25AE%2585%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%25E3%2581%258B%25E3%2582%2589%25E3%2581%25AF%25E3%2581%2598%25E3%2582%2581%25E3%2582%258B%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2595%25E3%2583%25A9%25E6%25A7%258B%25E7%25AF%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -253,7 +253,7 @@
         "isPermaLink": "true"
       }
     },
-    "title": "レガシーからモダンまで：7つの言語から学ぶプログラミングパラ���イム",
+    "title": "レガシーからモダンまで：7つの言語から学ぶプログラミングパラダイム",
     "url": "https://zenn.dev/idev/articles/article-20250226-103231",
     "published": "Wed, 26 Feb 2025 02:08:29 GMT",
     "content": "\n レガシーからモダンまで：7つの言語から学ぶプログラミングパラダイム\nプログラミングパラダイムは、プログラムを構造化し、問題を解決するための基本的なアプローチを定義します。異なるパラダイムを理解することは、より効率的で、読みやすく、保守しやすいコードを書くために不可欠です。この記事では、7つの主要なプログラミング言語を通して、異なるパラダイムを探求し、それぞれの利点と欠点、そして具体的な使用例を学びます。\n1. Fortran (手続き型プログラミング):\nFortranは、科学技術計算のために開発された初期の言語であり、手続き型プログラミングの典型です。手続き型プログラミングは、一連...",
