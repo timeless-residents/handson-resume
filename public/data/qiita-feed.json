@@ -1,30 +1,30 @@
 [
   {
-    "id": "tag:qiita.com,2005:PublicArticle/1995069",
-    "title": "AnkiConnect Python 実践レシピ フラッシュカード学習を効率化する自動化スクリプト集",
-    "url": "https://qiita.com/timeless-residents/items/6fe82bcd962b63ca1ca7",
-    "published": "2025-03-04T11:08:36+09:00",
-    "content": "AnkiConnect + Python 実践レシピ: フラッシュカード学習を効率化する自動化スクリプト集\nはじめに: AnkiConnectとPythonで学習を自動化するメリット\nAnkiは強力…"
+    "id": "tag:qiita.com,2005:PublicArticle/1995441",
+    "title": "脱動けばOK 1日15分でコード品質爆上げ リファクタリングデバッグ可読性向上術",
+    "url": "https://qiita.com/timeless-residents/items/67cf8fdde67d2bbe166d",
+    "published": "2025-03-05T07:20:25+09:00",
+    "content": "「とりあえず動いた！」で終わらせていませんか？　日々の開発で積み重なる技術的負債は、将来的に大きな痛手となります。しかし、大規模なリファクタリングに時間を割く余裕もない…。\nこの記事では、1日たった…"
   },
   {
-    "id": "tag:qiita.com,2005:PublicArticle/1994631",
-    "title": "Canva Apps SDK実践ガイド",
-    "url": "https://qiita.com/timeless-residents/items/d754046f38dba2c49598",
-    "published": "2025-03-03T06:42:15+09:00",
-    "content": "はじめに – Canva Apps SDKの概要と魅力\nCanvaは、世界で1億3,500万人以上が利用する人気のオンラインデザインプラットフォームです。[^1] 豊富なテンプレートと直感的な操作性…"
+    "id": "tag:qiita.com,2005:PublicArticle/1995437",
+    "title": "仕様変更に強いアジャイル開発で仕様の進化を味方にする実践ガイド",
+    "url": "https://qiita.com/timeless-residents/items/114aedda3dee6608b881",
+    "published": "2025-03-05T07:20:24+09:00",
+    "content": "アジャイル開発は、変化を前提とした開発手法です。しかし、現実は「仕様変更は悪」という固定観念が根強く、変化への対応が後手に回るケースも少なくありません。本稿では、仕様変更を敵ではなく、進化のチャンス…"
   },
   {
-    "id": "tag:qiita.com,2005:PublicArticle/1994205",
-    "title": "Elmで始める堅牢なWeb UI開発：型安全とリアクティブアーキテクチャの実践",
-    "url": "https://qiita.com/timeless-residents/items/0244c4b8c511186ab24a",
-    "published": "2025-03-02T05:36:23+09:00",
-    "content": "Elmで始める堅牢なWeb UI開発：型安全とリアクティブアーキテクチャの実践\nElmは、そのコンパイラの厳格さと、The Elm Architecture (TEA) というシンプルで予測可能なア…"
+    "id": "tag:qiita.com,2005:PublicArticle/1995438",
+    "title": "依頼過多エンジニア脱却専門性集中と爆速成長を実現するタスク整理術テンプレートコード例付き",
+    "url": "https://qiita.com/timeless-residents/items/0a09c0aa31038120692b",
+    "published": "2025-03-05T07:20:24+09:00",
+    "content": "気づけば「何でも屋」エンジニア。頼られるのは嬉しいけど、キャパオーバーで疲弊...そんなあなたへ。本記事では、依頼過多状態から抜け出し、専門性を磨きながら爆速成長を実現するためのタスク整理術を、独自…"
   },
   {
-    "id": "tag:qiita.com,2005:PublicArticle/1993769",
-    "title": "Macで実現高品質な音声収録編集ワークフロー：実務で使えるPythonスクリプトとトラブルシューティング",
-    "url": "https://qiita.com/timeless-residents/items/ad01276606caedbe6d60",
-    "published": "2025-03-01T00:30:05+09:00",
-    "content": "Macで実現！高品質な��声収録・編集ワークフロー：実務で使えるPythonスクリプトとトラブルシューティング\nはじめに：Macでの音声収録における課題と解決策\nMacは標準で高品質なオーディオインタ…"
+    "id": "tag:qiita.com,2005:PublicArticle/1995439",
+    "title": "本番環境を守る障害ゼロを目指す実践的CICDパイプライン構築術：TerraformAnsibleKubernetes対応",
+    "url": "https://qiita.com/timeless-residents/items/c719e8e351e112bde540",
+    "published": "2025-03-05T07:20:24+09:00",
+    "content": "1. はじめに：本番障害から学ぶ、CI/CDパイプライン構築の重要性\n本番環境で障害が発生する度に、私たちは「もっと早く検知できていれば…」「もっと安全なデプロイ方法があったはずだ…」と後悔します。…"
   }
 ]
