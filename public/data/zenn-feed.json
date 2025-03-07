@@ -48,7 +48,7 @@
     "title": "IoTセンサーネットワーク実装ガイド：理論から実践まで",
     "url": "https://zenn.dev/idev/articles/article-20250306-065152",
     "published": "Wed, 05 Mar 2025 21:53:56 GMT",
-    "content": "\n IoTセンサーネットワーク実装ガイド：理論から実践まで\nこの記事では、IoTセンサーネットワークの構築と実装について、理論的な背景から実践的な手順までを網羅的に解説します。『IoT現場実装バイブル：センサーネットワーク構築、データ活用、課題解決の羅針盤』の内容に基づき、具体的な例を交えながら、段階的に理解できるように構成しています。\n\n 1. IoTセンサーネットワークの概要\nIoTセンサーネットワークとは、複数のセンサーノードが協調して動作し、物理世界の情報を収集・伝達するネットワークです。環境モニタリング、スマート農業、ヘルスケアなど、様々な分野で活用さ���ています。\n\n 2. セ...",
+    "content": "\n IoTセンサーネットワーク実装ガイド：理論から実践まで\nこの記事では、IoTセンサーネットワークの構築と実装について、理論的な背景から実践的な手順までを網羅的に解説します。『IoT現場実装バイブル：センサーネットワーク構築、データ活用、課題解決の羅針盤』の内容に基づき、具体的な例を交えながら、段階的に理解できるように構成しています。\n\n 1. IoTセンサーネットワークの概要\nIoTセンサーネットワークとは、複数のセンサーノードが協調して動作し、物理世界の情報を収集・伝達するネットワークです。環境モニタリング、スマート農業、ヘルスケアなど、様々な分野で活用され���います。\n\n 2. セ...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--QoZoWMB8--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:IoT%25E3%2582%25BB%25E3%2583%25B3%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%258D%25E3%2583%2583%25E3%2583%2588%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E5%25AE%259F%25E8%25A3%2585%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%25EF%25BC%259A%25E7%2590%2586%25E8%25AB%2596%25E3%2581%258B%25E3%2582%2589%25E5%25AE%259F%25E8%25B7%25B5%25E3%2581%25BE%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -61,7 +61,7 @@
     "title": "スケーラブルMMOゲーム開発：Node.js & WebSocket 実践ガイド - リアルタイム通信、ゲームロジック、パフォーマンス最適化",
     "url": "https://zenn.dev/idev/books/book-20250306-060024",
     "published": "Wed, 05 Mar 2025 21:32:33 GMT",
-    "content": "本書は、Node.jsとWebSocket���用いてスケーラブルなMMOゲームを開発するための実践的なガイドです。リアルタイム通信、ゲームロジック、パフォーマンス最適化、セキュリティ対策など、MMOゲーム開発に必要な幅広い技術と概念を網羅しています。読者は、本書を通して、MMOゲーム開発の基礎から応用までを習得し、独自のMMOワールドを創造する力を得られます。",
+    "content": "本書は、Node.jsとWebSocketを���いてスケーラブルなMMOゲームを開発するための実践的なガイドです。リアルタイム通信、ゲームロジック、パフォーマンス最適化、セキュリティ対策など、MMOゲーム開発に必要な幅広い技術と概念を網羅しています。読者は、本書を通して、MMOゲーム開発の基礎から応用までを習得し、独自のMMOワールドを創造する力を得られます。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--ShNx6YAj--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci82ZGVjZmRmZDJmLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -100,7 +100,7 @@
     "title": "Scriptableユーザーガイド：iOSを自動化する完全解説",
     "url": "https://zenn.dev/idev/articles/article-20250305-122846",
     "published": "Wed, 05 Mar 2025 03:39:58 GMT",
-    "content": "\n Scriptableユーザーガイド：iOSを自動化する完全解説\nScriptableは、iOS上でJavaScriptを使って様々な自動化を実現できる強力なアプリです。このガイドでは、Scriptableの基本から応用まで���網羅し、あなた自身のiOS自動化を実現するための完全な解説を提供します。この記事は、『iOS自動化の最終兵器：Scriptable 実践レシピ集』の内容に基づいて構成されています。\n\n Scriptableとは？\nScriptableは、iOS/iPadOS上でJavaScriptを実行できるアプリです。iOSの様々な機能にアクセスできるAPIが提供されており、こ...",
+    "content": "\n Scriptableユーザーガイド：iOSを自動化する完全解説\nScriptableは、iOS上でJavaScriptを使って様々な自動化を実現できる強力なアプリです。このガイドでは、Scriptableの基本から応用までを���羅し、あなた自身のiOS自動化を実現するための完全な解説を提供します。この記事は、『iOS自動化の最終兵器：Scriptable 実践レシピ集』の内容に基づいて構成されています。\n\n Scriptableとは？\nScriptableは、iOS/iPadOS上でJavaScriptを実行できるアプリです。iOSの様々な機能にアクセスできるAPIが提供されており、こ...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--ccU-uisB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Scriptable%25E3%2583%25A6%25E3%2583%25BC%25E3%2582%25B6%25E3%2583%25BC%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%25EF%25BC%259AiOS%25E3%2582%2592%25E8%2587%25AA%25E5%258B%2595%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25E5%25AE%258C%25E5%2585%25A8%25E8%25A7%25A3%25E8%25AA%25AC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -204,7 +204,7 @@
     "title": "Three.js Everyday SEASON 01 ブラウザ上で驚くような3D体験を作り出そう！",
     "url": "https://zenn.dev/idev/books/_evg-threejs",
     "published": "Mon, 03 Mar 2025 05:56:20 GMT",
-    "content": "Three.jsを使ってブラウザ上で驚くような3D体験を作り出そう！\n\nこのシリーズ「Three.js Everyday」のSEASON 01では、3Dグラフィックスの世界への第一歩を踏み出します。JavaScriptの知識があれば、複雑な数学や低レベル���グラフィックスAPIを理解する必要なく、すぐに美しい3D表現を実現できます。\n\n基本的なセットアップから始まり、リアルタイム3Dアニメーション、インタラクティブな3Dモデル操作、魅力的なパーティクルエフェクトまで、実践的なコード例とともに段階的に学んでいきます。各チャプターでは実用的なテクニックを紹介し、すぐに自分のプロジェクトに応用できる知識を提供します。\n\nWebサイトやアプリケーションにモダンでインパクトのある3D要素を取り入れたいすべての開発者に最適なガイドです。毎日少しずつ進めることで、いつの間にかThree.jsマスターへの道を歩んでいることでしょう！\n\n全てのユースケースは以下のリンクから\n実際に動かしてお試しいただけます。\n\nhttps://timeless-residents.github.io/handson-threejs/",
+    "content": "Three.jsを使ってブラウザ上で驚くような3D体験を作り出そう！\n\nこのシリーズ「Three.js Everyday」のSEASON 01では、3Dグラフィックスの世界への第一歩を踏み出します。JavaScriptの知識があれば、複雑な数学や低レベルの���ラフィックスAPIを理解する必要なく、すぐに美しい3D表現を実現できます。\n\n基本的なセットアップから始まり、リアルタイム3Dアニメーション、インタラクティブな3Dモデル操作、魅力的なパーティクルエフェクトまで、実践的なコード例とともに段階的に学んでいきます。各チャプターでは実用的なテクニックを紹介し、すぐに自分のプロジェクトに応用できる知識を提供します。\n\nWebサイトやアプリケーションにモダンでインパクトのある3D要素を取り入れたいすべての開発者に最適なガイドです。毎日少しずつ進めることで、いつの間にかThree.jsマスターへの道を歩んでいることでしょう！\n\n全てのユースケースは以下のリンクから\n実際に動かしてお試しいただけます。\n\nhttps://timeless-residents.github.io/handson-threejs/",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--Ji3jGf4J--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8yNDNjMzNkZmE2LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -256,7 +256,7 @@
     "title": "フロントエンド開発者のための関数型プログラミング入門 〜Elmで学ぶ関数型の考え方〜",
     "url": "https://zenn.dev/idev/articles/article-20250302-050228",
     "published": "Sat, 01 Mar 2025 20:12:01 GMT",
-    "content": "\n フロントエンド開発者のための関数型プログラミング入門 〜Elmで学ぶ関数型の考え方〜\nフロントエンド開発は複雑さを増しており、堅牢で保守性の高いコードを書くことがますます重要になっています。関数型プログラミング (FP) は、この課題に対する強力な解決策を提供します。本記事では、関数型プログラミングの基礎をElm言語を通して学び、フロントエンド開発にどのように応用できるかを具体例と共に解説します。\nこの記事は、『フロントエンド開発者のための実践関数型プログラミング：Elmで学ぶ堅牢なUI��築と実務応用』の内容に基づいています。\n\n 関数型プログラミングとは？\n関数型プログラミングは、...",
+    "content": "\n フロントエンド開発者のための関数型プログラミング入門 〜Elmで学ぶ関数型の考え方〜\nフロントエンド開発は複雑さを増しており、堅牢で保守性の高いコードを書くことがますます重要になっています。関数型プログラミング (FP) は、この課題に対する強力な解決策を提供します。本記事では、関数型プログラミングの基礎をElm言語を通して学び、フロントエンド開発にどのように応用できるかを具体例と共に解説します。\nこの記事は、『フロントエンド開発者のための実践関数型プログラミング：Elmで学ぶ堅牢なUI構��と実務応用』の内容に基づいています。\n\n 関数型プログラミングとは？\n関数型プログラミングは、...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--uHM805mL--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E9%2596%258B%25E7%2599%25BA%25E8%2580%2585%25E3%2581%25AE%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%25E9%2596%25A2%25E6%2595%25B0%25E5%259E%258B%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E5%2585%25A5%25E9%2596%2580%2520%25E3%2580%259CElm%25E3%2581%25A7%25E5%25AD%25A6%25E3%2581%25B6%25E9%2596%25A2%25E6%2595%25B0%25E5%259E%258B%25E3%2581%25AE%25E8%2580%2583%25E3%2581%2588%25E6%2596%25B9%25E3%2580%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   }
 ]
