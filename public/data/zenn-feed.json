@@ -205,7 +205,7 @@
     "url": "https://zenn.dev/idev/books/_evg-threejs",
     "published": "Mon, 03 Mar 2025 05:56:20 GMT",
     "content": "Three.jsを使ってブラウザ上で驚くような3D体験を作り出そう！\n\nこのシリーズ「Three.js Everyday」のSEASON 01では、3Dグラフィックスの世界への第一歩を踏み出します。JavaScriptの知識があれば、複雑な数学や低レベルの���ラフィックスAPIを理解する必要なく、すぐに美しい3D表現を実現できます。\n\n基本的なセットアップから始まり、リアルタイム3Dアニメーション、インタラクティブな3Dモデル操作、魅力的なパーティクルエフェクトまで、実践的なコード例とともに段階的に学んでいきます。各チャプターでは実用的なテクニックを紹介し、すぐに自分のプロジェクトに応用できる知識を提供します。\n\nWebサイトやアプリケーションにモダンでインパクトのある3D要素を取り入れたいすべての開発者に最適なガイドです。毎日少しずつ進めることで、いつの間にかThree.jsマスターへの道を歩んでいることでしょう！\n\n全てのユースケースは以下のリンクから\n実際に動かしてお試しいただけます。\n\nhttps://timeless-residents.github.io/handson-threejs/",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--Ji3jGf4J--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8yNDNjMzNkZmE2LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--wPnNWJ38--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8yNzNhNzRiN2ZkLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
     "id": {

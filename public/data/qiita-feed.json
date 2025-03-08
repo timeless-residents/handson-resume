@@ -1,5 +1,12 @@
 [
   {
+    "id": "tag:qiita.com,2005:PublicArticle/1996634",
+    "title": "PyInstaller+dmgbuild+codesign完全攻略：Macアプリ配布のハンズオンチュートリアル",
+    "url": "https://qiita.com/timeless-residents/items/b51fdeab98a7f187e227",
+    "published": "2025-03-08T05:11:21+09:00",
+    "content": "PyInstaller+dmgbuild+codesign完全攻略：Macアプリ配布のハンズオンチュートリアル\nこのリポジトリでは、シンプルなPython Tkinterアプリケーションを、PyIn…"
+  },
+  {
     "id": "tag:qiita.com,2005:PublicArticle/1995818",
     "title": "【ステップバイステップ】Web Audio APIで音楽生成アプリ開発チュートリアル",
     "url": "https://qiita.com/timeless-residents/items/8f3c883a2acc9f7c0f6c",
@@ -19,12 +26,5 @@
     "url": "https://qiita.com/timeless-residents/items/114aedda3dee6608b881",
     "published": "2025-03-05T07:20:24+09:00",
     "content": "アジャイル開発は、変化を前提とした開発手法です。しかし、現実は「仕様変更は悪」という固定観念が根強く、変化への対応が後手に回るケースも少なくありません。本稿では、仕様変更を敵ではなく、進化のチャンス…"
-  },
-  {
-    "id": "tag:qiita.com,2005:PublicArticle/1995438",
-    "title": "依頼過多エンジニア脱却専門性集中と爆速成長を実現するタスク整理術テンプレートコード例付き",
-    "url": "https://qiita.com/timeless-residents/items/0a09c0aa31038120692b",
-    "published": "2025-03-05T07:20:24+09:00",
-    "content": "気づけば「何でも屋」エンジニア。頼られるのは嬉しいけど、キャパオーバーで疲弊...そんなあなたへ。本記事では、依頼過多状態から抜け出し、専門性を磨きながら爆速成長を実現するためのタスク整理術を、独自…"
   }
 ]
