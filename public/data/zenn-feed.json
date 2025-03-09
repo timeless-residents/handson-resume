@@ -1,6 +1,32 @@
 [
   {
     "id": {
+      "_": "https://zenn.dev/idev/books/book-20250309-112710",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "Eleven Labs超活用！自分の声で創る「没入型」ネイティブ英語学習：ゼロから始めるパーソナルAI英語教師育成術",
+    "url": "https://zenn.dev/idev/books/book-20250309-112710",
+    "published": "Sun, 09 Mar 2025 02:50:06 GMT",
+    "content": "本書は、AI音声技術Eleven Labsを活用して、自身の声でパーソナライズされた英語学習環境を構築する方法を解説します。Voice Cloningによる教材作成、発音矯正、語彙・文法学習、シャドーイング、ディクテーションなど、あらゆる学習フェーズでAIを活用し、英語力を効率的に向上させるための実践的なノウハウを提供します。API連携やYouTube、ポッドキャストとの連携方法も紹介し、英語学習コンテンツの作成と発信までをサポートします。",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--5UfD8icH--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8wNDgxOWY4M2IwLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/articles/article-20250309-113619",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "Eleven Labs 自分の声で学ぶネイティブ英語学習加速法",
+    "url": "https://zenn.dev/idev/articles/article-20250309-113619",
+    "published": "Sun, 09 Mar 2025 02:49:52 GMT",
+    "content": "\n Eleven Labs 自分の声で学ぶネイティブ英語学習加速法\n英語学習において、発音の習得は非常に重要です。しかし、自分の発音を客観的に評価し、ネイティブスピーカーのように自然に話すことは容易ではありません。Eleven Labsの音声クローン技術は、この課題を解決する革新的なツールを提供します。本記事では、Eleven Labsを活用した「自分の声で学ぶネイティブ英語学習加速法」について、実践的な手順と具体的な例を交えて解説します。\nこの記事は、『Eleven Labs超活用！自分の声で創る「没入型」ネイティブ英語学習：ゼロから始めるパーソナルAI英語教師育成術』の内容に基づいて...",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--_HPLY4tv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Eleven%2520Labs%2520%25E8%2587%25AA%25E5%2588%2586%25E3%2581%25AE%25E5%25A3%25B0%25E3%2581%25A7%25E5%25AD%25A6%25E3%2581%25B6%25E3%2583%258D%25E3%2582%25A4%25E3%2583%2586%25E3%2582%25A3%25E3%2583%2596%25E8%258B%25B1%25E8%25AA%259E%25E5%25AD%25A6%25E7%25BF%2592%25E5%258A%25A0%25E9%2580%259F%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+  },
+  {
+    "id": {
       "_": "https://zenn.dev/idev/books/book-20250309-072706",
       "$": {
         "isPermaLink": "true"
@@ -22,7 +48,7 @@
     "title": "デジタル国家戦略 2.0：Web3時代の金融インフラと国家主権",
     "url": "https://zenn.dev/idev/books/book-20250309-044006",
     "published": "Sat, 08 Mar 2025 23:20:13 GMT",
-    "content": "本書は、Web3時代の金融インフラと国家主権を主題とし、ビットコイン、ブロックチェーン、DeFi、CBDCなどの技術を国家戦略に取り込む可能性を探ります。Web3技術の基礎から応用、規制、セキュリティ、ビジネスチャンスまで幅広く扱い、読者はWeb3が国家と金融システムに及ぼす影響を理解し、実践的な知識を得ることができます。Web3技術を活用した未来社会の展望を示し、読者が主体的に未来を切り開くための羅針盤となることを目指します。",
+    "content": "本書は、Web3時代の金融インフラと国家主権を主題とし、ビットコイン、ブロックチェーン、DeFi、CBDCなどの技術を国家戦略に取り込む可能性を探ります。Web3技術の基礎から応用、規制、セキュリティ、ビジネスチャンスまで幅広く扱い、読者はWeb3が国家と金融システムに及ぼす影響を理解し、実践的な知識を得ることができます���Web3技術を活用した未来社会の展望を示し、読者が主体的に未来を切り開くための羅針盤となることを目指します。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--ou6r_3YY--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9hODk4ZmY4NWY5LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -35,7 +61,7 @@
     "title": "英語運用能力を鍛える教科書",
     "url": "https://zenn.dev/idev/articles/article-20250309-073539",
     "published": "Sat, 08 Mar 2025 23:19:59 GMT",
-    "content": "\n 英語運用能力を鍛える教科書\nこの記事では、ビジネスシーンで効果的に英語を使うための実践的なテクニックを紹介します。書籍『英語脳を爆速起動！ 実践型ビジネス英語トレーニング』の内容に基づき、英語運用能力を向上させるための具体的な方法を段階的に解説します。\n\n 英語脳を起動させるための基礎\n英語を流暢に話すためには、「英語脳」を起動させることが重要です。これは、日本語で考えずに英語で直接思考する状態を指します。そのためには、以下の3つのポイントを意識しましょう。\n\n\n英語を英語のまま理解する: 日本語に訳さずに、英語の音と意味を直接結びつける訓練をします。\n\n英語のリズムとイントネーショ...",
+    "content": "\n 英語運用能力を鍛える教科書\nこの記事では、ビジネスシーンで効果的に英語を使うための実践的なテクニックを紹介します。書籍『英語脳を爆速起動！ 実践型ビジネス英語トレーニング』の内容に基づき、英語運用能力を向上させるための具体的な方法を段階的に解説します。\n\n 英語脳を起動させるための基礎\n英語を流暢に話すためには、「英語脳」を起動させることが重要です。これは、日本語で考えずに英語で直接思考��る状態を指します。そのためには、以下の3つのポイントを意識しましょう。\n\n\n英語を英語のまま理解する: 日本語に訳さずに、英語の音と意味を直接結びつける訓練をします。\n\n英語のリズムとイントネーショ...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--appEfy_I--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%258B%25B1%25E8%25AA%259E%25E9%2581%258B%25E7%2594%25A8%25E8%2583%25BD%25E5%258A%259B%25E3%2582%2592%25E9%258D%259B%25E3%2581%2588%25E3%2582%258B%25E6%2595%2599%25E7%25A7%2591%25E6%259B%25B8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -61,7 +87,7 @@
     "title": "GitHub Actionsで爆速リリース！PyInstaller & DMGbuild 実践 macOS アプリ開発入門",
     "url": "https://zenn.dev/idev/books/book-20250307-184553",
     "published": "Fri, 07 Mar 2025 10:06:29 GMT",
-    "content": "本書は、Pythonで開発したmacOSアプリをPyInstallerとDMGbuildを用いてパッケージングし、自動ビルド・リリースを実現するための実践的なガイドです。GitHub ActionsによるCI/CDパイプライン構築、コード署名、Notarizationといったリリースに必要な工程を網羅的に解説します。読者は、Python製のmacOSアプリを効率的に開発・配布するための知識とスキルを習得できます。",
+    "content": "本書は、Pythonで開発したmacOSアプリをPyInstallerとDMGbuildを用いてパッケージングし、自動ビルド・リリースを実現するための実践的なガイドです。GitHub ActionsによるCI/CDパイプライン構築、コード署名、Notarizationといったリリースに必要な工程を網羅的に解説します。読者は、Python製のmacOSアプリを効率的に開発・配布する���めの知識とスキルを習得できます。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--psbkGUad--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci81OTRjM2VjNDhjLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -87,7 +113,7 @@
     "title": "IoT現場実装バイブル：センサーネットワーク構築、データ活用、課題解決の羅針盤",
     "url": "https://zenn.dev/idev/books/book-20250306-063811",
     "published": "Wed, 05 Mar 2025 21:54:08 GMT",
-    "content": "本書は、IoTセンサーネットワーク構築、データ活用、課題解決のための実践的なガイドです。センサー選定からデータ分析、セキュリティ対策、ビジネスモデルまで、現場実装に必要な知識を網羅的に解説します。読者は、具体的な事例を通して、IoTプロジェクトを成功に導くための羅針盤となる知識とスキルを習得できます。",
+    "content": "本書は、IoTセンサーネットワーク構築、データ活用、課題解決のための実践的なガイドです。センサー選定からデータ分析、セキュリティ対策、ビジネスモデルまで、現場実装��必要な知識を網羅的に解説します。読者は、具体的な事例を通して、IoTプロジェクトを成功に導くための羅針盤となる知識とスキルを習得できます。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--GGjFMFX_--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9mZDQyMGRlZTZjLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -113,7 +139,7 @@
     "title": "スケーラブルMMOゲーム開発：Node.js & WebSocket 実践ガイド - リアルタイム通信、ゲームロジック、パフォーマンス最適化",
     "url": "https://zenn.dev/idev/books/book-20250306-060024",
     "published": "Wed, 05 Mar 2025 21:32:33 GMT",
-    "content": "本書は、Node.jsとWebSocketを用いてスケーラブルなMMOゲームを開発するための実践的なガイドです。リアルタイム通信、ゲームロジック、パフォーマンス最適化、セキュリティ対策など、MMOゲーム開発に必要な幅��い技術と概念を網羅しています。読者は、本書を通して、MMOゲーム開発の基礎から応用までを習得し、独自のMMOワールドを創造する力を得られます。",
+    "content": "本書は、Node.jsとWebSocketを用いてスケーラブルなMMOゲームを開発するための実践的なガイドです。リアルタイム通信、ゲームロジック、パフォーマンス最適化、セキュリティ対策など、MMOゲーム開発に必要な幅広い技術と概念を網羅しています。読者は、本書を通して、MMOゲーム開発の基礎から応用までを習得し、独自のMMOワールドを創造する力を得られます。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--ShNx6YAj--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci82ZGVjZmRmZDJmLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -123,10 +149,10 @@
         "isPermaLink": "true"
       }
     },
-    "title": "MMOゲームの作り方 Node.js x WebSocketで学ぶ",
+    "title": "MMOゲームの作り方 Node.js x WebSocket���学ぶ",
     "url": "https://zenn.dev/idev/articles/article-20250306-061357",
     "published": "Wed, 05 Mar 2025 21:32:22 GMT",
-    "content": "\n MMOゲームの作り方 Node.js x WebSocketで学ぶ\nこの記事では、Node.jsとWebSocketを用いてシンプルなMMOゲームを作る方法を解説します。リアルタイム通信が不可欠なMMOゲーム開発において、WebSocketは強力なツールとなります。この記事は『スケーラブルMMOゲーム開発：Node.js &amp; WebSocket 実践ガイド - リアルタイム通信、ゲームロジック、パフォーマンス最適化』の内容に基づいており、基本的���概念から実践的な実装までを段階的に学べる構成となっています。\n\n WebSocketとは？\nWebSocketは、クライアントとサー...",
+    "content": "\n MMOゲームの作り方 Node.js x WebSocketで学ぶ\nこの記事では、Node.jsとWebSocketを用いてシンプルなMMOゲームを作る方法を解説します。リアルタイム通信が不可欠なMMOゲーム開発において、WebSocketは強力なツールとなります。この記事は『スケーラブルMMOゲーム開発：Node.js &amp; WebSocket 実践ガイド - リアルタイム通信、ゲームロジック、パフォーマンス最適化』の内容に基づいており、基本的な概念から実践的な実装までを段階的に学べる構成となっています。\n\n WebSocketとは？\nWebSocketは、クライアントとサー...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--1s8C2E8A--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:MMO%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25AE%25E4%25BD%259C%25E3%2582%258A%25E6%2596%25B9%2520Node.js%2520x%2520WebSocket%25E3%2581%25A7%25E5%25AD%25A6%25E3%2581%25B6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -139,7 +165,7 @@
     "title": "iOS自動化の最終兵器：Scriptable 実践レシピ集",
     "url": "https://zenn.dev/idev/books/book-20250305-121502",
     "published": "Wed, 05 Mar 2025 03:40:10 GMT",
-    "content": "OSの自動化アプリScriptableの実践的な活用方法を解説するレシピ集です。ウィジェット作成からAPI連携、Siriショートカット連携まで、���広い自動化テクニックを具体的なコード例と共に紹介します。初心者でもScriptableを使いこなし、日々のタスクを効率化できるようになることを目指します。",
+    "content": "OSの自動化アプリScriptableの実践的な活用方法を解説するレシピ集です。ウィジェット作成からAPI連携、Siriショートカット連携まで、幅広い自動化テクニックを具体的なコード例と共に紹介します。初心者でもScriptableを使いこなし、日々のタスクを効率化できるようになることを目指します。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--45Hge6WA--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9hZTIxNTRiYzc1LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -165,7 +191,7 @@
     "title": "現場で役立つ！ESP32ではじめる実践IoT開発：環境構築からデータ分析、ビジネス活用まで",
     "url": "https://zenn.dev/idev/books/book-20250305-064249",
     "published": "Tue, 04 Mar 2025 22:02:14 GMT",
-    "content": "本書は���IoT開発の入門から実践までをESP32を用いて解説します。環境構築、センサー連携、クラウド連携、データ可視化、省電力化、セキュリティ対策など、広範な技術要素を網羅し、具体的な事例を通じてビジネス活用までを視野に入れます。読者は、ESP32を用いたIoTシステム開発に必要な知識とスキルを習得し、実際にIoTプロジェクトを立ち上げられるようになります。",
+    "content": "本書は、IoT開発の入門から実践までをESP32を用いて解説します。環境構築、センサー連携、クラウド連携、データ可視化、省電力化、セキュリティ対策など、広範な技術要素を網羅し、具体的な事例を通じてビジネス活用までを視野に入れます。読者は、ESP32を用いたIoTシステム開発に必要な知識とスキルを習得し、実際にIoTプロジェクトを立ち上げられるようになります。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--9ypQyzyB--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8zNzAzMjdhMDNiLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -178,7 +204,7 @@
     "title": "ESP32で始めるIoT",
     "url": "https://zenn.dev/idev/articles/article-20250305-065625",
     "published": "Tue, 04 Mar 2025 22:02:01 GMT",
-    "content": "\n ESP32で始めるIoT\nこの記事では、低コスト、低消費電力、Wi-Fi &amp; Bluetooth内蔵という特徴を持つESP32を使い、IoTシステム開発の基礎をステップバイステップで解説します。実践的な例を通して、���者が実際に動作するIoTシステムを構築できるよう、具体的なコードサンプルと詳細な説明を提供します。この記事は、『現場で役立つ！ESP32ではじめる実践IoT開発：環境構築からデータ分析、ビジネス活用まで』の内容に基づいています。\n\n 1. ESP32とは？\nESP32は、Espressif Systemsが開発した低コストでパワフルなマイクロコントローラです。Wi...",
+    "content": "\n ESP32で始めるIoT\nこの記事では、低コスト、低消費電力、Wi-Fi &amp; Bluetooth内蔵という特徴を持つESP32を使い、IoTシステム開発の基礎をステップバイステップで解説します。実践的な例を通して、読者が実際に動作するIoTシステムを構築できるよう、具体的なコードサンプルと詳細な説明を提供します。この記事は、『現場で役立つ！ESP32ではじめる実践IoT開発：環境構築からデータ分析、ビジネス活用まで』の内容に基づいています。\n\n 1. ESP32とは？\nESP32は、Espressif Systemsが開発した低コストでパワフルなマイクロコントローラです。Wi...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--WxSt0ikc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_66:ESP32%25E3%2581%25A7%25E5%25A7%258B%25E3%2582%2581%25E3%2582%258BIoT%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -188,7 +214,7 @@
         "isPermaLink": "true"
       }
     },
-    "title": "Stable Diffusion 実践ガイド：プロンプトエンジニアリング、カスタ���イズ、そしてビジネス活用",
+    "title": "Stable Diffusion 実践ガイド：プロンプトエンジニアリング、カスタマイズ、そしてビジネス活用",
     "url": "https://zenn.dev/idev/books/book-20250305-061549",
     "published": "Tue, 04 Mar 2025 21:36:24 GMT",
     "content": "本書は、Stable Diffusionを用いた画像生成の基礎から応用までを網羅的に解説します。プロンプトエンジニアリング、モデルのカスタマイズ、WebUIの活用、ビジネス応用など、実践的なスキルを習得できます。セキュリティや倫理にも触れ、AI技術を安全に活用するための知識も得られます。",
@@ -204,7 +230,7 @@
     "title": "Stable Diffusionで始める実践的画像生成入門",
     "url": "https://zenn.dev/idev/articles/article-20250305-062846",
     "published": "Tue, 04 Mar 2025 21:36:15 GMT",
-    "content": "\n Stable Diffusionで始める実践的画像生成入門\nこの記事では、画像生成AI Stable Diffusion を使って、実際に画像を生成する方法をステップバイステップで解説します。プロンプトの基本から、パラメ��タ調整、高度なテクニックまで、実践的な知識を身につけることができます。この記事は、『Stable Diffusion 実践ガイド：プロンプトエンジニアリング、カスタマイズ、そしてビジネス活用』の内容に基づいており、Stable Diffusion を使いこなすための入門として最適です。\n\n Stable Diffusionとは？\nStable Diffusion は...",
+    "content": "\n Stable Diffusionで始める実践的画像生成入門\nこの記事では、画像生成AI Stable Diffusion を使って、実際に画像を生成する方法をステップバイステップで解説します。プロンプトの基本から、パラメータ調整、高度なテクニックまで、実践的な知識を身につけることができます。この記事は、『Stable Diffusion 実践ガイド：プロンプトエンジニアリング、カスタマイズ、そしてビジネス活用』の内容に基づいており、Stable Diffusion を使いこなすための入門として最適です。\n\n Stable Diffusionとは？\nStable Diffusion は...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--_lo42Hqc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Stable%2520Diffusion%25E3%2581%25A7%25E5%25A7%258B%25E3%2582%2581%25E3%2582%258B%25E5%25AE%259F%25E8%25B7%25B5%25E7%259A%2584%25E7%2594%25BB%25E5%2583%258F%25E7%2594%259F%25E6%2588%2590%25E5%2585%25A5%25E9%2596%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -230,33 +256,7 @@
     "title": "AnkiConnect×Python: フラッシュカード学習を自動化する実践ガイド",
     "url": "https://zenn.dev/idev/articles/article-20250304-050655",
     "published": "Mon, 03 Mar 2025 22:06:21 GMT",
-    "content": "\n AnkiConnect×Python: フラッシュカード��習を自動化する実践ガイド\nこの記事では、AnkiConnectとPythonを使ってフラッシュカード学習を自動化する方法を解説します。Ankiは強力なフラッシュカード学習ソフトウェアですが、AnkiConnectとPythonを組み合わせることで、その機能をさらに拡張し、学習効率を劇的に向上させることができます。この記事は『AnkiConnect × Python: フラッシュカード学習を極める - 自動化レシピと高度なカスタマイズ』の内容に基づいており、実践的なコード例と段階的な説明を通して、読者がすぐに自動化を始められるよ...",
+    "content": "\n AnkiConnect×Python: フラッシュカード学習を自動化する実践ガイド\nこの記事では、AnkiConnectとPythonを使ってフラッシュカード学習を自動化する方法を解説します。Ankiは強力なフラッシュカード学習ソフトウェアですが、AnkiConnectとPythonを組み合わせることで、その機能をさらに拡張し、学習効率を劇的に向上させることができます。この記事は『AnkiConnect × Python: フラッシュカード学習を極める - 自動化レシピと高度なカスタマイズ』の内容に基づいており、実践的なコード例と段階的な説明を通して、読者がすぐに自動化を始められるよ...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--ygo8m209--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AnkiConnect%25C3%2597Python%253A%2520%25E3%2583%2595%25E3%2583%25A9%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E5%25AD%25A6%25E7%25BF%2592%25E3%2582%2592%25E8%2587%25AA%25E5%258B%2595%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25E5%25AE%259F%25E8%25B7%25B5%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/articles/threejes-introduction",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "Three.jsをはじめよう！- Introduction",
-    "url": "https://zenn.dev/idev/articles/threejes-introduction",
-    "published": "Mon, 03 Mar 2025 06:06:41 GMT",
-    "content": "\n Three.jsをはじめよう！- Introduction\nこの記事では、ブラウザ上で動く3Dライブラリ Three.js の基礎や魅力についてご紹介します。WebGLの複雑な処理をラップしてくれるThree.jsを使えば、JavaScriptの初歩知識だけで簡単にリッチな3D表現を実装できるようになります。\n「なんだか難しそう…」と思われるかもしれませんが、はじめはほんの数行のコードからスタートできるのがThree.jsの良いところです。実際にサンプルコードを試しながら進めると、3Dプログラミングの楽しさをすぐに体感できるでしょう。\n\n\n 1. Three.jsって何が良いの？\n\n...",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--sgFe5wCK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Three.js%25E3%2582%2592%25E3%2581%25AF%25E3%2581%2598%25E3%2582%2581%25E3%2582%2588%25E3%2581%2586%25EF%25BC%2581-%2520Introduction%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/books/_evg-threejs",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "Three.js Everyday SEASON 01 ブラウザ上で驚くような3D体験を作り出そう！",
-    "url": "https://zenn.dev/idev/books/_evg-threejs",
-    "published": "Mon, 03 Mar 2025 05:56:20 GMT",
-    "content": "Three.jsを使ってブラウザ上で驚くような3D体験を作り出そう！\n\nこのシリーズ「Three.js Everyday」のSEASON 01では、3Dグラフィックスの世界への第一歩を踏み出します。JavaScriptの知識があれば、複雑な数学や低レベルのグラフィックスAPIを理解する必要なく、すぐに美しい3D表現を実現できます。\n\n基本的なセットアップから始まり、リアルタイム3Dアニメーション、インタラクティブな3Dモデル操作、魅力的なパーティクルエフェクトまで、実践的なコード例とともに段階的に学んでいきます。各チャプターでは実用的なテクニックを紹介し、すぐに自分のプロジェクトに応用できる知識を提供します。\n\nWebサイトやアプリケーションにモダンでインパクトのある3D要素を取り入れたいすべての開発者に最適なガイドです。毎日少しずつ進めることで、いつの間にかThree.jsマスターへの道を歩んでいることでしょう！\n\n全てのユースケースは以下のリンクから\n実際に動かしてお試しいただけます。\n\nhttps://timeless-residents.github.io/handson-threejs/",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--wPnNWJ38--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8yNzNhNzRiN2ZkLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   }
 ]
