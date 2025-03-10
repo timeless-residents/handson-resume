@@ -1,6 +1,58 @@
 [
   {
     "id": {
+      "_": "https://zenn.dev/idev/books/book-20250310-051548",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "Elasticsearch Enterprise Search 実践ガイド：ビジネスを加速する検索基盤構築",
+    "url": "https://zenn.dev/idev/books/book-20250310-051548",
+    "published": "Sun, 09 Mar 2025 20:33:08 GMT",
+    "content": "本書はElasticsearch Enterprise Search (EES) を用いた検索基盤の構築を実践的に解説します。EESの導入からデータ投入、UI/UX最適化、パフォーマンスチューニング、セキュリティ対策までを網羅し、ビジネスを加速させるためのノウハウを提供します。読者はEESの全機能を理解し、自社の課題解決に最適な検索環境を構築できるようになります。",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--BHs_NXP2--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci81NTE0NzRjYWQ1LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/books/book-20250309-144412",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "英語学習を「攻略」する技術：TOEIC/TOEFL/IELTSメタ学習戦略大全",
+    "url": "https://zenn.dev/idev/books/book-20250309-144412",
+    "published": "Sun, 09 Mar 2025 20:32:58 GMT",
+    "content": "本書は、TOEIC、TOEFL、IELTSといった英語試験のスコアアップを目指す学習者に向けて、メタ学習戦略を体系的に解説する。自己分析から目標設定、効果的な学習法、教材選定、AI活用、モチベーション維持まで網羅し、試験対策だけでなく、継続的な英語学習を習慣化するための技術を提供する。読者は、自身の学習スタイルに合わせた「攻略ルート」を見つけ、効率的に目標スコアを達成できる。",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--oH7Lfdrp--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci83OTFjOGFmMDM0LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/articles/article-20250310-052546",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "Elastic Enterprise Search実装ガイド",
+    "url": "https://zenn.dev/idev/articles/article-20250310-052546",
+    "published": "Sun, 09 Mar 2025 20:32:44 GMT",
+    "content": "\n Elastic Enterprise Search 実装ガイド\nElastic Enterprise Search は、Elasticsearch を基盤とした強力な検索プラットフォームであり、ウェブサイト、アプリケーション、ワークプレイス検索といった多様なユースケースに対応できます。この記事では、Elastic Enterprise Search の実装方法について、実践的な例を交えながら段階的に解説します。\n\n Elastic Enterprise Search とは？\nElastic Enterprise Search は、以下の３つの主要コンポーネントで構成されています。\n\n...",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--HEyIsv0f--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Elastic%2520Enterprise%2520Search%25E5%25AE%259F%25E8%25A3%2585%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/articles/article-20250309-145558",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "TOEIC/TOEFL/IELTS攻略メタ学習法",
+    "url": "https://zenn.dev/idev/articles/article-20250309-145558",
+    "published": "Sun, 09 Mar 2025 20:32:44 GMT",
+    "content": "\n TOEIC/TOEFL/IELTS攻略メタ学習法\nこの記事では、書籍『英語学習を「攻略」する技術：TOEIC/TOEFL/IELTSメタ学習戦略大全』の内容に基づき、TOEIC、TOEFL、IELTSといった英語試験を効果的に攻略するためのメタ学習法を紹介します。メタ学習とは、「学習方法を学ぶ」ことで、自身の学習プロセスを最適化し、効率的に目標達成を目指すアプローチです。本記事では、具体的な学習戦略、実践例、ツールなどを交えながら、読者が自身の英語学習にメタ学習を導入できるよう、段階的に解説していきます。\n\n メタ学習とは？なぜ英語学習に有効なのか？\nメタ学習とは、自身の学習プロセス...",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--YV4eUst8--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:TOEIC%252FTOEFL%252FIELTS%25E6%2594%25BB%25E7%2595%25A5%25E3%2583%25A1%25E3%2582%25BF%25E5%25AD%25A6%25E7%25BF%2592%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+  },
+  {
+    "id": {
       "_": "https://zenn.dev/idev/books/book-20250309-112710",
       "$": {
         "isPermaLink": "true"
@@ -35,7 +87,7 @@
     "title": "英語脳を爆速起動！ 実践型ビジネス英語トレーニング",
     "url": "https://zenn.dev/idev/books/book-20250309-072706",
     "published": "Sat, 08 Mar 2025 23:20:14 GMT",
-    "content": "本書は、グローバルビジネスの現場で通用する実践的な英語力を身につけるための技術書です。英語発話の瞬発力向上、ロジカルシンキング、異文化コミュニケーション能力など、幅広いスキルをトレーニングします。AIや最新の学習トレンドも取り入れ、読者が効率的に英語力を向上させ、キャリアアップを実現できるよう支援します。",
+    "content": "本書は、グローバルビジネスの現場で通用する���践的な英語力を身につけるための技術書です。英語発話の瞬発力向上、ロジカルシンキング、異文化コミュニケーション能力など、幅広いスキルをトレーニングします。AIや最新の学習トレンドも取り入れ、読者が効率的に英語力を向上させ、キャリアアップを実現できるよう支援します。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--MYoOpvVY--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9kOTZiODU0MDRhLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -61,7 +113,7 @@
     "title": "英語運用能力を鍛える教科書",
     "url": "https://zenn.dev/idev/articles/article-20250309-073539",
     "published": "Sat, 08 Mar 2025 23:19:59 GMT",
-    "content": "\n 英語運用能力を鍛える教科書\nこの記事では、ビジネスシーンで効果的に英語を使うための実践的なテクニックを紹介します。書籍『英語脳を爆速起動！ 実践型ビジネス英語トレーニング』の内容に基づき、英語運用能力を向上させるための具体的な方法を段階的に解説します。\n\n 英語脳を起動させるための基礎\n英語を流暢に話すためには、「英語脳」を起動させることが重要です。これは、日本語で考えずに英語で直接思考する状��を指します。そのためには、以下の3つのポイントを意識しましょう。\n\n\n英語を英語のまま理解する: 日本語に訳さずに、英語の音と意味を直接結びつける訓練をします。\n\n英語のリズムとイントネーショ...",
+    "content": "\n 英語運用能力を鍛える教科書\nこの記事では、ビジネスシーンで効果的に英語を使うための実践的なテクニックを紹介します。書籍『英語脳を爆速起動！ 実践型ビジネス英語トレーニング』の内容に基づき、英語運用能力を向上させるための具体的な方法を段階的に解説します。\n\n 英語脳を起動させるための基礎\n英語を流暢に話すためには、「英語脳」を起動させることが重要です。これは、日本語で考えずに英語で直接思考する状態を指します。そのためには、以下の3つのポイントを意識しましょう。\n\n\n英語を英語のまま理解する: 日本語に訳さずに、英語の音と意味を直接結びつける訓練をします。\n\n英語のリズムとイントネーショ...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--appEfy_I--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%258B%25B1%25E8%25AA%259E%25E9%2581%258B%25E7%2594%25A8%25E8%2583%25BD%25E5%258A%259B%25E3%2582%2592%25E9%258D%259B%25E3%2581%2588%25E3%2582%258B%25E6%2595%2599%25E7%25A7%2591%25E6%259B%25B8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -87,7 +139,7 @@
     "title": "GitHub Actionsで爆速リリース！PyInstaller & DMGbuild 実践 macOS アプリ開発入門",
     "url": "https://zenn.dev/idev/books/book-20250307-184553",
     "published": "Fri, 07 Mar 2025 10:06:29 GMT",
-    "content": "本書は、Pythonで開発したmacOSアプリをPyInstallerとDMGbuildを用いてパッケージングし、自動ビルド・リリースを実現するための実践的なガイドです。GitHub ActionsによるCI/CDパイプライン構築、コード署名、Notarizationといったリリースに必要な工程を網羅的に解説します。読者は、Python製のmacOSアプリを効率的に開発・配布するための���識とスキルを習得できます。",
+    "content": "本書は、Pythonで開発したmacOSアプリをPyInstallerとDMGbuildを用いてパッケージングし、自動ビルド・リリースを実現するための実践的なガイドです。GitHub ActionsによるCI/CDパイプライン構築、コード署名、Notarizationといっ���リリースに必要な工程を網羅的に解説します。読者は、Python製のmacOSアプリを効率的に開発・配布するための知識とスキルを習得できます。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--psbkGUad--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci81OTRjM2VjNDhjLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -113,7 +165,7 @@
     "title": "IoT現場実装バイブル：センサーネットワーク構築、データ活用、課題解決の羅針盤",
     "url": "https://zenn.dev/idev/books/book-20250306-063811",
     "published": "Wed, 05 Mar 2025 21:54:08 GMT",
-    "content": "本書は、IoTセンサーネットワーク構築、データ活用、課題解決のための実践的なガイドです。センサー選定からデータ分析、セキュリティ対策、ビジネスモデルまで、現場実装に必要��知識を網羅的に解説します。読者は、具体的な事例を通して、IoTプロジェクトを成功に導くための羅針盤となる知識とスキルを習得できます。",
+    "content": "本書は、IoTセンサーネットワーク構築、データ活用、課題解決のための実践的なガイドです。センサー選定からデータ分析、セキュリティ対策、ビジネスモデルまで、現場実装に必要な知識を網羅的に解説します。読者は、具体的な事例を通して、IoTプロジェクトを成功に導くための羅針盤となる知識とスキルを習得できます。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--GGjFMFX_--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9mZDQyMGRlZTZjLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -126,7 +178,7 @@
     "title": "IoTセンサーネットワーク実装ガイド：理論から実践まで",
     "url": "https://zenn.dev/idev/articles/article-20250306-065152",
     "published": "Wed, 05 Mar 2025 21:53:56 GMT",
-    "content": "\n IoTセンサーネットワーク実装ガイド：理論から実践まで\nこの記事では、IoTセンサーネットワークの構築と実装について、理論的な背景から実践的な手順までを網羅的に解説します。『IoT現場実装バイブル：センサーネットワーク構築、データ活用、課題解決の羅針盤』の内容に基づき、具体的な例を交えながら、段階的に理解できるように構成しています。\n\n 1. IoTセンサーネットワークの概要\nIoTセンサーネットワークとは、複数のセンサーノードが協調して動作し、物理世界の情報を収集・伝達するネットワークです。環境モニタリング、スマート農業、ヘルスケアなど、様々な分野で活用されています。\n\n 2. セ...",
+    "content": "\n IoTセンサーネットワーク実装ガイド：理論から実践まで\nこの記事では、IoTセンサーネットワークの構築と実装について、理論的な背景から実践的な手順までを網羅的に解説します。『IoT現場実装バイブル：センサーネットワーク構築、データ活用、課題解決の羅���盤』の内容に基づき、具体的な例を交えながら、段階的に理解できるように構成しています。\n\n 1. IoTセンサーネットワークの概要\nIoTセンサーネットワークとは、複数のセンサーノードが協調して動作し、物理世界の情報を収集・伝達するネットワークです。環境モニタリング、スマート農業、ヘルスケアなど、様々な分野で活用されています。\n\n 2. セ...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--QoZoWMB8--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:IoT%25E3%2582%25BB%25E3%2583%25B3%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%258D%25E3%2583%2583%25E3%2583%2588%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E5%25AE%259F%25E8%25A3%2585%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%25EF%25BC%259A%25E7%2590%2586%25E8%25AB%2596%25E3%2581%258B%25E3%2582%2589%25E5%25AE%259F%25E8%25B7%25B5%25E3%2581%25BE%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -206,57 +258,5 @@
     "published": "Tue, 04 Mar 2025 22:02:01 GMT",
     "content": "\n ESP32で始めるIoT\nこの記事では、低コスト、低消費電力、Wi-Fi &amp; Bluetooth内蔵という特徴を持つESP32を使い、IoTシステム開発の基礎をステップバイステップで解説します。実践的な例を通して、読者が実際に動作するIoTシステムを構築できるよう、具体的なコードサンプルと詳細な説明を提供します。この記事は、『現場で役立つ！ESP32ではじめる実践IoT開発：環境構築からデータ分析、ビジネス活用まで』の内容に基づいています。\n\n 1. ESP32とは？\nESP32は、Espressif Systemsが開発した低コストでパワフルなマイクロコントローラです。Wi...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--WxSt0ikc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_66:ESP32%25E3%2581%25A7%25E5%25A7%258B%25E3%2582%2581%25E3%2582%258BIoT%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/books/book-20250305-061549",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "Stable Diffusion 実践ガイド：プロンプトエンジニアリング、カスタマイズ、そしてビジネス活用",
-    "url": "https://zenn.dev/idev/books/book-20250305-061549",
-    "published": "Tue, 04 Mar 2025 21:36:24 GMT",
-    "content": "本書は、Stable Diffusionを用いた画像生成の基礎から応用までを網羅的に解説します。プロンプトエンジニアリング、モデルのカスタマイズ、WebUIの活用、ビジネス応用など、実践的なスキルを習得できます。セキュリティや倫理にも触れ、AI技術を安全に活用するための知識も得られます。",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--Ni9TRZab--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9jNTdjZmY3NzBhLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/articles/article-20250305-062846",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "Stable Diffusionで始める実践的画像生成入門",
-    "url": "https://zenn.dev/idev/articles/article-20250305-062846",
-    "published": "Tue, 04 Mar 2025 21:36:15 GMT",
-    "content": "\n Stable Diffusionで始める実践的画像生成入門\nこの記事では、画像生成AI Stable Diffusion を使って、実際に画像を生成する方法をステップバイステップで解説します。プロンプトの基本から、パラメータ調整、高度なテクニックまで、実践的な知識を身につけることができます。この記事は、『Stable Diffusion 実践ガイド：プロンプトエンジニアリング、カスタマイズ、そしてビジネス活用』の内容に基づいており、Stable Diffusion を使いこなすための入門として最適です。\n\n Stable Diffusionとは？\nStable Diffusion は...",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--_lo42Hqc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Stable%2520Diffusion%25E3%2581%25A7%25E5%25A7%258B%25E3%2582%2581%25E3%2582%258B%25E5%25AE%259F%25E8%25B7%25B5%25E7%259A%2584%25E7%2594%25BB%25E5%2583%258F%25E7%2594%259F%25E6%2588%2590%25E5%2585%25A5%25E9%2596%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/books/book-20250304-045421",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "AnkiConnect × Python: フラッシュカード学習を極める - 自動化レシピと高度なカスタマイズ",
-    "url": "https://zenn.dev/idev/books/book-20250304-045421",
-    "published": "Mon, 03 Mar 2025 22:06:32 GMT",
-    "content": "本書は、AnkiConnectとPythonを用いてフラッシュカード学習を自動化・高度化するための実践的なガイドです。AnkiConnect APIの基礎から、データソース連携、Webスクレイピング、画像生成AIとの連携まで、幅広い技術を網羅します。読者は、本書を通してAnki学習を自分好みにカスタマイズし、学習効率を飛躍的に向上させるための知識とスキルを習得できます。",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--DaaMaMnS--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci83MmJlYzAzODNmLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/articles/article-20250304-050655",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "AnkiConnect×Python: フラッシュカード学習を自動化する実践ガイド",
-    "url": "https://zenn.dev/idev/articles/article-20250304-050655",
-    "published": "Mon, 03 Mar 2025 22:06:21 GMT",
-    "content": "\n AnkiConnect×Python: フラッシュカード学習を自動化する実践ガイド\nこの記事では、AnkiConnectとPythonを使ってフラッシュカード学習を自動化する方法を解説します。Ankiは強力なフラッシュカード学習ソフトウェアですが、AnkiConnectとPythonを組み合わせることで、その機能をさらに拡張し、学習効率を劇的に向上させることができます。この記事は『AnkiConnect × Python: フラッシュカード学習を極める - 自動化レシピと高度なカスタマイズ』の内容に基づいており、実践的なコード例と段階的な説明を通して、読者がすぐに自動化を始められるよ...",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--ygo8m209--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AnkiConnect%25C3%2597Python%253A%2520%25E3%2583%2595%25E3%2583%25A9%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E5%25AD%25A6%25E7%25BF%2592%25E3%2582%2592%25E8%2587%25AA%25E5%258B%2595%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25E5%25AE%259F%25E8%25B7%25B5%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   }
 ]
