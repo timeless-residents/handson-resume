@@ -1,5 +1,12 @@
 [
   {
+    "id": "tag:qiita.com,2005:PublicArticle/1998934",
+    "title": "OpenAI Agent SDKではじめる高度なAIエージェント開発",
+    "url": "https://qiita.com/timeless-residents/items/4f21fe3a0ebe623440c0",
+    "published": "2025-03-13T17:32:13+09:00",
+    "content": "OpenAI Agent SDKではじめる高度なAIエージェント開発\nこんにちは！今回は、OpenAIが提供する「Agent SDK」を使って、高度なAIエージェントを簡単に構築・カスタマイズする方…"
+  },
+  {
     "id": "tag:qiita.com,2005:PublicArticle/1996634",
     "title": "PyInstaller+dmgbuild+codesign完全攻略：Macアプリ配布のハンズオンチュートリアル",
     "url": "https://qiita.com/timeless-residents/items/b51fdeab98a7f187e227",
@@ -19,12 +26,5 @@
     "url": "https://qiita.com/timeless-residents/items/67cf8fdde67d2bbe166d",
     "published": "2025-03-05T07:20:25+09:00",
     "content": "「とりあえず動いた！」で終わらせていませんか？　日々の開発で積み重なる技術的負債は、将来的に大きな痛手となります。しかし、大規模なリファクタリングに時間を割く余裕もない…。\nこの記事では、1日たった…"
-  },
-  {
-    "id": "tag:qiita.com,2005:PublicArticle/1995437",
-    "title": "仕様変更に強いアジャイル開発で仕��の進化を味方にする実践ガイド",
-    "url": "https://qiita.com/timeless-residents/items/114aedda3dee6608b881",
-    "published": "2025-03-05T07:20:24+09:00",
-    "content": "アジャイル開発は、変化を前提とした開発手法です。しかし、現実は「仕様変更は悪」という固定観念が根強く、変化への対応が後手に回るケースも少なくありません。本稿では、仕様変更を敵ではなく、進化のチャンス…"
   }
 ]
