@@ -1,6 +1,32 @@
 [
   {
     "id": {
+      "_": "https://zenn.dev/idev/books/book-20250314-071936",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "音声分析の自動化革命：Praatスクリプトで実現するプロの技",
+    "url": "https://zenn.dev/idev/books/book-20250314-071936",
+    "published": "Thu, 13 Mar 2025 22:35:23 GMT",
+    "content": "本書は、音声分析ソフトウェアPraatのスクリプト機能に焦点を当て、自動化による効率的な分析手法を解説します。Praatの基本操作からスクリプトの記述、音声パラメータ抽出、機械学習応用まで幅広くカバーし、読者は発音評価システムや感情分析など、実践的なアプリケーション開発スキルを習得できます。音声分析の自動化を通じて、研究、教育、ビジネスなど様々な分野で活用できるプロの技を身につけることを目指します。",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--pXFPto_m--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci84ZTUzZjVlYTI4LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/articles/article-20250314-072839",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "Praatスクリプティングで音声分析をマスター：開発者のためのガイド",
+    "url": "https://zenn.dev/idev/articles/article-20250314-072839",
+    "published": "Thu, 13 Mar 2025 22:35:08 GMT",
+    "content": "\n Praatスクリプティングで音声分析をマスター：開発者のためのガイド\n音声分析は、音声学、言語学、音声認識、音声合成など、様々な分野で不可欠なツールです。Praatは、音声分析のための強力で汎用性の高いフリーソフトウェアですが、そのGUI操作は大量のデータ処理には非効率です。そこで、Praatスクリプトの出番です。本記事では、Praatスクリプティングの基本から応用までを網羅し、開発者が効率的に音声分析を自動化するためのガイドを提供します。この記事は、『音声分析の自動化革命：Praatスクリプトで実現するプロの技』の内容に基づいて作成されています。\n\n Praatスクリプトの基本\nP...",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--cN0nrp0w--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Praat%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%2597%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25A7%25E9%259F%25B3%25E5%25A3%25B0%25E5%2588%2586%25E6%259E%2590%25E3%2582%2592%25E3%2583%259E%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25EF%25BC%259A%25E9%2596%258B%25E7%2599%25BA%25E8%2580%2585%25E3%2581%25AE%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+  },
+  {
+    "id": {
       "_": "https://zenn.dev/idev/books/book-20250313-120856",
       "$": {
         "isPermaLink": "true"
@@ -9,7 +35,7 @@
     "title": "AI × 図解革命！ Claude 3.7 + draw.io APIで業務効率を爆上げする実践テクニック",
     "url": "https://zenn.dev/idev/books/book-20250313-120856",
     "published": "Thu, 13 Mar 2025 05:32:48 GMT",
-    "content": "Claude 3.7を活用してPythonからDraw.io APIで図表を生成する方法を解説します。基本的なダイアグラム作成からAI支援プログラムフロー可視化まで、実践的なコード例を通して一歩ずつ学べます。",
+    "content": "Claude 3.7を活用してPythonからDraw.io APIで図表を生成する��法を解説します。基本的なダイアグラム作成からAI支援プログラムフロー可視化まで、実践的なコード例を通して一歩ずつ学べます。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--_J9J8yi3--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci85Nzc4Y2YzMjI0LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -35,7 +61,7 @@
     "title": "Elasticsearch Enterprise Search 実践ガイド：ビジネスを加速する検索基盤構築",
     "url": "https://zenn.dev/idev/books/book-20250310-051548",
     "published": "Sun, 09 Mar 2025 20:33:08 GMT",
-    "content": "本書はElasticsearch Enterprise Search (EES) を用いた検索基盤の構築を実践的に解説します。EESの導入からデータ投入、UI/UX最適化、パフォーマンスチューニング、セキュリティ対策までを網羅し、ビジネスを加速させるためのノウハウを提供します。読者はEESの全機能を理解し、自社の課題解決に最適な検索環境を構築できるようになります。",
+    "content": "本書はElasticsearch Enterprise Search (EES) を用いた検索基盤の��築を実践的に解説します。EESの導入からデータ投入、UI/UX最適化、パフォーマンスチューニング、セキュリティ対策までを網羅し、ビジネスを加速させるためのノウハウを提供します。読者はEESの全機能を理解し、自社の課題解決に最適な検索環境を構築できるようになります。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--BHs_NXP2--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci81NTE0NzRjYWQ1LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -61,7 +87,7 @@
     "title": "Elastic Enterprise Search実装ガイド",
     "url": "https://zenn.dev/idev/articles/article-20250310-052546",
     "published": "Sun, 09 Mar 2025 20:32:44 GMT",
-    "content": "\n Elastic Enterprise Search 実装ガイド\nElastic Enterprise Search は、Elasticsearch を基盤とした強力な検索プラットフォームであり、ウェブサイト、アプリケーション、ワークプレイス検索といった多様なユースケースに対応できます。この記事では、Elastic Enterprise Search の実装方法について、実践的な例を交えながら段階的に解説します。\n\n Elastic Enterprise Search とは？\nElastic Enterprise Search は、以下の３つの主要コンポーネントで構成されています。\n\n...",
+    "content": "\n Elastic Enterprise Search 実装ガイド\nElastic Enterprise Search は、Elasticsearch を基盤とした強力な検索プラットフォームであり、ウェブサイト、アプリケーション、ワークプレイス検索といった多様なユースケースに対応できます。この記事では、Elastic Enterprise Search の実装方法について、実践的な例を交えながら段階的に解説します。\n\n Elastic Enterprise Search とは？\nElastic Enterprise Search は、以��の３つの主要コンポーネントで構成されています。\n\n...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--HEyIsv0f--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Elastic%2520Enterprise%2520Search%25E5%25AE%259F%25E8%25A3%2585%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -84,7 +110,7 @@
         "isPermaLink": "true"
       }
     },
-    "title": "Eleven Labs超活用！自分の声で創る「没入型」ネイティブ英語学習：ゼロから始めるパーソナルAI英語教師育成術",
+    "title": "Eleven Labs超活用！自分の声で創る「没入型」ネ��ティブ英語学習：ゼロから始めるパーソナルAI英語教師育成術",
     "url": "https://zenn.dev/idev/books/book-20250309-112710",
     "published": "Sun, 09 Mar 2025 02:50:06 GMT",
     "content": "本書は、AI音声技術Eleven Labsを活用して、自身の声でパーソナライズされた英語学習環境を構築する方法を解説します。Voice Cloningによる教材作成、発音矯正、語彙・文法学習、シャドーイング、ディクテーションなど、あらゆる学習フェーズでAIを活用し、英語力を効率的に向上させるための実践的なノウハウを提供します。API連携やYouTube、ポッドキャストとの連携方法も紹介し、英語学習コンテンツの作成と発信までをサポートします。",
@@ -113,7 +139,7 @@
     "title": "英語脳を爆速起動！ 実践型ビジネス英語トレーニング",
     "url": "https://zenn.dev/idev/books/book-20250309-072706",
     "published": "Sat, 08 Mar 2025 23:20:14 GMT",
-    "content": "本書は、グローバルビジネスの現場で通用する実践的���英語力を身につけるための技術書です。英語発話の瞬発力向上、ロジカルシンキング、異文化コミュニケーション能力など、幅広いスキルをトレーニングします。AIや最新の学習トレンドも取り入れ、読者が効率的に英語力を向上させ、キャリアアップを実現できるよう支援します。",
+    "content": "本書は、グローバルビジネスの現場で通用する実践的な英語力を身につけるための技術書です。英語発話の瞬発力向上、ロジカルシンキング、異文化コミュニケーション能力など、幅広いスキルをトレーニングします。AIや最新の学習トレンドも取り入れ、読者が効率的に英語力を向上させ、キャリアアップを実現できるよう支援します。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--MYoOpvVY--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9kOTZiODU0MDRhLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -149,7 +175,7 @@
         "isPermaLink": "true"
       }
     },
-    "title": "デ���タル国家戦略: ビットコインとブロックチェーンが実現する次世代金融システム",
+    "title": "デジタル国家戦略: ビットコインとブロックチェーンが実現する次世代金融システム",
     "url": "https://zenn.dev/idev/articles/article-20250309-044941",
     "published": "Sat, 08 Mar 2025 20:02:53 GMT",
     "content": "\n デジタル国家戦略: ビットコインとブロックチェーンが実現する次世代金融システム\nこの記事では、書籍『デジタル国家戦略 2.0：Web3時代の金融インフラと国家主権』の内容を基に、ビットコインとブロックチェーン技術がどのように次世代の金融システムを構築し、デジタル国家戦略を推進するのかを解説します。既存の金融システムの課題を分析し、ビットコインとブロックチェーンが提供する解決策、そしてデジタル国家における実装の可能性と課題について掘り下げます。\n\n 既存金融システムの課題\n現在の金融システムは、中央集権的な構造を持ち、以下のような課題を抱えています。\n\n\n高コスト: 銀行などの仲介機関...",
@@ -165,7 +191,7 @@
     "title": "GitHub Actionsで爆速リリース！PyInstaller & DMGbuild 実践 macOS アプリ開発入門",
     "url": "https://zenn.dev/idev/books/book-20250307-184553",
     "published": "Fri, 07 Mar 2025 10:06:29 GMT",
-    "content": "本書は、Pythonで開発したmacOSアプリをPyInstallerとDMGbuildを用いてパッケージングし、自動ビルド・リリースを実現するための実践的なガイドです。GitHub ActionsによるCI/CDパイプライン構築、コード署名、Notarizationといったリリ���スに必要な工程を網羅的に解説します。読者は、Python製のmacOSアプリを効率的に開発・配布するための知識とスキルを習得できます。",
+    "content": "本書は、Pythonで開発したmacOSアプリをPyInstallerとDMGbuildを用いてパッケージングし、自動ビルド・リリースを実現するための実践的なガイドです。GitHub ActionsによるCI/CDパイプライン構築、コード署名、Notarizationといったリリースに必要な工程を網羅的に解説します。読者は、Python製のmacOSアプリを効率的に開発・配布するための知識とスキルを習得できます。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--psbkGUad--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci81OTRjM2VjNDhjLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -204,7 +230,7 @@
     "title": "IoTセンサーネットワーク実装ガイド：理論から実践まで",
     "url": "https://zenn.dev/idev/articles/article-20250306-065152",
     "published": "Wed, 05 Mar 2025 21:53:56 GMT",
-    "content": "\n IoTセンサーネットワーク実装ガイド：理論から実践まで\nこの記事では、IoTセンサーネットワークの構築と実装について、理論的な背景から実践的な手順までを網羅的に解説します。『IoT現場実装バイブル：センサーネットワーク構築、データ活用、課題解決の羅針盤』���内容に基づき、具体的な例を交えながら、段階的に理解できるように構成しています。\n\n 1. IoTセンサーネットワークの概要\nIoTセンサーネットワークとは、複数のセンサーノードが協調して動作し、物理世界の情報を収集・伝達するネットワークです。環境モニタリング、スマート農業、ヘルスケアなど、様々な分野で活用されています。\n\n 2. セ...",
+    "content": "\n IoTセンサーネットワーク実装ガイド：理論から実践まで\nこの記事では、IoTセンサーネットワークの構築と実装について、理論的な背景から実践的な手順までを網羅的に解説します。『IoT現場実装バイブル：センサーネットワーク構築、データ活用、課題解決の羅針盤』の内容に基づき、具体的な例を交えながら、段階的に理解できるように構成しています。\n\n 1. IoTセンサーネットワークの概要\nIoTセンサーネットワークとは、複数のセンサーノードが協調して動作し、物理世界の情報を収集・伝達するネットワークです。環境モニタリング、スマート農業、ヘルスケアなど、様々な分野で活用されています。\n\n 2. セ...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--QoZoWMB8--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:IoT%25E3%2582%25BB%25E3%2583%25B3%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%258D%25E3%2583%2583%25E3%2583%2588%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E5%25AE%259F%25E8%25A3%2585%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%25EF%25BC%259A%25E7%2590%2586%25E8%25AB%2596%25E3%2581%258B%25E3%2582%2589%25E5%25AE%259F%25E8%25B7%25B5%25E3%2581%25BE%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -217,7 +243,7 @@
     "title": "スケーラブルMMOゲーム開発：Node.js & WebSocket 実践ガイド - リアルタイム通信、ゲームロジック、パフォーマンス最適化",
     "url": "https://zenn.dev/idev/books/book-20250306-060024",
     "published": "Wed, 05 Mar 2025 21:32:33 GMT",
-    "content": "本書は、Node.jsとWebSocketを用いてスケーラブルなMMOゲームを開発するための実践的なガイドです。リアルタイム通信、ゲームロジック、パフォーマンス最適化、セキュリティ対策など、MMOゲーム開発に必要な幅広い技術と概念を網羅しています。読者は、本書を通して、MMOゲーム開発の基礎から応用までを習得し、独自のMMOワールドを創造する力を得られます。",
+    "content": "本書は、Node.jsとWebSocketを用いてスケーラブルなMMOゲームを開発するための実践的なガイドです。リアルタイム通信、ゲームロジック、パフォーマンス最適化、セキュリティ対策など、MMOゲーム開発に必要な幅広い技術と��念を網羅しています。読者は、本書を通して、MMOゲーム開発の基礎から応用までを習得し、独自のMMOワールドを創造する力を得られます。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--ShNx6YAj--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci82ZGVjZmRmZDJmLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -230,33 +256,7 @@
     "title": "MMOゲームの作り方 Node.js x WebSocketで学ぶ",
     "url": "https://zenn.dev/idev/articles/article-20250306-061357",
     "published": "Wed, 05 Mar 2025 21:32:22 GMT",
-    "content": "\n MMOゲームの作り方 Node.js x WebSocketで学ぶ\nこの記事では、Node.jsとWebSocketを用いてシンプルなMMOゲームを作る方法を解説します。リアルタイム通信が不可欠なMMOゲーム開発において、WebSocketは強力なツールとなります。この記事は『スケーラブルMMOゲーム開発：Node.js &amp; WebSocket 実践ガイド - リアルタイム通信、ゲームロジック、パフォーマンス最適化』の内容に基づいており、基本的な概念から実践的な実装までを段階的に学べる構成となっています。\n\n WebSocketとは？\nWebSocketは、クライアントとサー...",
+    "content": "\n MMOゲームの作り方 Node.js x WebSocketで学ぶ\nこの記事では、Node.jsとWebSocketを用いてシンプルなMMOゲームを作る方法を解説します。リアルタイム通信が不可欠なMMOゲーム開発において、WebSocketは強力なツールとなります。この記事は『スケーラブルMMOゲーム開発：Node.js &amp; WebSocket 実践ガイド - リアルタイム通信、ゲームロジック、パフォーマンス最適化』の内容に基づいており、基本的な概念から���践的な実装までを段階的に学べる構成となっています。\n\n WebSocketとは？\nWebSocketは、クライアントとサー...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--1s8C2E8A--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:MMO%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25AE%25E4%25BD%259C%25E3%2582%258A%25E6%2596%25B9%2520Node.js%2520x%2520WebSocket%25E3%2581%25A7%25E5%25AD%25A6%25E3%2581%25B6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/books/book-20250305-121502",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "iOS自動化の最終兵器：Scriptable 実践レシピ集",
-    "url": "https://zenn.dev/idev/books/book-20250305-121502",
-    "published": "Wed, 05 Mar 2025 03:40:10 GMT",
-    "content": "OSの自動化アプリScriptableの実践的な活用方法を解説するレシピ集です。ウィジェット作成からAPI連携、Siriショートカット連携まで、幅広い自動化テクニックを具体的なコード例と共に紹介します。初心者でもScriptableを使いこなし、日々のタスクを効率化できるようになることを目指します。",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--45Hge6WA--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9hZTIxNTRiYzc1LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/articles/article-20250305-122846",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "Scriptableユーザーガイド：iOSを自動化する完全解説",
-    "url": "https://zenn.dev/idev/articles/article-20250305-122846",
-    "published": "Wed, 05 Mar 2025 03:39:58 GMT",
-    "content": "\n Scriptableユーザーガイド：iOSを自動化する完全解説\nScriptableは、iOS上でJavaScriptを使って様々な自動化を実現できる強力なアプリです。このガイドでは、Scriptableの基本から応用までを網羅し、あなた自身のiOS自動化を実現するための完全な解説を提供します。この記事は、『iOS自動化の最終兵器：Scriptable 実践レシピ集』の内容に基づいて構成されています。\n\n Scriptableとは？\nScriptableは、iOS/iPadOS上でJavaScriptを実行できるアプリです。iOSの様々な機能にアクセスできるAPIが提供されており、こ...",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--ccU-uisB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Scriptable%25E3%2583%25A6%25E3%2583%25BC%25E3%2582%25B6%25E3%2583%25BC%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%25EF%25BC%259AiOS%25E3%2582%2592%25E8%2587%25AA%25E5%258B%2595%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25E5%25AE%258C%25E5%2585%25A8%25E8%25A7%25A3%25E8%25AA%25AC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   }
 ]
