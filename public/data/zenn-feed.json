@@ -35,7 +35,7 @@
     "title": "AI × 図解革命！ Claude 3.7 + draw.io APIで業務効率を爆上げする実践テクニック",
     "url": "https://zenn.dev/idev/books/book-20250313-120856",
     "published": "Thu, 13 Mar 2025 05:32:48 GMT",
-    "content": "Claude 3.7を活用してPythonからDraw.io APIで図表を生成する��法を解説します。基本的なダイアグラム作成からAI支援プログラムフロー可視化まで、実践的なコード例を通して一歩ずつ学べます。",
+    "content": "Claude 3.7を活用してPythonからDraw.io APIで図表を生成する方法を��説します。基本的なダイアグラム作成からAI支援プログラムフロー可視化まで、実践的なコード例を通して一歩ずつ学べます。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--_J9J8yi3--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci85Nzc4Y2YzMjI0LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -48,7 +48,7 @@
     "title": "Claude 3.7 + draw.io APIによる実務活用シナリオ",
     "url": "https://zenn.dev/idev/articles/article-20250313-121805",
     "published": "Thu, 13 Mar 2025 05:32:32 GMT",
-    "content": "\n Claude 3.7 + draw.io APIによる実務活用シナリオ\nこの記事では、大規模言語モデルClaude 3.7とdraw.io APIを組み合わせることで、業務効率を劇的に向上させる実践テクニックを紹介します。自然言語で指示を出すだけで、複雑な図表を自動生成できるようになり、資料作成、システム設計、プレゼンテーション準備など、様々な業務に革新をもたらします。\nこの記事は、『AI × 図解革命！ Claude 3.7 + draw.io APIで業務効率を爆上げする実践テクニック』の内容に基づいており、具体的な活用シナリオとコードサンプルを通して、その効果を実感していただけ...",
+    "content": "\n Claude 3.7 + draw.io APIによる実務活用シナリオ\nこの記事では、大規模言語モデルClaude 3.7とdraw.io APIを組み合わせることで、業務効率を劇的に向上させる実践テクニックを紹介します。自然言語で指示を出すだけで、複雑な図表を自動生成できるようになり、資料作成、システム設計、プレゼンテーション準備など、様々な業務に革新をもたらします。\nこの記事は、『AI × 図解革命！ Claude 3.7 + draw.io APIで業��効率を爆上げする実践テクニック』の内容に基づいており、具体的な活用シナリオとコードサンプルを通して、その効果を実感していただけ...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--l4uix9hZ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%25203.7%2520%252B%2520draw.io%2520API%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E5%25AE%259F%25E5%258B%2599%25E6%25B4%25BB%25E7%2594%25A8%25E3%2582%25B7%25E3%2583%258A%25E3%2583%25AA%25E3%2582%25AA%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -61,7 +61,7 @@
     "title": "Elasticsearch Enterprise Search 実践ガイド：ビジネスを加速する検索基盤構築",
     "url": "https://zenn.dev/idev/books/book-20250310-051548",
     "published": "Sun, 09 Mar 2025 20:33:08 GMT",
-    "content": "本書はElasticsearch Enterprise Search (EES) を用いた検索基盤の��築を実践的に解説します。EESの導入からデータ投入、UI/UX最適化、パフォーマンスチューニング、セキュリティ対策までを網羅し、ビジネスを加速させるためのノウハウを提供します。読者はEESの全機能を理解し、自社の課題解決に最適な検索環境を構築できるようになります。",
+    "content": "本書はElasticsearch Enterprise Search (EES) を用いた検索基盤の構築を��践的に解説します。EESの導入からデータ投入、UI/UX最適化、パフォーマンスチューニング、セキュリティ対策までを網羅し、ビジネスを加速させるためのノウハウを提供します。読者はEESの全機能を理解し、自社の課題解決に最適な検索環境を構築できるようになります。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--BHs_NXP2--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci81NTE0NzRjYWQ1LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -87,7 +87,7 @@
     "title": "Elastic Enterprise Search実装ガイド",
     "url": "https://zenn.dev/idev/articles/article-20250310-052546",
     "published": "Sun, 09 Mar 2025 20:32:44 GMT",
-    "content": "\n Elastic Enterprise Search 実装ガイド\nElastic Enterprise Search は、Elasticsearch を基盤とした強力な検索プラットフォームであり、ウェブサイト、アプリケーション、ワークプレイス検索といった多様なユースケースに対応できます。この記事では、Elastic Enterprise Search の実装方法について、実践的な例を交えながら段階的に解説します。\n\n Elastic Enterprise Search とは？\nElastic Enterprise Search は、以��の３つの主要コンポーネントで構成されています。\n\n...",
+    "content": "\n Elastic Enterprise Search 実装ガイド\nElastic Enterprise Search は、Elasticsearch を基盤とした強力な検索プラットフォームであり、ウェブサイト、アプリケーション、ワークプレイス検索といった多様なユースケースに対応できます。この記事では、Elastic Enterprise Search の実装方法について、実践的な例を交えながら段階的に解説します。\n\n Elastic Enterprise Search とは？\nElastic Enterprise Search は、以下の３��の主要コンポーネントで構成されています。\n\n...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--HEyIsv0f--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Elastic%2520Enterprise%2520Search%25E5%25AE%259F%25E8%25A3%2585%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -110,7 +110,7 @@
         "isPermaLink": "true"
       }
     },
-    "title": "Eleven Labs超活用！自分の声で創る「没入型」ネ��ティブ英語学習：ゼロから始めるパーソナルAI英語教師育成術",
+    "title": "Eleven Labs超活用！自分の声で創る「没入型」ネイティ��英語学習：ゼロから始めるパーソナルAI英語教師育成術",
     "url": "https://zenn.dev/idev/books/book-20250309-112710",
     "published": "Sun, 09 Mar 2025 02:50:06 GMT",
     "content": "本書は、AI音声技術Eleven Labsを活用して、自身の声でパーソナライズされた英語学習環境を構築する方法を解説します。Voice Cloningによる教材作成、発音矯正、語彙・文法学習、シャドーイング、ディクテーションなど、あらゆる学習フェーズでAIを活用し、英語力を効率的に向上させるための実践的なノウハウを提供します。API連携やYouTube、ポッドキャストとの連携方法も紹介し、英語学習コンテンツの作成と発信までをサポートします。",
@@ -243,7 +243,7 @@
     "title": "スケーラブルMMOゲーム開発：Node.js & WebSocket 実践ガイド - リアルタイム通信、ゲームロジック、パフォーマンス最適化",
     "url": "https://zenn.dev/idev/books/book-20250306-060024",
     "published": "Wed, 05 Mar 2025 21:32:33 GMT",
-    "content": "本書は、Node.jsとWebSocketを用いてスケーラブルなMMOゲームを開発するための実践的なガイドです。リアルタイム通信、ゲームロジック、パフォーマンス最適化、セキュリティ対策など、MMOゲーム開発に必要な幅広い技術と��念を網羅しています。読者は、本書を通して、MMOゲーム開発の基礎から応用までを習得し、独自のMMOワールドを創造する力を得られます。",
+    "content": "本書は、Node.jsとWebSocketを用いてスケーラブルなMMOゲームを開発するための実践的なガイドです。リアルタイム通信、ゲームロジック、パフォーマンス最適化、セキュリティ対策など、MMOゲーム開発に必要な幅広い技術と概念を��羅しています。読者は、本書を通して、MMOゲーム開発の基礎から応用までを習得し、独自のMMOワールドを創造する力を得られます。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--ShNx6YAj--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci82ZGVjZmRmZDJmLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -256,7 +256,7 @@
     "title": "MMOゲームの作り方 Node.js x WebSocketで学ぶ",
     "url": "https://zenn.dev/idev/articles/article-20250306-061357",
     "published": "Wed, 05 Mar 2025 21:32:22 GMT",
-    "content": "\n MMOゲームの作り方 Node.js x WebSocketで学ぶ\nこの記事では、Node.jsとWebSocketを用いてシンプルなMMOゲームを作る方法を解説します。リアルタイム通信が不可欠なMMOゲーム開発において、WebSocketは強力なツールとなります。この記事は『スケーラブルMMOゲーム開発：Node.js &amp; WebSocket 実践ガイド - リアルタイム通信、ゲームロジック、パフォーマンス最適化』の内容に基づいており、基本的な概念から���践的な実装までを段階的に学べる構成となっています。\n\n WebSocketとは？\nWebSocketは、クライアントとサー...",
+    "content": "\n MMOゲームの作り方 Node.js x WebSocketで学ぶ\nこの記事では、Node.jsとWebSocketを用いてシンプルなMMOゲームを作る方法を解説します。リアルタイム通信が不可欠なMMOゲーム開発において、WebSocketは強力なツールとなります。この記事は『スケーラブルMMOゲーム開発：Node.js &amp; WebSocket 実践ガイド - リアルタイム通信、ゲームロジック、パフォーマンス最適化』の内容に基づいており、基本的な概念から実践的���実装までを段階的に学べる構成となっています。\n\n WebSocketとは？\nWebSocketは、クライアントとサー...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--1s8C2E8A--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:MMO%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25AE%25E4%25BD%259C%25E3%2582%258A%25E6%2596%25B9%2520Node.js%2520x%2520WebSocket%25E3%2581%25A7%25E5%25AD%25A6%25E3%2581%25B6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   }
 ]
