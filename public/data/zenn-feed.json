@@ -1,6 +1,32 @@
 [
   {
     "id": {
+      "_": "https://zenn.dev/idev/books/book-20250315-090539",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "Python画像処理ライブラリPillowとClaude 3.7 AIで実現する高度画像分析入門",
+    "url": "https://zenn.dev/idev/books/book-20250315-090539",
+    "published": "Sat, 15 Mar 2025 00:24:05 GMT",
+    "content": "本書は、Python画像処理ライブラリPillowと大規模言語モデルClaude 3.7 APIを用いて、画像分析の基礎から応用までを実践的に解説します。画像データの取り扱い、加工、可視化から、AIによる画像認識、異常検知、画像生成までを網羅し、ビジネスへの応用例も紹介します。読者は、PillowとClaude 3.7を組み合わせた画像分析技術を習得し、多様な分野でAIを活用したシステム構築や業務効率化を実現できます。",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--N1a_D6aY--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9hMTEyY2ViNzQ1LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/articles/article-20250315-091501",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "Python画像処理ライブラリPillowとClaude 3.7 AIで実現する高度画像分析入門",
+    "url": "https://zenn.dev/idev/articles/article-20250315-091501",
+    "published": "Sat, 15 Mar 2025 00:23:36 GMT",
+    "content": "\n Python画像処理ライブラリPillowとClaude 3.7 AIで実現する高度画像分析入門\nこの記事では、Pythonの画像処理ライブラリPillowと高度な言語モデルClaude 3.7を組み合わせ、画像分析を行う方法を紹介します。画像の読み込み、操作、解析といった基本的な処理から、Claude 3.7を活用した高度な画像キャプション生成や画像内容に基づく質疑応答まで、実践的な例を交えて解説します。\n\n Pillowによる画像処理の基本\nPillowは、Pythonで画像処理を行うための強力なライブラリです。画像の読み込み、保存、サイズ変更、回転、フィルタリングなど、様々な操...",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--PDwF2Ked--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Python%25E7%2594%25BB%25E5%2583%258F%25E5%2587%25A6%25E7%2590%2586%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2596%25E3%2583%25A9%25E3%2583%25AAPillow%25E3%2581%25A8Claude%25203.7%2520AI%25E3%2581%25A7%25E5%25AE%259F%25E7%258F%25BE%25E3%2581%2599%25E3%2582%258B%25E9%25AB%2598%25E5%25BA%25A6%25E7%2594%25BB%25E5%2583%258F%25E5%2588%2586%25E6%259E%2590%25E5%2585%25A5%25E9%2596%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+  },
+  {
+    "id": {
       "_": "https://zenn.dev/idev/books/book-20250314-231326",
       "$": {
         "isPermaLink": "true"
@@ -22,7 +48,7 @@
     "title": "Scratchマスターへの道: 義務教育を超えた創造的プログラミング",
     "url": "https://zenn.dev/idev/articles/article-20250314-232229",
     "published": "Fri, 14 Mar 2025 14:42:11 GMT",
-    "content": "\n Scratchマスターへの道: 義務教育を超えた創造的プログラミング\nScratchは、子供たちがプログラミングの基礎を学ぶための素晴らしいツールです。しかし、その可能性は義務教育の範囲をはるかに超えています。この技術記事では、Scratchを深く掘り下げ、高度なテクニックや創造的な活用方法を学び、真のScratchマスターを目指しましょう。この記事は、『Scratch進化論：ゲーム開発からAI、そして未来の創造へ』の内容に基づいて構成されています。\n\n Scratchの基本を超えて\nScratchの基本的な操作、例えばスプライトの移動やコスチュームの変更、簡単なアニメーションの作成...",
+    "content": "\n Scratchマスターへの道: 義務教育を超えた創造的プログラミング\nScratchは、子供たちがプログラミングの基礎を学ぶための素晴らしいツールです。しかし、その可能性は義務教育の範囲をはるかに超えています。この技術記事では、Scratchを深く掘り下げ、高度なテクニ��クや創造的な活用方法を学び、真のScratchマスターを目指しましょう。この記事は、『Scratch進化論：ゲーム開発からAI、そして未来の創造へ』の内容に基づいて構成されています。\n\n Scratchの基本を超えて\nScratchの基本的な操作、例えばスプライトの移動やコスチュームの変更、簡単なアニメーションの作成...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--BW0XFIWb--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Scratch%25E3%2583%259E%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%25B8%25E3%2581%25AE%25E9%2581%2593%253A%2520%25E7%25BE%25A9%25E5%258B%2599%25E6%2595%2599%25E8%2582%25B2%25E3%2582%2592%25E8%25B6%2585%25E3%2581%2588%25E3%2581%259F%25E5%2589%25B5%25E9%2580%25A0%25E7%259A%2584%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -35,7 +61,7 @@
     "title": "脱・お絵描き！ Python Turtleで「使える」ビジュアルプログラミング - データ可視化、ゲーム開発、そして実務へ",
     "url": "https://zenn.dev/idev/books/book-20250314-213218",
     "published": "Fri, 14 Mar 2025 14:09:38 GMT",
-    "content": "本書はPythonのTurtle Graphicsを、教育用ツールから実用的なプログラミングスキル獲���の手段へと進化させることを目指します。データ可視化、ゲーム開発、GUIプログラミングなど、幅広い応用例を通じて、読者はPythonの基礎から応用までを習得できます。最終的には、実務で役立つプログラミング能力を身につけることが可能です。",
+    "content": "本書はPythonのTurtle Graphicsを、教育用ツールから実用的なプログラミングスキル獲得の手段へと進化させることを目指します。データ可視化、ゲーム開発、GUIプログラミングなど、幅広い応用例を通じて、読者はPythonの基礎から応用までを習得できます。最終的には、実務で役立つプログラミング能力を身につけることが可能です。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--rs8fTpCK--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9kY2I5ZjljZDc3LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -87,7 +113,7 @@
     "title": "AI × 図解革命！ Claude 3.7 + draw.io APIで業務効率を爆上げする実践テクニック",
     "url": "https://zenn.dev/idev/books/book-20250313-120856",
     "published": "Thu, 13 Mar 2025 05:32:48 GMT",
-    "content": "Claude 3.7を活用してPythonからDraw.io APIで図表を生成する方法を解説します。基本的なダイアグラム作成からAI支援プログラムフロー可視化まで、実践的なコード例を通して一歩ずつ学べます。",
+    "content": "Claude 3.7を活用してPythonからDraw.io APIで図表���生成する方法を解説します。基本的なダイアグラム作成からAI支援プログラムフロー可視化まで、実践的なコード例を通して一歩ずつ学べます。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--_J9J8yi3--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci85Nzc4Y2YzMjI0LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -113,7 +139,7 @@
     "title": "Elasticsearch Enterprise Search 実践ガイド：ビジネスを加速する検索基盤構築",
     "url": "https://zenn.dev/idev/books/book-20250310-051548",
     "published": "Sun, 09 Mar 2025 20:33:08 GMT",
-    "content": "本書はElasticsearch Enterprise Search (EES) を用いた検索基盤の構築を実践的に解説します。EESの導入からデータ投入、UI/UX最適化、パフォーマンスチューニング、セキュリティ対策までを網羅し、ビジネスを加速させるためのノウハウを提供します。読者はEESの全機能を理解し、自社の課題解決に最適な検索環境を構築できるようになります。",
+    "content": "本書はElasticsearch Enterprise Search (EES) を用いた���索基盤の構築を実践的に解説します。EESの導入からデータ投入、UI/UX最適化、パフォーマンスチューニング、セキュリティ対策までを網羅し、ビジネスを加速させるためのノウハウを提供します。読者はEESの全機能を理解し、自社の課題解決に最適な検索環境を構築できるようになります。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--BHs_NXP2--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci81NTE0NzRjYWQ1LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -126,7 +152,7 @@
     "title": "英語学習を「攻略」する技術：TOEIC/TOEFL/IELTSメタ学習戦略大全",
     "url": "https://zenn.dev/idev/books/book-20250309-144412",
     "published": "Sun, 09 Mar 2025 20:32:58 GMT",
-    "content": "本書は、TOEIC、TOEFL、IELTSといった英語試験のスコアアップを目指す学習者に向けて、メタ学習戦略を体系的に解説する。自己分析から目標設定、効果的な学習法、教材選定、AI活用、モチベーション維持まで網羅し、試験対策だけでなく、継続的な英語学習を習慣化するための技術を提供する。読者は、自身の学習スタイルに合わせた「攻略ルート」を見つけ、効率的に目標スコアを達成できる。",
+    "content": "本書は、TOEIC、TOEFL、IELTSといった英語試験のスコアアップを目指す学習者に向けて、メタ学習戦略を体系的に解説する。自己分析から目標設定、効果的な学習法、教材選定、AI活用、モチベーション維持まで網羅し、試験��策だけでなく、継続的な英語学習を習慣化するための技術を提供する。読者は、自身の学習スタイルに合わせた「攻略ルート」を見つけ、効率的に目標スコアを達成できる。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--oH7Lfdrp--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci83OTFjOGFmMDM0LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -152,7 +178,7 @@
     "title": "TOEIC/TOEFL/IELTS攻略メタ学習法",
     "url": "https://zenn.dev/idev/articles/article-20250309-145558",
     "published": "Sun, 09 Mar 2025 20:32:44 GMT",
-    "content": "\n TOEIC/TOEFL/IELTS攻略メタ学習法\nこの記事では、書籍『英語学習を「攻略」する技術：TOEIC/TOEFL/IELTSメタ学習戦略大全』の内容に基づき、TOEIC、TOEFL、IELTSといった英語試験を効果的に攻略するためのメタ学習法を紹介します。メタ学習とは、「学習方法を学ぶ」ことで、自身の学習プロセスを最適化し、効率的に目標達成を目指すアプローチです。本記事では、具体的な学習戦略、実践例、ツールなどを交えながら、読者が自身の英語学習にメタ学習を導入できるよう、段階的に解説していきます。\n\n メタ学習とは？なぜ英語学習に有効なのか？\nメタ学習とは、自身の学習プロセス...",
+    "content": "\n TOEIC/TOEFL/IELTS攻略メタ学習法\nこの記事では、書籍『英語学習を「攻略」する技術：TOEIC/TOEFL/IELTSメタ学習戦略大全』の内容に基づき、TOEIC、TOEFL、IELTSといった英語試験を効果的に攻略するためのメタ学習法を紹介します。メタ学習とは、「学習方法を学ぶ��ことで、自身の学習プロセスを最適化し、効率的に目標達成を目指すアプローチです。本記事では、具体的な学習戦略、実践例、ツールなどを交えながら、読者が自身の英語学習にメタ学習を導入できるよう、段階的に解説していきます。\n\n メタ学習とは？なぜ英語学習に有効なのか？\nメタ学習とは、自身の学習プロセス...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--YV4eUst8--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:TOEIC%252FTOEFL%252FIELTS%25E6%2594%25BB%25E7%2595%25A5%25E3%2583%25A1%25E3%2582%25BF%25E5%25AD%25A6%25E7%25BF%2592%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -162,10 +188,10 @@
         "isPermaLink": "true"
       }
     },
-    "title": "Eleven Labs超活用！自分の声で創る「没入型」ネイティブ英語学習：ゼロから始めるパーソナルAI英語教師育成術",
+    "title": "Eleven Labs超活用！自分の声で創る「���入型」ネイティブ英語学習：ゼロから始めるパーソナルAI英語教師育成術",
     "url": "https://zenn.dev/idev/books/book-20250309-112710",
     "published": "Sun, 09 Mar 2025 02:50:06 GMT",
-    "content": "本書は、AI音声技術Eleven Labsを活用して、自身の声でパーソナライズされた英語学習環境を構築する方法を解説します。Voice Cloningによる教材作成、発音矯正、語彙・文法学習、シャドーイング、ディクテーションなど、あらゆる学習フェーズでAIを活用し、英��力を効率的に向上させるための実践的なノウハウを提供します。API連携やYouTube、ポッドキャストとの連携方法も紹介し、英語学習コンテンツの作成と発信までをサポートします。",
+    "content": "本書は、AI音声技術Eleven Labsを活用して、自身の声でパーソナライズされた英語学習環境を構築する方法を解説します。Voice Cloningによる教材作成、発音矯正、語彙・文法学習、シャドーイング、ディクテーションなど、あらゆる学習フェーズでAIを活用し、英語力を効率的に向上させるための実践的なノウハウを提供します。API連携やYouTube、ポッドキャストとの連携方法も紹介し、英語学習コンテンツの作成と発信までをサポートします。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--5UfD8icH--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8wNDgxOWY4M2IwLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -178,7 +204,7 @@
     "title": "Eleven Labs 自分の声で学ぶネイティブ英語学習加速法",
     "url": "https://zenn.dev/idev/articles/article-20250309-113619",
     "published": "Sun, 09 Mar 2025 02:49:52 GMT",
-    "content": "\n Eleven Labs 自分の声で学ぶネイティブ英語学習加速法\n英語学習において、発音の習得は非常に重要です。しかし、自分の発音を客観的に評価し、ネイティブスピーカーのように自然に話すことは容易ではありません。Eleven Labsの音声クローン技術は、この課題を解決する革新的なツールを提供します。本記事では、Eleven Labsを活用した「自分の���で学ぶネイティブ英語学習加速法」について、実践的な手順と具体的な例を交えて解説します。\nこの記事は、『Eleven Labs超活用！自分の声で創る「没入型」ネイティブ英語学習：ゼロから始めるパーソナルAI英語教師育成術』の内容に基づいて...",
+    "content": "\n Eleven Labs 自分の声で学ぶネイティブ英語学習加速法\n英語学習において、発音の習得は非常に重要です。しかし、自分の発音を客観的に評価し、ネイティブスピーカーのように自然に話すことは容易ではありません。Eleven Labsの音声クローン技術は、この課題を解決する革新的なツールを提供します。本記事では、Eleven Labsを活用した「自分の声で学ぶネイティブ英語学習加速法」について、実践的な手順と具体的な例を交えて解説します。\nこの記事は、『Eleven Labs超活用！自分の声で創る「没入型」ネイティブ英語学習：ゼロから始めるパーソナルAI英語教師育成術』の内容に基づいて...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--_HPLY4tv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Eleven%2520Labs%2520%25E8%2587%25AA%25E5%2588%2586%25E3%2581%25AE%25E5%25A3%25B0%25E3%2581%25A7%25E5%25AD%25A6%25E3%2581%25B6%25E3%2583%258D%25E3%2582%25A4%25E3%2583%2586%25E3%2582%25A3%25E3%2583%2596%25E8%258B%25B1%25E8%25AA%259E%25E5%25AD%25A6%25E7%25BF%2592%25E5%258A%25A0%25E9%2580%259F%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -204,7 +230,7 @@
     "title": "デジタル国家戦略 2.0：Web3時代の金融インフラと国家主権",
     "url": "https://zenn.dev/idev/books/book-20250309-044006",
     "published": "Sat, 08 Mar 2025 23:20:13 GMT",
-    "content": "本書は、Web3時代の金融インフラと国家主権を主題とし、ビットコイン、ブロックチ���ーン、DeFi、CBDCなどの技術を国家戦略に取り込む可能性を探ります。Web3技術の基礎から応用、規制、セキュリティ、ビジネスチャンスまで幅広く扱い、読者はWeb3が国家と金融システムに及ぼす影響を理解し、実践的な知識を得ることができます。Web3技術を活用した未来社会の展望を示し、読者が主体的に未来を切り開くための羅針盤となることを目指します。",
+    "content": "本書は、Web3時代の金融インフラと国家主権を主題とし、ビットコイン、ブロックチェーン、DeFi、CBDCなどの技術を国家戦略に取り込む可能性を探ります。Web3技術の基礎から応用、規制、セキュリティ、ビジネスチャンスまで幅広く扱い、読者はWeb3が国家と金融システムに及ぼす影響を理解し、実践的な知識を得ることができます。Web3技術を活用した未来社会の展望を示し、読者が主体的に未来を切り開くための羅針盤となることを目指します。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--ou6r_3YY--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9hODk4ZmY4NWY5LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -217,7 +243,7 @@
     "title": "英語運用能力を鍛える教科書",
     "url": "https://zenn.dev/idev/articles/article-20250309-073539",
     "published": "Sat, 08 Mar 2025 23:19:59 GMT",
-    "content": "\n 英語運用能力を鍛える教科書\nこの記事では、ビジネスシーンで効果的に英語を使うための実践的なテクニックを紹介します。書籍『英語脳を爆速起動！ 実践型ビジネス英語トレー��ング』の内容に基づき、英語運用能力を向上させるための具体的な方法を段階的に解説します。\n\n 英語脳を起動させるための基礎\n英語を流暢に話すためには、「英語脳」を起動させることが重要です。これは、日本語で考えずに英語で直接思考する状態を指します。そのためには、以下の3つのポイントを意識しましょう。\n\n\n英語を英語のまま理解する: 日本語に訳さずに、英語の音と意味を直接結びつける訓練をします。\n\n英語のリズムとイントネーショ...",
+    "content": "\n 英語運用能力を鍛える教科書\nこの記事では、ビジネスシーンで効果的に英語を使うための実践的なテクニックを紹介します。書籍『英語脳を爆速起動！ 実践型ビジネス英語トレーニング』の内容に基づき、英語運用能力を向上させるための具体的な方法を段階的に解説します。\n\n 英語脳を起動させるための基礎\n英語を流暢に話すためには、「英語脳」を起動させることが重要です。これは、日本語で考えずに英語で直接思考する状態を指します。そのためには、以下の3つのポイントを意識しましょう。\n\n\n英語を英語のまま理解する: 日本語に訳さずに、英語の音と意味を直接結びつける訓練をします。\n\n英語のリズムとイントネーショ...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--appEfy_I--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%258B%25B1%25E8%25AA%259E%25E9%2581%258B%25E7%2594%25A8%25E8%2583%25BD%25E5%258A%259B%25E3%2582%2592%25E9%258D%259B%25E3%2581%2588%25E3%2582%258B%25E6%2595%2599%25E7%25A7%2591%25E6%259B%25B8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -230,33 +256,7 @@
     "title": "デジタル国家戦略: ビットコインとブロックチェーンが実現する次世代金融システム",
     "url": "https://zenn.dev/idev/articles/article-20250309-044941",
     "published": "Sat, 08 Mar 2025 20:02:53 GMT",
-    "content": "\n デジタル国家戦略: ビットコインとブロックチェーンが実現する次世代金融システム\nこの記事では、書籍『デジタル国家戦略 2.0：Web3時代の金融インフラと国家主権』の内容を基に、ビットコインとブロックチェーン技術がどのように次世代の金融システムを構築し、デジタル国家戦略を推進するのかを解説します。既存の金融システムの課題を分析し、ビットコインとブロックチェーンが提供する解決策、そしてデジタル国家における実装の可能性と課題について掘り下げます。\n\n 既存金融システムの課題\n現在の金融システムは、中央集権的な構造を持ち、以下のような課題を抱えています。\n\n\n高コスト: 銀行などの仲介機関...",
+    "content": "\n デジタル国家戦略: ビットコインとブロックチェーンが実現する次世代金融システム\nこの記事では、書籍『デジタル国家戦略 2.0：Web3時代の金融インフラと国家主権』の内容を基に、ビットコインとブロックチェーン技術がどのように次世代の金融システムを構築し、デジタル国家戦略を推進するのかを解説します。既存の金融システムの課題を分析し、ビットコインとブロックチェーンが提供する解決��、そしてデジタル国家における実装の可能性と課題について掘り下げます。\n\n 既存金融システムの課題\n現在の金融システムは、中央集権的な構造を持ち、以下のような課題を抱えています。\n\n\n高コスト: 銀行などの仲介機関...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--OgJMD97n--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25AB%25E5%259B%25BD%25E5%25AE%25B6%25E6%2588%25A6%25E7%2595%25A5%253A%2520%25E3%2583%2593%25E3%2583%2583%25E3%2583%2588%25E3%2582%25B3%25E3%2582%25A4%25E3%2583%25B3%25E3%2581%25A8%25E3%2583%2596%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2581%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%25B3%25E3%2581%258C%25E5%25AE%259F%25E7%258F%25BE%25E3%2581%2599%25E3%2582%258B%25E6%25AC%25A1%25E4%25B8%2596%25E4%25BB%25A3%25E9%2587%2591%25E8%259E%258D%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/books/book-20250307-184553",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "GitHub Actionsで爆速リリース！PyInstaller & DMGbuild 実践 macOS アプリ開発入門",
-    "url": "https://zenn.dev/idev/books/book-20250307-184553",
-    "published": "Fri, 07 Mar 2025 10:06:29 GMT",
-    "content": "本書は、Pythonで開発したmacOSアプリをPyInstallerとDMGbuildを用いてパッケージングし、自動ビルド・リリースを実現するための実践的なガイドです。GitHub ActionsによるCI/CDパイプライン構築、コード署名、Notarizationといったリリースに必要な工程を網羅的に解説します。読者は、Python製のmacOSアプリを効率的に開発・配布するための知識とスキルを習得できます。",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--psbkGUad--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci81OTRjM2VjNDhjLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/articles/article-20250307-185536",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "GitHubで配布可能な軽量アプリの作り方",
-    "url": "https://zenn.dev/idev/articles/article-20250307-185536",
-    "published": "Fri, 07 Mar 2025 10:06:16 GMT",
-    "content": "\n GitHubで配布可能な軽量アプリの作り方\nこの記事では、GitHubをプラットフォームとして利用し、軽量なアプリケーションを作成し配布する方法を解説します。Pythonを例に、PyInstallerを用いたアプリケーションのビルドと、DMGbuildを用いたmacOS向けインスト���ラーの作成、そしてGitHub Actionsを用いた自動化まで、実践的な手順を踏まえながら説明します。この記事は、『GitHub Actionsで爆速リリース！PyInstaller &amp; DMGbuild 実践 macOS アプリ開発入門』の内容に基づいています。\n\n 軽量アプリ開発のメリット\n...",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--ihzofbIM--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GitHub%25E3%2581%25A7%25E9%2585%258D%25E5%25B8%2583%25E5%258F%25AF%25E8%2583%25BD%25E3%2581%25AA%25E8%25BB%25BD%25E9%2587%258F%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2581%25AE%25E4%25BD%259C%25E3%2582%258A%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   }
 ]
