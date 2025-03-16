@@ -48,7 +48,7 @@
     "title": "Python画像処理ライブラリPillowとClaude 3.7 AIで実現する高度画像分析入門",
     "url": "https://zenn.dev/idev/articles/article-20250315-091501",
     "published": "Sat, 15 Mar 2025 00:23:36 GMT",
-    "content": "\n Python画像処理ライブラリPillowとClaude 3.7 AIで実現する高度画像分析入門\nこの記事では、Pythonの画像処理ライブラリPillowと高度な言語モデルClaude 3.7を組み合わせ、画像分析を行う方法を紹��します。画像の読み込み、操作、解析といった基本的な処理から、Claude 3.7を活用した高度な画像キャプション生成や画像内容に基づく質疑応答まで、実践的な例を交えて解説します。\n\n Pillowによる画像処理の基本\nPillowは、Pythonで画像処理を行うための強力なライブラリです。画像の読み込み、保存、サイズ変更、回転、フィルタリングなど、様々な操...",
+    "content": "\n Python画像処理ライブラリPillowとClaude 3.7 AIで実現する高度画像分析入門\nこの記事では、Pythonの画像処理ライブラリPillowと高度な言語モデルClaude 3.7を組み合わせ、画像分析を行う方法を紹介し��す。画像の読み込み、操作、解析といった基本的な処理から、Claude 3.7を活用した高度な画像キャプション生成や画像内容に基づく質疑応答まで、実践的な例を交えて解説します。\n\n Pillowによる画像処理の基本\nPillowは、Pythonで画像処理を行うための強力なライブラリです。画像の読み込み、保存、サイズ変更、回転、フィルタリングなど、様々な操...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--PDwF2Ked--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Python%25E7%2594%25BB%25E5%2583%258F%25E5%2587%25A6%25E7%2590%2586%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2596%25E3%2583%25A9%25E3%2583%25AAPillow%25E3%2581%25A8Claude%25203.7%2520AI%25E3%2581%25A7%25E5%25AE%259F%25E7%258F%25BE%25E3%2581%2599%25E3%2582%258B%25E9%25AB%2598%25E5%25BA%25A6%25E7%2594%25BB%25E5%2583%258F%25E5%2588%2586%25E6%259E%2590%25E5%2585%25A5%25E9%2596%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -113,7 +113,7 @@
     "title": "音声分析の自動化革命：Praatスクリプトで実現するプロの技",
     "url": "https://zenn.dev/idev/books/book-20250314-071936",
     "published": "Thu, 13 Mar 2025 22:35:23 GMT",
-    "content": "本書は、音声分析ソフトウェアPraatのスクリプト機能に焦点を当て、自動化に��る効率的な分析手法を解説します。Praatの基本操作からスクリプトの記述、音声パラメータ抽出、機械学習応用まで幅広くカバーし、読者は発音評価システムや感情分析など、実践的なアプリケーション開発スキルを習得できます。音声分析の自動化を通じて、研究、教育、ビジネスなど様々な分野で活用できるプロの技を身につけることを目指します。",
+    "content": "本書は、音声分析ソフトウェアPraatのスクリプト機能に焦点を当て、自動化による��率的な分析手法を解説します。Praatの基本操作からスクリプトの記述、音声パラメータ抽出、機械学習応用まで幅広くカバーし、読者は発音評価システムや感情分析など、実践的なアプリケーション開発スキルを習得できます。音声分析の自動化を通じて、研究、教育、ビジネスなど様々な分野で活用できるプロの技を身につけることを目指します。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--pXFPto_m--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci84ZTUzZjVlYTI4LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -243,7 +243,7 @@
     "title": "英語脳を爆速起動！ 実践型ビジネス英語トレーニング",
     "url": "https://zenn.dev/idev/books/book-20250309-072706",
     "published": "Sat, 08 Mar 2025 23:20:14 GMT",
-    "content": "本書は、グローバルビジネスの現場で通用する実践的な英語力を身につけるための技術書です。英語���話の瞬発力向上、ロジカルシンキング、異文化コミュニケーション能力など、幅広いスキルをトレーニングします。AIや最新の学習トレンドも取り入れ、読者が効率的に英語力を向上させ、キャリアアップを実現できるよう支援します。",
+    "content": "本書は、グローバルビジネスの現場で通用する実践的な英語力を身につけるための技術書です。英語発話���瞬発力向上、ロジカルシンキング、異文化コミュニケーション能力など、幅広いスキルをトレーニングします。AIや最新の学習トレンドも取り入れ、読者が効率的に英語力を向上させ、キャリアアップを実現できるよう支援します。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--MYoOpvVY--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9kOTZiODU0MDRhLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -256,7 +256,7 @@
     "title": "デジタル国家戦略 2.0：Web3時代の金融インフラと国家主権",
     "url": "https://zenn.dev/idev/books/book-20250309-044006",
     "published": "Sat, 08 Mar 2025 23:20:13 GMT",
-    "content": "本書は、Web3時代の金融インフラと国家主権を主題とし、ビットコイン、ブロックチェーン、DeFi、CBDCなどの技術を国家戦略に取り込む可能性を探ります。Web3技術の基礎から応用、規制、セキュリティ、ビジネスチャンスまで幅広く扱い、読者はWeb3が国家と金融システムに及ぼす��響を理解し、実践的な知識を得ることができます。Web3技術を活用した未来社会の展望を示し、読者が主体的に未来を切り開くための羅針盤となることを目指します。",
+    "content": "本書は、Web3時代の金融インフラと国家主権を主題とし、ビットコイン、ブロックチェーン、DeFi、CBDCなどの技術を国家戦略に取り込む可能性を探ります。Web3技術の基礎から応用、規制、セキュリティ、ビジネスチャンスまで幅広く扱い、読者はWeb3が国家と金融システムに及ぼす影響��理解し、実践的な知識を得ることができます。Web3技術を活用した未来社会の展望を示し、読者が主体的に未来を切り開くための羅針盤となることを目指します。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--ou6r_3YY--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9hODk4ZmY4NWY5LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   }
 ]
