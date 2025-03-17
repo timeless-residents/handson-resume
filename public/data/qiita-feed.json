@@ -1,5 +1,12 @@
 [
   {
+    "id": "tag:qiita.com,2005:PublicArticle/2000357",
+    "title": "【保存版】実用的すぎるOpenAI Responses API 45+のユースケース実装集 - 画像認識からデータ分析まで全網羅",
+    "url": "https://qiita.com/timeless-residents/items/36a19c5b272589f1754d",
+    "published": "2025-03-17T09:50:59+09:00",
+    "content": "【保存版】実用的すぎるOpenAI Responses API 45+のユースケース実装集 - 画像認識からデータ分析まで全網羅\nはじめに\nこんにちは！最近、ChatGPTやGPT-4といったAIモ…"
+  },
+  {
     "id": "tag:qiita.com,2005:PublicArticle/1998934",
     "title": "OpenAI Agent SDKではじめる高度なAIエージェント開発",
     "url": "https://qiita.com/timeless-residents/items/4f21fe3a0ebe623440c0",
@@ -19,12 +26,5 @@
     "url": "https://qiita.com/timeless-residents/items/8f3c883a2acc9f7c0f6c",
     "published": "2025-03-06T06:57:10+09:00",
     "content": "【ステップバイステップ】Web Audio APIで音楽生成アプリ開発チュートリアル\nWeb Audio APIは難しそうに見えるかもしれませんが、そんなことはありません！このチュートリアルでは、た…"
-  },
-  {
-    "id": "tag:qiita.com,2005:PublicArticle/1995441",
-    "title": "脱動けばOK 1日15分でコード品質爆上げ リファクタリングデバッグ可読性向上術",
-    "url": "https://qiita.com/timeless-residents/items/67cf8fdde67d2bbe166d",
-    "published": "2025-03-05T07:20:25+09:00",
-    "content": "「とりあえず動いた！」で終わらせていませんか？　日々の開発で積み重なる技術的負債は、将来的に大きな痛手となります。しかし、大規模なリファクタリングに時間を割く余裕もない…。\nこの記事では、1日たった…"
   }
 ]
