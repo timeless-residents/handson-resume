@@ -9,7 +9,7 @@
     "title": "OpenAI Responses API実践ガイド",
     "url": "https://zenn.dev/idev/books/book-20250317-openai-responsesapi",
     "published": "Mon, 17 Mar 2025 04:03:57 GMT",
-    "content": "本書は、OpenAI Responses APIの基本から応用までを網羅した実践的なガイドブックです。最先端の大規模言語モデル（LLM）の能力を簡単に活用できるResponses APIの可能性を、46の具体的なユースケースを通じて探ります。基本的なテキスト生成から始まり、システムプロンプトの活用、ストリーミング応答、会話履歴の管理などの基本機能を学びます。さらに、マーケティング文章の自動生成や技術文書の作成支援などのコンテンツ生成、Web検索ツールや外部APIとの連携などのツール統合へと進みます。ビジネス応用では、AIカスタマーサポート、多言語対応、データ分析、専門分野での活用など、実際のビジネスシーンを想定した実装例を紹介します。各ユースケースでは、具体的なコード例とともに、ビジネスでの活用シナリオや実装上の注意点を詳しく解説しています。AIの力を最大限に引き出し、ビジネスや社会に新たな価値をもたらすための実践的なガイドとなるでしょう。",
+    "content": "本書は、OpenAI Responses APIの基本から応用までを網羅した実践的なガイドブックです。最先端の大規模言語モデル（LLM）の能力を簡単に活用できるResponses APIの可能性を、46の具体的なユースケースを通じて探ります。基本的なテキスト生成から始まり、システムプロンプトの活用、ストリーミング応答、会話履歴の管理などの基本機能を学びます。さらに、マーケティング文章の自動生成や技術文書の作成支援などのコンテンツ生成、Web検索ツールや外部APIとの連携などのツール統合へと進みます。ビジネス応用では、AIカスタマーサポート、多言語対応、データ分析、専門分野での活用など、��際のビジネスシーンを想定した実装例を紹介します。各ユースケースでは、具体的なコード例とともに、ビジネスでの活用シナリオや実装上の注意点を詳しく解説しています。AIの力を最大限に引き出し、ビジネスや社会に新たな価値をもたらすための実践的なガイドとなるでしょう。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--N4Ie8-oD--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci84YzdjNDU5NjE2LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -22,7 +22,7 @@
     "title": "【新刊】OpenAI Responses API実践ガイド - AIの力を最大限に引き出す46のユースケース",
     "url": "https://zenn.dev/idev/articles/article-20250317-openai-responsesapi",
     "published": "Mon, 17 Mar 2025 04:03:40 GMT",
-    "content": "\n OpenAI Responses API実践ガイド - AIの力を最大限に引き出す46のユースケース\n\n 🌟 最先端のAI技術を、あなたのビジネスに\n2025年、AIテクノロジーは急速に進化し、ビジネスや社会のあらゆる��面に変革をもたらしています。その中でも、 OpenAI Responses API は、最先端の大規模言語モデル（LLM）の能力を簡単に活用できるインターフェースとして注目を集めています。\nしかし、この強力なAPIを最大限に活用するには、どのようにアプローチすればよいのでしょうか？\n『OpenAI Responses API実践ガイド』 は、この問いに答える決定版の書...",
+    "content": "\n OpenAI Responses API実践ガイド - AIの力を最大限に引き出す46のユースケース\n\n 🌟 最先端のAI技術を、あなたのビジネスに\n2025年、AIテクノロジーは急速に進化し、ビジネスや社会のあらゆる側���に変革をもたらしています。その中でも、 OpenAI Responses API は、最先端の大規模言語モデル（LLM）の能力を簡単に活用できるインターフェースとして注目を集めています。\nしかし、この強力なAPIを最大限に活用するには、どのようにアプローチすればよいのでしょうか？\n『OpenAI Responses API実践ガイド』 は、この問いに答える決定版の書...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--ifeIbFFl--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E6%2596%25B0%25E5%2588%258A%25E3%2580%2591OpenAI%2520Responses%2520API%25E5%25AE%259F%25E8%25B7%25B5%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2520-%2520AI%25E3%2581%25AE%25E5%258A%259B%25E3%2582%2592%25E6%259C%2580%25E5%25A4%25A7%25E9%2599%2590%25E3%2581%25AB%25E5%25BC%2595%25E3%2581%258D%25E5%2587%25BA%25E3%2581%259946%25E3%2581%25AE%25E3%2583%25A6%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -61,7 +61,7 @@
     "title": "Python画像処理ライブラリPillowとClaude 3.7 AIで実現する高度画像分析入門",
     "url": "https://zenn.dev/idev/books/book-20250315-090539",
     "published": "Sat, 15 Mar 2025 00:24:05 GMT",
-    "content": "本書は、Python画像処理ライブラリPillowと大規模言語モデルClaude 3.7 APIを用いて、画像分析の基礎から応用までを実践的に解説します。画像データの取り扱い、加工、可視化から、AIによる画像認識、異常検知、画像生成までを網���し、ビジネスへの応用例も紹介します。読者は、PillowとClaude 3.7を組み合わせた画像分析技術を習得し、多様な分野でAIを活用したシステム構築や業務効率化を実現できます。",
+    "content": "本書は、Python画像処理ライブラリPillowと大規模言語モデルClaude 3.7 APIを用いて、画像分析の基礎から応用までを実践的に解説します。画像データの取り扱い、加工、可視化から、AIによる画像認識、異常検知、画像生成までを網羅し、ビジネスへの応用例も紹介します。読者は、PillowとClaude 3.7を組み合わせた画像分析技術を習得し、多様な分野でAIを活用したシステム構築や業務効率化を実現できます。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--N1a_D6aY--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9hMTEyY2ViNzQ1LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -74,7 +74,7 @@
     "title": "Python画像処理ライブラリPillowとClaude 3.7 AIで実現する高度画像分析入門",
     "url": "https://zenn.dev/idev/articles/article-20250315-091501",
     "published": "Sat, 15 Mar 2025 00:23:36 GMT",
-    "content": "\n Python画像処理ライブラリPillowとClaude 3.7 AIで実現する高度画像分析入門\nこの記事では、Pythonの画像処理ライブラリPillowと高度な言語モデルClaude 3.7を組み合わせ、画像分析を行う方法を紹介します。画像の読み込み、操作、解析といった基本的な処理から、Claude 3.7を活用した高度な画像キャプション生成や画像内容に基づく質疑���答まで、実践的な例を交えて解説します。\n\n Pillowによる画像処理の基本\nPillowは、Pythonで画像処理を行うための強力なライブラリです。画像の読み込み、保存、サイズ変更、回転、フィルタリングなど、様々な操...",
+    "content": "\n Python画像処理ライブラリPillowとClaude 3.7 AIで実現する高度画像分析入門\nこの記事では、Pythonの画像処理ライブラリPillowと高度な言語モデルClaude 3.7を組み合わせ、画像分析を行う方法を紹介します。画像の読み込み、操作、解析といった基本的な処理から、Claude 3.7を活用した高度な画像キャプション生成や画像内容に基づく質疑応答まで、実践的な例を交えて解説します。\n\n Pillowによる画像処理の基本\nPillowは、Pythonで画像処理を行うための強力なライブラリです。画像の読み込み、保存、サイズ変更、回転、フィルタリングなど、様々な操...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--PDwF2Ked--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Python%25E7%2594%25BB%25E5%2583%258F%25E5%2587%25A6%25E7%2590%2586%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2596%25E3%2583%25A9%25E3%2583%25AAPillow%25E3%2581%25A8Claude%25203.7%2520AI%25E3%2581%25A7%25E5%25AE%259F%25E7%258F%25BE%25E3%2581%2599%25E3%2582%258B%25E9%25AB%2598%25E5%25BA%25A6%25E7%2594%25BB%25E5%2583%258F%25E5%2588%2586%25E6%259E%2590%25E5%2585%25A5%25E9%2596%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -97,7 +97,7 @@
         "isPermaLink": "true"
       }
     },
-    "title": "Scratchマスターへの道: 義務教育を超えた創造的プログラミング",
+    "title": "Scratchマスターへの道: 義務教育��超えた創造的プログラミング",
     "url": "https://zenn.dev/idev/articles/article-20250314-232229",
     "published": "Fri, 14 Mar 2025 14:42:11 GMT",
     "content": "\n Scratchマスターへの道: 義務教育を超えた創造的プログラミング\nScratchは、子供たちがプログラミングの基礎を学ぶための素晴らしいツールです。しかし、その可能性は義務教育の範囲をはるかに超えています。この技術記事では、Scratchを深く掘り下げ、高度なテクニックや創造的な活用方法を学び、真のScratchマスターを目指しましょう。この記事は、『Scratch進化論：ゲーム開発からAI、そして未来の創造へ』の内容に基づいて構成されています。\n\n Scratchの基本を超えて\nScratchの基本的な操作、例えばスプライトの移動やコスチュームの変更、簡単なアニメーションの作成...",
@@ -139,7 +139,7 @@
     "title": "音声分析の自動化革命：Praatスクリプトで実現するプロの技",
     "url": "https://zenn.dev/idev/books/book-20250314-071936",
     "published": "Thu, 13 Mar 2025 22:35:23 GMT",
-    "content": "本書は、音声分析ソフトウェアPraatのスクリプト機能に焦点を当て、自動化による効率的な分析手法を解説します。Praatの基本操作からスクリプトの記述、音声パラメータ抽出、機械学習応用まで幅広くカバーし、読者は発音評価システムや感情分析など、実践的なアプリケーション開発スキルを習得できます。音声分析の自動化を通じて、研究、教育、ビジネスなど様々な分野で活用できるプロの技を身につけることを目指します。",
+    "content": "本書は、音声分析ソフトウェアPraatのスクリプト機能に焦点を当て、自動化による効率的な分析手法を解説します。Praatの基本操作からスクリプトの記述、音声パラメータ抽出、機械学習応用まで幅広くカバーし、読者は��音評価システムや感情分析など、実践的なアプリケーション開発スキルを習得できます。音声分析の自動化を通じて、研究、教育、ビジネスなど様々な分野で活用できるプロの技を身につけることを目指します。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--pXFPto_m--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci84ZTUzZjVlYTI4LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -152,7 +152,7 @@
     "title": "Praatスクリプティングで音声分析をマスター：開発者のためのガイド",
     "url": "https://zenn.dev/idev/articles/article-20250314-072839",
     "published": "Thu, 13 Mar 2025 22:35:08 GMT",
-    "content": "\n Praatスクリプティングで音声分析をマスター：開発者のためのガイド\n音声分析は、音声学、言語学、音声認識、音声合成など、様々な分野で不可欠なツールです。Praatは、音声分析のための強力で汎用性の高いフリーソフトウェアですが、そのGUI操作は大量のデータ処理には非効率です。そ���で、Praatスクリプトの出番です。本記事では、Praatスクリプティングの基本から応用までを網羅し、開発者が効率的に音声分析を自動化するためのガイドを提供します。この記事は、『音声分析の自動化革命：Praatスクリプトで実現するプロの技』の内容に基づいて作成されています。\n\n Praatスクリプトの基本\nP...",
+    "content": "\n Praatスクリプティングで音声分析をマスター：開発者のためのガイド\n音声分析は、音声学、言語学、音声認識、音声合成など、様々な分野で不可欠なツールです。Praatは、音声分析のための強力で汎用性の高いフリーソフトウェアですが、そのGUI操作は大量のデータ処理には非効率です。そこで、Praatスクリプトの出番です。本記事では、Praatスクリプティングの基本から応用までを網羅し、開発者が効率的に音声分析を自動化するためのガイドを提供します。この記事は、『音声分析の自動化革命：Praatスクリプトで実現するプロの技』の内容に基づいて作成されています。\n\n Praatスクリプトの基本\nP...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--cN0nrp0w--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Praat%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%2597%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25A7%25E9%259F%25B3%25E5%25A3%25B0%25E5%2588%2586%25E6%259E%2590%25E3%2582%2592%25E3%2583%259E%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25EF%25BC%259A%25E9%2596%258B%25E7%2599%25BA%25E8%2580%2585%25E3%2581%25AE%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -178,7 +178,7 @@
     "title": "Claude 3.7 + draw.io APIによる実務活用シナリオ",
     "url": "https://zenn.dev/idev/articles/article-20250313-121805",
     "published": "Thu, 13 Mar 2025 05:32:32 GMT",
-    "content": "\n Claude 3.7 + draw.io APIによる実務活用シナリオ\nこの記事では、��規模言語モデルClaude 3.7とdraw.io APIを組み合わせることで、業務効率を劇的に向上させる実践テクニックを紹介します。自然言語で指示を出すだけで、複雑な図表を自動生成できるようになり、資料作成、システム設計、プレゼンテーション準備など、様々な業務に革新をもたらします。\nこの記事は、『AI × 図解革命！ Claude 3.7 + draw.io APIで業務効率を爆上げする実践テクニック』の内容に基づいており、具体的な活用シナリオとコードサンプルを通して、その効果を実感していただけ...",
+    "content": "\n Claude 3.7 + draw.io APIによる実務活用シナリオ\nこの記事では、大���模言語モデルClaude 3.7とdraw.io APIを組み合わせることで、業務効率を劇的に向上させる実践テクニックを紹介します。自然言語で指示を出すだけで、複雑な図表を自動生成できるようになり、資料作成、システム設計、プレゼンテーション準備など、様々な業務に革新をもたらします。\nこの記事は、『AI × 図解革命！ Claude 3.7 + draw.io APIで業務効率を爆上げする実践テクニック』の内容に基づいており、具体的な活用シナリオとコードサンプルを通して、その効果を実感していただけ...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--l4uix9hZ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%25203.7%2520%252B%2520draw.io%2520API%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E5%25AE%259F%25E5%258B%2599%25E6%25B4%25BB%25E7%2594%25A8%25E3%2582%25B7%25E3%2583%258A%25E3%2583%25AA%25E3%2582%25AA%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
