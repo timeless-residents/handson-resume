@@ -35,7 +35,7 @@
     "title": "金融RPA 実践ガイド：自動化戦略、実装、リスク管理、そして未来",
     "url": "https://zenn.dev/idev/books/book-20250321-022007",
     "published": "Thu, 20 Mar 2025 17:32:44 GMT",
-    "content": "本書は、金融機関におけるRPA（ロボティック・プロセス・オートメーション）の導入から運用までを網羅的に解説する実践ガイ��です。RPAの基礎知識、導入戦略、ツール選定、開発、運用、セキュリティ、ガバナンスに加え、AIやOCRとの連携、最新トレンド、将来展望まで、金融RPAに関する幅広い技術と概念を扱います。読者は本書を通じて、金融機関におけるRPA導入・推進に必要な知識とスキルを習得し、自動化による業務効率化、コスト削減、リスク管理、顧客体験向上を実現できます。",
+    "content": "本書は、金融機関におけるRPA（ロボティック・プロセス・オートメーション）の導入から運用までを網羅的に解説する実践ガイドです���RPAの基礎知識、導入戦略、ツール選定、開発、運用、セキュリティ、ガバナンスに加え、AIやOCRとの連携、最新トレンド、将来展望まで、金融RPAに関する幅広い技術と概念を扱います。読者は本書を通じて、金融機関におけるRPA導入・推進に必要な知識とスキルを習得し、自動化による業務効率化、コスト削減、リスク管理、顧客体験向上を実現できます。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--sGMkXtVT--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9jOTgxOTc4NWNkLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -48,7 +48,7 @@
     "title": "金融におけるロボティックプロセスオートメーション（RPA）",
     "url": "https://zenn.dev/idev/articles/article-20250321-022937",
     "published": "Thu, 20 Mar 2025 17:32:27 GMT",
-    "content": "\n 金融におけるロボティックプロセスオートメーション（RPA）\n金融業界は、複雑な規制、膨大なデータ、そして効率性への絶え間ないプレッシャーに���面しています。これらの課題に対処するために、ロボティックプロセスオートメーション（RPA）が変革的なソリューションとして登場しました。RPA は、ソフトウェアロボットを使用して、反復的でルールベースのタスクを自動化し、人間の従業員をより戦略的な活動に解放します。この記事では、金融における RPA の概念、利点、実装、リスク管理、そして未来について深く掘り下げ、実践的な例とコードサンプルを提供しながら、包括的な理解を提供します。\n\n RPA とは何...",
+    "content": "\n 金融におけるロボティックプロセスオートメーション（RPA）\n金融業界は、複雑な規制、膨大なデータ、そして効率性への絶え間ないプレッシャーに直面しています。これらの課題に対処するために、ロボティックプロセスオートメーション（RPA）が変革的なソリューションとして登場しました。RPA は、ソフトウェアロボットを使用して、反復的でルールベースのタスクを自動化し、人間の従業員をより戦略的な活動に解放します。この記事では、金融における RPA の概念、利点、実装、リスク管理、そして未来について深く掘り下げ、実践的な例とコードサンプルを提供しながら、包括的な理解を提供します。\n\n RPA とは何...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--lgF14pfj--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%2587%2591%25E8%259E%258D%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258B%25E3%2583%25AD%25E3%2583%259C%25E3%2583%2586%25E3%2582%25A3%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25BB%25E3%2582%25B9%25E3%2582%25AA%25E3%2583%25BC%25E3%2583%2588%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25EF%25BC%2588RPA%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -87,7 +87,7 @@
     "title": "OpenAI Responses API実践ガイド",
     "url": "https://zenn.dev/idev/books/book-20250317-openai-responsesapi",
     "published": "Mon, 17 Mar 2025 04:03:57 GMT",
-    "content": "本書は、OpenAI Responses APIの基本から応用までを網羅した実践的なガイドブックです。最先端の大規模言語モデル（LLM）の能力を簡単に活用できるResponses APIの可能性を、46の具体的なユースケースを通じて探ります。基本的なテキスト生成から始まり、システムプロンプトの活用、ストリーミング応答、会話履歴���管理などの基本機能を学びます。さらに、マーケティング文章の自動生成や技術文書の作成支援などのコンテンツ生成、Web検索ツールや外部APIとの連携などのツール統合へと進みます。ビジネス応用では、AIカスタマーサポート、多言語対応、データ分析、専門分野での活用など、実際のビジネスシーンを想定した実装例を紹介します。各ユースケースでは、具体的なコード例とともに、ビジネスでの活用シナリオや実装上の注意点を詳しく解説しています。AIの力を最大限に引き出し、ビジネスや社会に新たな価値をもたらすための実践的なガイドとなるでしょう。",
+    "content": "本書は、OpenAI Responses APIの基本から応用までを網羅した実践的なガイドブックです。最先端の大規模言語モデル（LLM）の能力を簡単に活用できるResponses APIの可能性を、46の具体的なユースケースを通じて探ります。基本的なテキスト生成から始まり、システムプロンプトの活用、ストリーミング応答、会話履歴の管理などの基本機能を学びます。さらに、マーケティング文章の自動生成や技術文書の作成支援などのコンテンツ生成、Web検索ツールや外部APIとの連携などのツール統合へと進みます。ビジネス応用では、AIカスタマーサポート、多言語対応、データ分析、専門分野での活用など、実際のビジネスシーンを想定した実装例を紹介します。各ユースケースでは、具体的なコード例とともに、ビジネスでの活用シナリオや実装上の注意点を詳しく解説しています。AIの力を最大限に引き出し、ビジネスや社会に新たな価値をもたらすための実践的なガイドとなるでしょう。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--N4Ie8-oD--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci84YzdjNDU5NjE2LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -126,7 +126,7 @@
     "title": "マイクロSaaSの作り方：日本の中小企業向けサービスを週末で立ち上げる",
     "url": "https://zenn.dev/idev/articles/article-20250315-095123",
     "published": "Sat, 15 Mar 2025 04:28:33 GMT",
-    "content": "\n マイクロSaaSの作り方：日本の中小企業向けサービスを週末で立ち上げる\nこの記事では、週末を利用して日本の中小企業向けのマイクロSaaSを開発し、立ち上げる方法をステップバイステップで解説します。低リスクで始められる高収益ビジネスモデルとして注目されるマイクロSaaS開発の具体的な手法を、コード例や実践的な例を交えながら紹介します。この記事は、『週末起業の最終形：中小企業を救うマイクロSaaS開発術 – 低リスクで始める、高収益ビジネスモデル』の内容に基づいています。\n\n 1. ニーズの発見：中小企業の課題を解決する\n���功するマイクロSaaSは、明確なニーズを満たす必要があります。日...",
+    "content": "\n マイクロSaaSの作り方：日本の中小企業向けサービスを週末で立ち上げる\nこの記事では、週末を利用して日本の中小企業向けのマイクロSaaSを開発し、立ち上げる方法をステップバイステップで解説します。低リスクで始められる高収益ビジネスモデルとして注目されるマイクロSaaS開発の具体的な手法を、コード例や実践的な例を交えながら紹介します。この記事は、『週末起業の最終形：中小企業を救うマイクロSaaS開発術 – 低リスクで始める、高収益ビジネスモデル』の内容に基づいています。\n\n 1. ニーズの発見：中小企業の課題を解決する\n成功するマイクロSaaSは、明確なニーズを満たす必要があります。日...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--63NB-yFv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%259E%25E3%2582%25A4%25E3%2582%25AF%25E3%2583%25ADSaaS%25E3%2581%25AE%25E4%25BD%259C%25E3%2582%258A%25E6%2596%25B9%25EF%25BC%259A%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25AE%25E4%25B8%25AD%25E5%25B0%258F%25E4%25BC%2581%25E6%25A5%25AD%25E5%2590%2591%25E3%2581%2591%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E3%2582%2592%25E9%2580%25B1%25E6%259C%25AB%25E3%2581%25A7%25E7%25AB%258B%25E3%2581%25A1%25E4%25B8%258A%25E3%2581%2592%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -152,7 +152,7 @@
     "title": "Python画像処理ライブラリPillowとClaude 3.7 AIで実現する高度画像分析入門",
     "url": "https://zenn.dev/idev/articles/article-20250315-091501",
     "published": "Sat, 15 Mar 2025 00:23:36 GMT",
-    "content": "\n Python画像処理ライブラリPillowとClaude 3.7 AIで実現する高度画像分析入門\nこの記事では、Pythonの画像処理ライブラリPillowと高度な言語モデルClaude 3.7を組み合わせ、画像分析を行う方法を紹介します。画像の読み込み、操作、解析といった基本的な処理から、Claude 3.7を活用した高度な画像キャプション生成や画像内容に基づく質疑応答まで、実践的な例を交えて解説します。\n\n Pillowによる画像処理の基本\nPillowは、Pythonで画像処理を行うための強力なライブラリです。画像の読み込み、保存、サイズ変更、回転、フィルタリングなど、様々な操...",
+    "content": "\n Python画像処理ライブラリPillowとClaude 3.7 AIで実現す��高度画像分析入門\nこの記事では、Pythonの画像処理ライブラリPillowと高度な言語モデルClaude 3.7を組み合わせ、画像分析を行う方法を紹介します。画像の読み込み、操作、解析といった基本的な処理から、Claude 3.7を活用した高度な画像キャプション生成や画像内容に基づく質疑応答まで、実践的な例を交えて解説します。\n\n Pillowによる画像処理の基本\nPillowは、Pythonで画像処理を行うための強力なライブラリです。画像の読み込み、保存、サイズ変更、回転、フィルタリングなど、様々な操...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--PDwF2Ked--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Python%25E7%2594%25BB%25E5%2583%258F%25E5%2587%25A6%25E7%2590%2586%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2596%25E3%2583%25A9%25E3%2583%25AAPillow%25E3%2581%25A8Claude%25203.7%2520AI%25E3%2581%25A7%25E5%25AE%259F%25E7%258F%25BE%25E3%2581%2599%25E3%2582%258B%25E9%25AB%2598%25E5%25BA%25A6%25E7%2594%25BB%25E5%2583%258F%25E5%2588%2586%25E6%259E%2590%25E5%2585%25A5%25E9%2596%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -191,7 +191,7 @@
     "title": "脱・お絵描き！ Python Turtleで「使える」ビジュアルプログラミング - データ可視化、ゲーム開発、そして実務へ",
     "url": "https://zenn.dev/idev/books/book-20250314-213218",
     "published": "Fri, 14 Mar 2025 14:09:38 GMT",
-    "content": "本書はPythonのTurtle Graphicsを、教育用ツールから実用的なプログラミングスキル獲得の手段へと進化させることを目指します。データ可��化、ゲーム開発、GUIプログラミングなど、幅広い応用例を通じて、読者はPythonの基礎から応用までを習得できます。最終的には、実務で役立つプログラミング能力を身につけることが可能です。",
+    "content": "本書はPythonのTurtle Graphicsを、教育用ツールから実用的なプログラミングスキル獲得の手段へと進化させることを目指します。データ可視化、���ーム開発、GUIプログラミングなど、幅広い応用例を通じて、読者はPythonの基礎から応用までを習得できます。最終的には、実務で役立つプログラミング能力を身につけることが可能です。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--rs8fTpCK--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9kY2I5ZjljZDc3LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -204,7 +204,7 @@
     "title": "Python Turtle Graphicsで学ぶビジュアルプログラミング入門",
     "url": "https://zenn.dev/idev/articles/article-20250314-214109",
     "published": "Fri, 14 Mar 2025 14:09:22 GMT",
-    "content": "\n Python Turtle Graphicsで学ぶビジュアルプログラミング入門\nPythonのTurtle Graphicsは、初心者にとってプログラミングの基礎を学ぶための優れたツールです。視覚的なフィードバックが即座に得られるため、コードと結果の関係を理解しやすく、楽しくプログラミングを学ぶことができます。この記事では、Turtle Graphicsの基本的な使���方から、データ可視化、簡単なゲーム開発まで、実践的な例を通して解説します。この記事は『脱・お絵描き！ Python Turtleで「使える」ビジュアルプログラミング - データ可視化、ゲーム開発、そして実務へ』の内容に基...",
+    "content": "\n Python Turtle Graphicsで学ぶビジュアルプログラミング入門\nPythonのTurtle Graphicsは、初心者にとってプログラミングの基礎を学ぶための優れたツールです。視覚的なフィードバックが即座に得られるため、コードと結果の関係を理解しやすく、楽しくプログラミングを学ぶことができます。この記事では、Turtle Graphicsの基本的な使い方から、データ可視化、簡単なゲーム開発まで、実践的な例を通して解説します。この記事は『脱・お絵描き！ Python Turtleで「使える」ビジュアルプログラミング - データ可視化、ゲーム開発、そして実務へ』の内容に基...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--89a_Vj6T--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Python%2520Turtle%2520Graphics%25E3%2581%25A7%25E5%25AD%25A6%25E3%2581%25B6%25E3%2583%2593%25E3%2582%25B8%25E3%2583%25A5%25E3%2582%25A2%25E3%2583%25AB%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E5%2585%25A5%25E9%2596%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -214,7 +214,7 @@
         "isPermaLink": "true"
       }
     },
-    "title": "音声分析の自動化革��：Praatスクリプトで実現するプロの技",
+    "title": "音声分析の自動化革命：Praatスクリプトで実現するプロの技",
     "url": "https://zenn.dev/idev/books/book-20250314-071936",
     "published": "Thu, 13 Mar 2025 22:35:23 GMT",
     "content": "本書は、音声分析ソフトウェアPraatのスクリプト機能に焦点を当て、自動化による効率的な分析手法を解説します。Praatの基本操作からスクリプトの記述、音声パラメータ抽出、機械学習応用まで幅広くカバーし、読者は発音評価システムや感情分析など、実践的なアプリケーション開発スキルを習得できます。音声分析の自動化を通じて、研究、教育、ビジネスなど様々な分野で活用できるプロの技を身につけることを目指します。",
@@ -230,7 +230,7 @@
     "title": "Praatスクリプティングで音声分析をマスター：開発者のためのガイド",
     "url": "https://zenn.dev/idev/articles/article-20250314-072839",
     "published": "Thu, 13 Mar 2025 22:35:08 GMT",
-    "content": "\n Praatスクリプティングで音声分析をマスター：開発者のためのガイド\n音声分析は、音声学、言語学、音声認識、音声合成など、様々な分野で不可欠なツールです。Praatは、音声分析のための強力で汎用性の高いフリーソフトウェアですが、そのGUI操作は大量のデータ処理には非効率です。そこで、Praatスクリプトの出番です。本記事では、Praatスクリプティングの基本から応用までを網羅し、開発者が効率的に音声分析を自動化するためのガイドを提供します。この記事は、『音声分析の自動化革命：Praatスクリプトで実現するプロの技』の内容に基づいて作成されています。\n\n Praatスクリプトの基本\nP...",
+    "content": "\n Praatスクリプ��ィングで音声分析をマスター：開発者のためのガイド\n音声分析は、音声学、言語学、音声認識、音声合成など、様々な分野で不可欠なツールです。Praatは、音声分析のための強力で汎用性の高いフリーソフトウェアですが、そのGUI操作は大量のデータ処理には非効率です。そこで、Praatスクリプトの出番です。本記事では、Praatスクリプティングの基本から応用までを網羅し、開発者が効率的に音声分析を自動化するためのガイドを提供します。この記事は、『音声分析の自動化革命：Praatスクリプトで実現するプロの技』の内容に基づいて作成されています。\n\n Praatスクリプトの基本\nP...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--cN0nrp0w--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Praat%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%2597%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25A7%25E9%259F%25B3%25E5%25A3%25B0%25E5%2588%2586%25E6%259E%2590%25E3%2582%2592%25E3%2583%259E%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25EF%25BC%259A%25E9%2596%258B%25E7%2599%25BA%25E8%2580%2585%25E3%2581%25AE%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
