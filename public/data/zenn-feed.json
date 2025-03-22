@@ -1,6 +1,84 @@
 [
   {
     "id": {
+      "_": "https://zenn.dev/idev/books/book-20250322-061708",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "AIエージェント実践ガイド: 2025年、ビジネスを自律進化させる技術と戦略",
+    "url": "https://zenn.dev/idev/books/book-20250322-061708",
+    "published": "Fri, 21 Mar 2025 21:33:15 GMT",
+    "content": "本書は、AIエージェントの基礎から応用までを網羅し、ビジネスへの導入戦略を解説する実践ガイドです。Python、機械学習、自然言語処理などの技術を用いて、チャットボットから高度なタスク自動化まで、様々なAIエージェントの開発方法を習得できます。読者は、AIエージェントを活用してビジネスを自律進化させ、競争優位性を確立するための知識とスキルを得られます。",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--sdR06CIl--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9hMzQxOTBkNjdhLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/articles/article-20250322-062648",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "次世代AI革命: エージェント型AIが変える2025年のビジネスとテクノロジー",
+    "url": "https://zenn.dev/idev/articles/article-20250322-062648",
+    "published": "Fri, 21 Mar 2025 21:32:56 GMT",
+    "content": "\n 次世代 AI 革命: エージェント型 AI が変える 2025 年のビジネスとテクノロジー\n人工知能（AI）は近年目覚ましい発展を遂げ、様々な分野で革新をもたらしています。中でも、2025 年以降、ビジネスとテクノロジーを大きく変革すると期待されているのがエージェント型 AIです。従来の AI とは異なり、エージェント型 AI は自律的に目標を設定し、環境と相互作用しながら学習し、行動することができます。本記事では、エージェント型 AI の基礎から応用、そして未来への展望までを網羅的に解説し、2025 年のビジネスとテクノロジーにおけるその影響力について探ります。\n\n エージェント型...",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--UoKZfyk6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%25AC%25A1%25E4%25B8%2596%25E4%25BB%25A3AI%25E9%259D%25A9%25E5%2591%25BD%253A%2520%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E5%259E%258BAI%25E3%2581%258C%25E5%25A4%2589%25E3%2581%2588%25E3%2582%258B2025%25E5%25B9%25B4%25E3%2581%25AE%25E3%2583%2593%25E3%2582%25B8%25E3%2583%258D%25E3%2582%25B9%25E3%2581%25A8%25E3%2583%2586%25E3%2582%25AF%25E3%2583%258E%25E3%2583%25AD%25E3%2582%25B8%25E3%2583%25BC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/books/book-20250322-060104",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "未来を実装する: 2025年からのコンピューティング・パラダイムシフト 実践ガイド",
+    "url": "https://zenn.dev/idev/books/book-20250322-060104",
+    "published": "Fri, 21 Mar 2025 21:16:00 GMT",
+    "content": "本書は、量子コンピューティング、エッジコンピューティング、ニューロモーフィックコン��ューティングなど、次世代のコンピューティング技術の基礎から実践までを網羅的に解説します。各技術の原理、開発環境構築、具体的な応用事例、セキュリティ対策までをカバーし、読者が未来のコンピューティングパラダイムを理解し、実際に開発に携わるための知識とスキルを提供します。理論だけでなく、実際にコードを書いて動かすことを重視した実践的なガイドです。",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--m_LbClMv--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8xYzJiYmI0ZWIzLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/articles/article-20250322-060930",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "コンピューティングパラダイムシフト: 2025年以降の計算基盤技術",
+    "url": "https://zenn.dev/idev/articles/article-20250322-060930",
+    "published": "Fri, 21 Mar 2025 21:15:42 GMT",
+    "content": "\n コンピューティングパラダイムシフト: 2025 年以降の計算基盤技術\n計算の世界は常に進化を続けています。2025 年以降、その進化はさらに加速し、新たなパラダイムシフトを迎えると予想されています。本稿では、この変化の様相と、未来の計算基盤技術について深く掘り下げ、実践的な例を交えながら解説します。\n\n 1. クラウドネイティブの深化とサーバーレスコンピューティングの台頭\nクラウドネイティブは既に主流となっていますが、今後さらに深化し、サーバーレスコンピューティングが中心的な役割を果たすようになります。サーバーレスは、インフラストラクチャ管理の負担を軽減し、開発者はビジネスロジックに...",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--jw87N4r8--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2594%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2591%25E3%2583%25A9%25E3%2583%2580%25E3%2582%25A4%25E3%2583%25A0%25E3%2582%25B7%25E3%2583%2595%25E3%2583%2588%253A%25202025%25E5%25B9%25B4%25E4%25BB%25A5%25E9%2599%258D%25E3%2581%25AE%25E8%25A8%2588%25E7%25AE%2597%25E5%259F%25BA%25E7%259B%25A4%25E6%258A%2580%25E8%25A1%2593%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/books/book-20250322-054354",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "スマート空間デザイン：フィジカルとデジタルが織りなす未来",
+    "url": "https://zenn.dev/idev/books/book-20250322-054354",
+    "published": "Fri, 21 Mar 2025 21:00:45 GMT",
+    "content": "本書は、フィジカル空間とデジタル技術を融合したスマート空間の構築を主題とし、センシング、空間認識、AI、インタラクションなどの技術を幅広く解説します。読者は、これらの技術を組み合わせることで、効率的で快適、安全な空間デザインを実現するための実践的なスキルと知識を得ることができます。スマートホーム、スマートオフィス、スマートシティといった具体的な応用事例も豊富に紹介します。",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--xIRM89qx--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8yNWY5MjViMDE5LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/articles/article-20250322-055538",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "フィジカル×デジタル融合時代: 空間とインテリジェンスの革新的技術",
+    "url": "https://zenn.dev/idev/articles/article-20250322-055538",
+    "published": "Fri, 21 Mar 2025 21:00:23 GMT",
+    "content": "\n フィジカル × デジタル融合時代: 空間とインテリジェンスの革新的技術\n現代社会は、フィジカル空間とデジタル空間の融合が急速に進展する時代を迎えています。センサー、IoT、AI、AR/VR といった技術の進化により、私たちの生活空間はよりスマートでパーソナライズされたものへと変化しつつあります。本記事では、この「フィジカル × デジタル融合」を実現する革新的技術とその応用例、そして未来への展望について、『スマート空間デザイン：フィジカルとデジタルが織りなす未来』の内容を参考にしながら解説します。\n\n 1. 空間認識技術の進化\n空間をデジタルで理解することは、フィジカルとデジタルを融合...",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--cNCoEp8i--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25B8%25E3%2582%25AB%25E3%2583%25AB%25C3%2597%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25AB%25E8%259E%258D%25E5%2590%2588%25E6%2599%2582%25E4%25BB%25A3%253A%2520%25E7%25A9%25BA%25E9%2596%2593%25E3%2581%25A8%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2586%25E3%2583%25AA%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2582%25B9%25E3%2581%25AE%25E9%259D%25A9%25E6%2596%25B0%25E7%259A%2584%25E6%258A%2580%25E8%25A1%2593%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+  },
+  {
+    "id": {
       "_": "https://zenn.dev/idev/books/book-20250321-023657",
       "$": {
         "isPermaLink": "true"
@@ -9,7 +87,7 @@
     "title": "デジタルツイン実践ガイド：リアルとバーチャルの融合によるビジネス革新",
     "url": "https://zenn.dev/idev/books/book-20250321-023657",
     "published": "Thu, 20 Mar 2025 17:53:34 GMT",
-    "content": "本書は、デジタルツインの基礎から応用、未来展望までを網羅し、様々な産業における実践的な導入方法を解説します。技術スタック、構築ステップ、セキュリティ、倫理、ROI、最新ツール、組織体制、特許動向など多角的な視点からデジタルツインを深く掘り下げます。読者は、デジタルツインの概念を正しく理解し、自社のビジネスに適用するための知識と戦略を習得できます。",
+    "content": "本書は、デジタルツインの基礎から応用、未��展望までを網羅し、様々な産業における実践的な導入方法を解説します。技術スタック、構築ステップ、セキュリティ、倫理、ROI、最新ツール、組織体制、特許動向など多角的な視点からデジタルツインを深く掘り下げます。読者は、デジタルツインの概念を正しく理解し、自社のビジネスに適用するための知識と戦略を習得できます。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--dvxMq_Sa--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9mYzYzMjQ2MWY0LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -35,7 +113,7 @@
     "title": "金融RPA 実践ガイド：自動化戦略、実装、リスク管理、そして未来",
     "url": "https://zenn.dev/idev/books/book-20250321-022007",
     "published": "Thu, 20 Mar 2025 17:32:44 GMT",
-    "content": "本書は、金融機関におけるRPA（ロボティック・プロセス・オートメーション）の導入から運用までを網羅的に解説する実践ガイドです���RPAの基礎知識、導入戦略、ツール選定、開発、運用、セキュリティ、ガバナンスに加え、AIやOCRとの連携、最新トレンド、将来展望まで、金融RPAに関する幅広い技術と概念を扱います。読者は本書を通じて、金融機関におけるRPA導入・推進に必要な知識とスキルを習得し、自動化による業務効率化、コスト削減、リスク管理、顧客体験向上を実現できます。",
+    "content": "本書は、金融機関におけるRPA（ロボティック・プロセス・オートメーション）の導入から運用までを網羅的に解説する実践ガイドです。RPAの基礎知識、導入戦略、ツール選定、開発、運用、セキュリティ、ガバナンスに加え、AIやOCRとの連携、最新トレンド、将来展望まで、金融RPAに関する幅広い技術と概念を扱います。読者は本書を通じて、金融機関におけるRPA導入・推進に必要な知識とスキルを習得し、自動化による業務効率化、コスト削減、リスク管理、顧客体験向上を実現できます。",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--sGMkXtVT--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9jOTgxOTc4NWNkLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
   },
   {
@@ -74,7 +152,7 @@
     "title": "初心者向け量子コンピューティング",
     "url": "https://zenn.dev/idev/articles/article-20250321-021143",
     "published": "Thu, 20 Mar 2025 17:18:01 GMT",
-    "content": "\n 初心者向け量子コンピューティング\n量子コンピューティングは、従来のコンピュータとは根本的に異なる原理で動作する、次世代の計算技術です。量子力学の法則を利用することで、特定の種類の問題に対して、従来のコンピュータでは不可能な速度で計算を実行できます。この記事では、量子コンピューティングの基礎を初心者向けに解説し、具体的な例やコードサンプルを交えながら、その可能性と課題を探ります。\n\n 量子コンピュータとは？\n従来のコンピュータは情報を「ビット」として処理します。ビットは 0 または 1 のいずれかの値を取ります。一方、量子コンピュータは「量子ビット」(qubit) を使用します。量子ビ...",
+    "content": "\n 初心者向け量子コンピューティング\n量子コンピューティングは、従来のコンピュータとは根本的に異なる原理で動作する、次世代の計算技術です。量子力学の法則を利用することで、特定の種類の問題に対して、従来���コンピュータでは不可能な速度で計算を実行できます。この記事では、量子コンピューティングの基礎を初心者向けに解説し、具体的な例やコードサンプルを交えながら、その可能性と課題を探ります。\n\n 量子コンピュータとは？\n従来のコンピュータは情報を「ビット」として処理します。ビットは 0 または 1 のいずれかの値を取ります。一方、量子コンピュータは「量子ビット」(qubit) を使用します。量子ビ...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--9ZYYig1X--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2588%259D%25E5%25BF%2583%25E8%2580%2585%25E5%2590%2591%25E3%2581%2591%25E9%2587%258F%25E5%25AD%2590%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2594%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -100,7 +178,7 @@
     "title": "【新刊】OpenAI Responses API実践ガイド - AIの力を最大限に引き出す46のユースケース",
     "url": "https://zenn.dev/idev/articles/article-20250317-openai-responsesapi",
     "published": "Mon, 17 Mar 2025 04:03:40 GMT",
-    "content": "\n OpenAI Responses API実践ガイド - AIの力を最大限に引き出す46のユースケース\n\n 🌟 最先端のAI技術を、あなたのビジネスに\n2025年、AIテクノロジーは急速に進化し、ビジネスや社会のあらゆる側面に変革をもたらしています。その中でも、 OpenAI Responses API は、最先端の大規模言語モデル（LLM）の能力を簡単に活用できるインターフェースとして注目を集めています。\nしかし、この強力なAPIを最大限に活用するには、どのようにアプローチすればよいのでしょうか？\n『OpenAI Responses API実践ガイド』 は、この問いに答える決定版の書...",
+    "content": "\n OpenAI Responses API実践ガイド - AIの力を最大限に引き出す46のユースケース\n\n 🌟 最先端のAI技術を、あなたのビジネスに\n2025年、AIテクノロジーは急速に進化し、ビジネスや社会のあらゆる側面に変革をもたらしています。その中でも、 OpenAI Responses API は、最先端の大規模言語モデル（LLM）の能力を簡単に活用できるインターフェースとして注目を集めています。\nしかし、この強力なAPIを最大限に活用するには、どのようにアプ��ーチすればよいのでしょうか？\n『OpenAI Responses API実践ガイド』 は、この問いに答える決定版の書...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--ifeIbFFl--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E6%2596%25B0%25E5%2588%258A%25E3%2580%2591OpenAI%2520Responses%2520API%25E5%25AE%259F%25E8%25B7%25B5%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2520-%2520AI%25E3%2581%25AE%25E5%258A%259B%25E3%2582%2592%25E6%259C%2580%25E5%25A4%25A7%25E9%2599%2590%25E3%2581%25AB%25E5%25BC%2595%25E3%2581%258D%25E5%2587%25BA%25E3%2581%259946%25E3%2581%25AE%25E3%2583%25A6%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -110,7 +188,7 @@
         "isPermaLink": "true"
       }
     },
-    "title": "週末起業の最終形：中小企業を救うマイクロSaaS開発術 – 低リスクで始める、高収益ビジネスモデル",
+    "title": "週末���業の最終形：中小企業を救うマイクロSaaS開発術 – 低リスクで始める、高収益ビジネスモデル",
     "url": "https://zenn.dev/idev/books/book-20250315-094210",
     "published": "Sat, 15 Mar 2025 04:28:50 GMT",
     "content": "本書は個人開発者や中小企業が低リスクで始められるマイクロSaaSの開発手法を解説します。アイデア創出から技術選定、マーケティング、そしてM&Aまで、マイクロSaaSビジネスの全工程を網羅的に扱います。読者は本書を通じて、マイクロSaaSの立ち上げから収益化、そして事業拡大に必要な知識と実践的なスキルを習得できます。",
@@ -126,7 +204,7 @@
     "title": "マイクロSaaSの作り方：日本の中小企業向けサービスを週末で立ち上げる",
     "url": "https://zenn.dev/idev/articles/article-20250315-095123",
     "published": "Sat, 15 Mar 2025 04:28:33 GMT",
-    "content": "\n マイクロSaaSの作り方：日本の中小企業向けサービスを週末で立ち上げる\nこの記事では、週末を利用して日本の中小企業向けのマイクロSaaSを開発し、立ち上げる方法をステップバイステップで解説します。低リスクで始められる高収益ビジネスモデルとして注目されるマイクロSaaS開発の具体的な手法を、コード例や実践的な例を交えながら紹介します。この記事は、『週末起業の最終形：中小企業を救うマイクロSaaS開発術 – 低リスクで始める、高収益ビジネスモデル』の内容に基づいています。\n\n 1. ニーズの発見：中小企業の課題を解決する\n成功するマイクロSaaSは、明確なニーズを満たす必要があります。日...",
+    "content": "\n マイクロSaaSの作り方：日本の中小企業向けサービ���を週末で立ち上げる\nこの記事では、週末を利用して日本の中小企業向けのマイクロSaaSを開発し、立ち上げる方法をステップバイステップで解説します。低リスクで始められる高収益ビジネスモデルとして注目されるマイクロSaaS開発の具体的な手法を、コード例や実践的な例を交えながら紹介します。この記事は、『週末起業の最終形：中小企業を救うマイクロSaaS開発術 – 低リスクで始める、高収益ビジネスモデル』の内容に基づいています。\n\n 1. ニーズの発見：中小企業の課題を解決する\n成功するマイクロSaaSは、明確なニーズを満たす必要があります。日...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--63NB-yFv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%259E%25E3%2582%25A4%25E3%2582%25AF%25E3%2583%25ADSaaS%25E3%2581%25AE%25E4%25BD%259C%25E3%2582%258A%25E6%2596%25B9%25EF%25BC%259A%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25AE%25E4%25B8%25AD%25E5%25B0%258F%25E4%25BC%2581%25E6%25A5%25AD%25E5%2590%2591%25E3%2581%2591%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E3%2582%2592%25E9%2580%25B1%25E6%259C%25AB%25E3%2581%25A7%25E7%25AB%258B%25E3%2581%25A1%25E4%25B8%258A%25E3%2581%2592%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -152,7 +230,7 @@
     "title": "Python画像処理ライブラリPillowとClaude 3.7 AIで実現する高度画像分析入門",
     "url": "https://zenn.dev/idev/articles/article-20250315-091501",
     "published": "Sat, 15 Mar 2025 00:23:36 GMT",
-    "content": "\n Python画像処理ライブラリPillowとClaude 3.7 AIで実現す��高度画像分析入門\nこの記事では、Pythonの画像処理ライブラリPillowと高度な言語モデルClaude 3.7を組み合わせ、画像分析を行う方法を紹介します。画像の読み込み、操作、解析といった基本的な処理から、Claude 3.7を活用した高度な画像キャプション生成や画像内容に基づく質疑応答まで、実践的な例を交えて解説します。\n\n Pillowによる画像処理の基本\nPillowは、Pythonで画像処理を行うための強力なライブラリです。画像の読み込み、保存、サイズ変更、回転、フィルタリングなど、様々な操...",
+    "content": "\n Python画像処理ライブラリPillowとClaude 3.7 AIで実現する高度画像分析入門\nこの記事では、Pythonの画像処理ライブラリPillowと高度な言語モデルClaude 3.7を組み合わせ、画像分析を行う方法を紹介します。画像の読み込み、操作、解析といった基本的な処理から、Claude 3.7を活用した高度な画像キャプション生成や画像内容に基づく質疑応答まで、実践的な例を交えて解説します。\n\n Pillowによる画像処理の基本\nPillowは、Pythonで画像処理を行うための強力なライブラリです。画像の読み込み、保存、サイズ変更、回転、フィルタリングなど、様々な操...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--PDwF2Ked--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Python%25E7%2594%25BB%25E5%2583%258F%25E5%2587%25A6%25E7%2590%2586%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2596%25E3%2583%25A9%25E3%2583%25AAPillow%25E3%2581%25A8Claude%25203.7%2520AI%25E3%2581%25A7%25E5%25AE%259F%25E7%258F%25BE%25E3%2581%2599%25E3%2582%258B%25E9%25AB%2598%25E5%25BA%25A6%25E7%2594%25BB%25E5%2583%258F%25E5%2588%2586%25E6%259E%2590%25E5%2585%25A5%25E9%2596%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   },
   {
@@ -180,83 +258,5 @@
     "published": "Fri, 14 Mar 2025 14:42:11 GMT",
     "content": "\n Scratchマスターへの道: 義務教育を超えた創造的プログラミング\nScratchは、子供たちがプログラミングの基礎を学ぶための素晴らしいツールです。しかし、その可能性は義務教育の範囲をはるかに超えています。この技術記事では、Scratchを深く掘り下げ、高度なテクニックや創造的な活用方法を学び、真のScratchマスターを目指しましょう。この記事は、『Scratch進化論：ゲーム開発からAI、そして未来の創造へ』の内容に基づいて構成されています。\n\n Scratchの基本を超えて\nScratchの基本的な操作、例えばスプライトの移動やコスチュームの変更、簡単なアニメーションの作成...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--BW0XFIWb--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Scratch%25E3%2583%259E%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%25B8%25E3%2581%25AE%25E9%2581%2593%253A%2520%25E7%25BE%25A9%25E5%258B%2599%25E6%2595%2599%25E8%2582%25B2%25E3%2582%2592%25E8%25B6%2585%25E3%2581%2588%25E3%2581%259F%25E5%2589%25B5%25E9%2580%25A0%25E7%259A%2584%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/books/book-20250314-213218",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "脱・お絵描き！ Python Turtleで「使える」ビジュアルプログラミング - データ可視化、ゲーム開発、そして実務へ",
-    "url": "https://zenn.dev/idev/books/book-20250314-213218",
-    "published": "Fri, 14 Mar 2025 14:09:38 GMT",
-    "content": "本書はPythonのTurtle Graphicsを、教育用ツールから実用的なプログラミングスキル獲得の手段へと進化させることを目指します。データ可視化、���ーム開発、GUIプログラミングなど、幅広い応用例を通じて、読者はPythonの基礎から応用までを習得できます。最終的には、実務で役立つプログラミング能力を身につけることが可能です。",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--rs8fTpCK--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9kY2I5ZjljZDc3LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/articles/article-20250314-214109",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "Python Turtle Graphicsで学ぶビジュアルプログラミング入門",
-    "url": "https://zenn.dev/idev/articles/article-20250314-214109",
-    "published": "Fri, 14 Mar 2025 14:09:22 GMT",
-    "content": "\n Python Turtle Graphicsで学ぶビジュアルプログラミング入門\nPythonのTurtle Graphicsは、初心者にとってプログラミングの基礎を学ぶための優れたツールです。視覚的なフィードバックが即座に得られるため、コードと結果の関係を理解しやすく、楽しくプログラミングを学ぶことができます。この記事では、Turtle Graphicsの基本的な使い方から、データ可視化、簡単なゲーム開発まで、実践的な例を通して解説します。この記事は『脱・お絵描き！ Python Turtleで「使える」ビジュアルプログラミング - データ可視化、ゲーム開発、そして実務へ』の内容に基...",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--89a_Vj6T--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Python%2520Turtle%2520Graphics%25E3%2581%25A7%25E5%25AD%25A6%25E3%2581%25B6%25E3%2583%2593%25E3%2582%25B8%25E3%2583%25A5%25E3%2582%25A2%25E3%2583%25AB%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E5%2585%25A5%25E9%2596%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/books/book-20250314-071936",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "音声分析の自動化革命：Praatスクリプトで実現するプロの技",
-    "url": "https://zenn.dev/idev/books/book-20250314-071936",
-    "published": "Thu, 13 Mar 2025 22:35:23 GMT",
-    "content": "本書は、音声分析ソフトウェアPraatのスクリプト機能に焦点を当て、自動化による効率的な分析手法を解説します。Praatの基本操作からスクリプトの記述、音声パラメータ抽出、機械学習応用まで幅広くカバーし、読者は発音評価システムや感情分析など、実践的なアプリケーション開発スキルを習得できます。音声分析の自動化を通じて、研究、教育、ビジネスなど様々な分野で活用できるプロの技を身につけることを目指します。",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--pXFPto_m--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci84ZTUzZjVlYTI4LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/articles/article-20250314-072839",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "Praatスクリプティングで音声分析をマスター：開発者のためのガイド",
-    "url": "https://zenn.dev/idev/articles/article-20250314-072839",
-    "published": "Thu, 13 Mar 2025 22:35:08 GMT",
-    "content": "\n Praatスクリプ��ィングで音声分析をマスター：開発者のためのガイド\n音声分析は、音声学、言語学、音声認識、音声合成など、様々な分野で不可欠なツールです。Praatは、音声分析のための強力で汎用性の高いフリーソフトウェアですが、そのGUI操作は大量のデータ処理には非効率です。そこで、Praatスクリプトの出番です。本記事では、Praatスクリプティングの基本から応用までを網羅し、開発者が効率的に音声分析を自動化するためのガイドを提供します。この記事は、『音声分析の自動化革命：Praatスクリプトで実現するプロの技』の内容に基づいて作成されています。\n\n Praatスクリプトの基本\nP...",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--cN0nrp0w--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Praat%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%2597%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25A7%25E9%259F%25B3%25E5%25A3%25B0%25E5%2588%2586%25E6%259E%2590%25E3%2582%2592%25E3%2583%259E%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25EF%25BC%259A%25E9%2596%258B%25E7%2599%25BA%25E8%2580%2585%25E3%2581%25AE%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/books/book-20250313-120856",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "AI × 図解革命！ Claude 3.7 + draw.io APIで業務効率を爆上げする実践テクニック",
-    "url": "https://zenn.dev/idev/books/book-20250313-120856",
-    "published": "Thu, 13 Mar 2025 05:32:48 GMT",
-    "content": "Claude 3.7を活用してPythonからDraw.io APIで図表を生成する方法を解説します。基本的なダイアグラム作成からAI支援プログラムフロー可視化まで、実践的なコード例を通して一歩ずつ学べます。",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--_J9J8yi3--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci85Nzc4Y2YzMjI0LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/articles/article-20250313-121805",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "Claude 3.7 + draw.io APIによる実務活用シナリオ",
-    "url": "https://zenn.dev/idev/articles/article-20250313-121805",
-    "published": "Thu, 13 Mar 2025 05:32:32 GMT",
-    "content": "\n Claude 3.7 + draw.io APIによる実務活用シナリオ\nこの記事では、大規模言語モデルClaude 3.7とdraw.io APIを組み合わせることで、業務効率を劇的に向上させる実践テクニックを紹介します。自然言語で指示を出すだけで、複雑な図表を自動生成できるようになり、資料作成、システム設計、プレゼンテーション準備など、様々な業務に革新をもたらします。\nこの記事は、『AI × 図解革命！ Claude 3.7 + draw.io APIで業務効率を爆上げする実践テクニック』の内容に基づいており、具体的な活用シナリオとコードサンプルを通して、その効果を実感していただけ...",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--l4uix9hZ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%25203.7%2520%252B%2520draw.io%2520API%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E5%25AE%259F%25E5%258B%2599%25E6%25B4%25BB%25E7%2594%25A8%25E3%2582%25B7%25E3%2583%258A%25E3%2583%25AA%25E3%2582%25AA%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   }
 ]
