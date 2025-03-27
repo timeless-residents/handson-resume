@@ -1,240 +1,6 @@
 [
   {
     "id": {
-      "_": "https://zenn.dev/idev/books/book-20250323-205936",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "数字と友達になる！ データ活用スキル革命 - 意思決定を加速するテクニカル分析実践講座",
-    "url": "https://zenn.dev/idev/books/book-20250323-205936",
-    "published": "Sun, 23 Mar 2025 12:12:07 GMT",
-    "content": "本書は、データ活用スキルを網羅的に習得し、ビジネスにおける意思決定を加速させることを目的としています。統計の基礎から機械学習、時系列分析、地理空間分析、因果推論、自然言語処理、画像認識といった幅広い技術を解説し、Tableau、Power BI、Python、SQLといったツールを駆使した実践的なデータ分析手法を習得します。読者はデータに基づいた問題解決能力を身につけ、ビジネスの現場でデータドリブンな意思決定を推進できるようになります。",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--S_n1RcdC--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8wYzRhMzUwZTEyLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/articles/article-20250323-210918",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "数字を読む力が10倍になるテクニカル視点",
-    "url": "https://zenn.dev/idev/articles/article-20250323-210918",
-    "published": "Sun, 23 Mar 2025 12:11:43 GMT",
-    "content": "\n 数字を読む力が 10 倍になるテクニカル視点\nこの記事は、『数字と友達になる！ データ活用スキル革命 - 意思決定を加速するテクニカル分析実践講座』の内容に基づき、数字を読み解くためのテクニカルな視点と実践的な手法を紹介します。データに隠された真の意味を理解し、ビジネスや意思決定に役立つ洞察を得るための具体的な方法を、段階的に解説していきます。\n\n なぜ数字を読む力が必要なのか？\n現代社会はデータであふれています。ビジネスの現場では、売上、顧客数、アクセス数など、様々なデータが日々生成されています。これらの数字を正しく理解し、分析することで、現状を把握し、未来を予測し、より良い意思決...",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--shNE4tFv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2595%25B0%25E5%25AD%2597%25E3%2582%2592%25E8%25AA%25AD%25E3%2582%2580%25E5%258A%259B%25E3%2581%258C10%25E5%2580%258D%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E3%2583%2586%25E3%2582%25AF%25E3%2583%258B%25E3%2582%25AB%25E3%2583%25AB%25E8%25A6%2596%25E7%2582%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/books/book-20250323-204806",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "イノベーションを加速する開発：コードが組織を変える実践ガイド",
-    "url": "https://zenn.dev/idev/books/book-20250323-204806",
-    "published": "Sun, 23 Mar 2025 11:58:08 GMT",
-    "content": "本書は、コードがイノベーションをどのように推進するかを解説し、開発環境構築からクラウドネイティブ、AI、ブロックチェ��ン等の最新技術までを網羅します。コード品質の向上や組織文化の醸成にも触れ、開発者だけでなく、組織全体でイノベーションを起こすための実践的なガイドを提供します。読者は、技術スキルだけでなく、組織論や文化論も学び、持続的なイノベーションを実現するための知識と実践力を得られます。",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--MWRJFXWP--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci81YjAyYThiZjZmLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/articles/article-20250323-205642",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "イノベーションはコードから生まれる",
-    "url": "https://zenn.dev/idev/articles/article-20250323-205642",
-    "published": "Sun, 23 Mar 2025 11:57:45 GMT",
-    "content": "\n イノベーションはコードから生まれる\nイノベーション。それは企業の成長、ひいては社会の発展に不可欠な要素です。そして、現代社会において、イノベーションの源泉となるのは、多くの場合「コード」です。ソフトウェア、アプリ、AI、IoT… これら全てはコードによって実現され、私たちの生活を劇的に変化させています。\n本記事では、「イノベーションを加速する開発：コードが組織を変える実践ガイド」の内容を基に、コードがどのようにイノベーションを生み出すのか、そして、イノベーションを促進する開発手法について、実践的な例を交えながら解説します。\n\n なぜコードがイノベーションの源泉なのか？\nコードは、単な...",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--UyUNzZNc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25A4%25E3%2583%258E%25E3%2583%2599%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2581%25AF%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2581%258B%25E3%2582%2589%25E7%2594%259F%25E3%2581%25BE%25E3%2582%258C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/books/book-20250323-203358",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "開発生産性を爆上げ！経営と現場を繋ぐ「技術翻訳者」育成バイブル",
-    "url": "https://zenn.dev/idev/books/book-20250323-203358",
-    "published": "Sun, 23 Mar 2025 11:45:58 GMT",
-    "content": "本書は、デジタル変革時代に不可欠な「技術翻訳者」の育成を目的としています。技術と経営のギャップを埋め、組織全体の生産性向上に貢献するための知識、スキル、実践的な手法を網羅的に解説します。技術者と経営者の思考回路の理解から、コミュニケーション、ビジネススキル、ロードマップ作成、KPI設定、技術投資判断まで、幅広い領域をカバーします。",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--2Bug5Gz6--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9iOWFiNWViN2IzLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/articles/article-20250323-204323",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "開発と経営をつなぐ架け橋の作り方",
-    "url": "https://zenn.dev/idev/articles/article-20250323-204323",
-    "published": "Sun, 23 Mar 2025 11:45:36 GMT",
-    "content": "\n 開発と経営をつなぐ架け橋の作り方\n開発部門と経営部門。企業の成長を支える両輪であるにも関わらず、しばしばコミュニケーションの壁に阻まれ、互いの理解が不足している場面が見られます。この壁は、技術的な専門用語の理解不足、異なる優先順位、そしてコミュニケーションスタイルの違いなど、様々な要因によって生じます。\nこの「技術翻訳者」の存在こそが、開発と経営の溝を埋める鍵となります。本稿では、『開発生産性を爆上げ！経営と現場を繋ぐ「技術翻訳者」育成バイブル』の内容を基に、開発と経営をつなぐ架け橋の作り方、そして効果的な「技術翻訳者」の育成方法について解説します。\n\n なぜ「技術翻訳者」が必要なの...",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--8_qmUWNp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25A8%25E7%25B5%258C%25E5%2596%25B6%25E3%2582%2592%25E3%2581%25A4%25E3%2581%25AA%25E3%2581%2590%25E6%259E%25B6%25E3%2581%2591%25E6%25A9%258B%25E3%2581%25AE%25E4%25BD%259C%25E3%2582%258A%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/books/book-20250323-202024",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "開発者のための爆速グロースハック：コードで実現するデータドリブンマーケティング",
-    "url": "https://zenn.dev/idev/books/book-20250323-202024",
-    "published": "Sun, 23 Mar 2025 11:32:33 GMT",
-    "content": "本書は、開発者がマーケティングの知識と技術を習得し、データに基づいたグロースハックを実践するためのガイドブックです。SQL、Python、GA4などの技術を用いてデータ分析を行い、SEO、SNS、広告などのマーケティング施策をコードで実現する方法を解説します。読者は、マーケティングスキルを身につけ、キャリアアップや事業成長に貢献できるようになります。",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--rUM5Syqi--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci83NDgzYWU3MmFhLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/articles/article-20250323-202931",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "開発者が知っておくべきマーケティングの基礎",
-    "url": "https://zenn.dev/idev/articles/article-20250323-202931",
-    "published": "Sun, 23 Mar 2025 11:32:09 GMT",
-    "content": "\n 開発者が知っておくべきマーケティングの基礎\n開発者はプロダクトを作ることに集中しがちですが、優れたプロダクトを作っただけではユーザーに届きません。ユーザーにプロダクトの魅力を伝え、利用してもらうためには、マーケティングの知識が不可欠です。本記事では、開発者が知っておくべきマーケティングの基礎を解説します。これは『開発者のための爆速グロースハック：コードで実現するデータドリブンマーケティング』の内容に基づいています。\n\n なぜ開発者にマーケティングが必要なのか？\n開発者は、ユーザーのニーズを理解し、それをプロダクトに反映させる役割を担っています。マーケティング��、ユーザーのニーズを探り...",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--oOXHbrRu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%2596%258B%25E7%2599%25BA%25E8%2580%2585%25E3%2581%258C%25E7%259F%25A5%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%258A%25E3%2581%258F%25E3%2581%25B9%25E3%2581%258D%25E3%2583%259E%25E3%2583%25BC%25E3%2582%25B1%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25AE%25E5%259F%25BA%25E7%25A4%258E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/books/book-20250323-200604",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "脱・下請け思考！ 技術者が主導するビジネスモデル設計：未来を創るイノベーション戦略",
-    "url": "https://zenn.dev/idev/books/book-20250323-200604",
-    "published": "Sun, 23 Mar 2025 11:19:23 GMT",
-    "content": "技術者がビジネスモデルを理解し、主体的にイノベーションを起こすための実���的なガイド。ビジネスモデルキャンバスや顧客分析、収益モデル設計といった基礎知識から、最新テクノロジーの活用、リーンスタートアップ、法的リスクまで幅広くカバー。技術者が下請け体質から脱却し、自らビジネスを創造・推進するための知識とスキルを提供する。",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--_iD9gXZg--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9kMDAzZWI0YWUyLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/articles/article-20250323-201458",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "技術者のためのビジネスモデル設計入門",
-    "url": "https://zenn.dev/idev/articles/article-20250323-201458",
-    "published": "Sun, 23 Mar 2025 11:19:02 GMT",
-    "content": "\n 技術者のためのビジネスモデル設計入門\n技術力を持つことは素晴らしい強みです。しかし、技術力だけではビジネスは成功しません。優れた技術をビジネスとして成立させるためには、適切なビジネスモデル設計が不可欠です。本記事では、『脱・下請け��考！ 技術者が主導するビジネスモデル設計：未来を創るイノベーション戦略』を参考に、技術者がビジネスモデルを設計するための基本的な考え方と実践的な手法を解説します。\n\n なぜ技術者にビジネスモデル設計が必要なのか？\n技術者は、製品やサービスの開発に集中しがちです。しかし、優れた技術であっても、顧客のニーズに合致しなければ市場で受け入れられません。ビジネスモデ...",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--hSZFz80H--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%258A%2580%25E8%25A1%2593%25E8%2580%2585%25E3%2581%25AE%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%25E3%2583%2593%25E3%2582%25B8%25E3%2583%258D%25E3%2582%25B9%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E8%25A8%25AD%25E8%25A8%2588%25E5%2585%25A5%25E9%2596%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/books/book-20250323-194423",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "エンジニアリング主導の経営変革：技術戦略で未来を切り拓く",
-    "url": "https://zenn.dev/idev/books/book-20250323-194423",
-    "published": "Sun, 23 Mar 2025 11:02:02 GMT",
-    "content": "本書は、エンジニアが経営戦略を理解し、技術戦略策定、アジャイル開発、データドリブン経営、イノベーション創出などを通じて、企業変革を主導するための実践的な知識とフレームワークを提供する。技術トレンド分析からエンジニア組織のマネジメント、さらにはサステナビリティやリモートワークなど、現代のビジネス環境における重要テーマを網羅。読者は技術戦略の策定方法、組織変革の実践、そして持続可能な成長を達成するための洞察を得られる。",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--pj731QpQ--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8yNWUyZDUwZTIxLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/articles/article-20250323-195520",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "エンジニア視点からの経営イノベーション",
-    "url": "https://zenn.dev/idev/articles/article-20250323-195520",
-    "published": "Sun, 23 Mar 2025 11:01:40 GMT",
-    "content": "\n エンジニア視点からの経営イノベーション\n現代のビジネス環境において、技術革新は企業の競争力維持に不可欠です。エンジニアは、単に技術を実装するだけでなく、経営戦略の中核を担い、イノベーションを推進する役割を担っています。本記事では、『エンジニアリング主導の経営変革：技術戦略で未来を切り拓く』の内容を基に、エンジニア視点から経営イノベーションを実現するための方法論を探求します。\n\n 技術戦略と経営戦略の融合\n従来、技術戦略と経営戦略は別々に策定される傾向がありました。しかし、真のイノベーションを実現するためには、両者を緊密に連携させる必要があります。エンジニアは、技術的な実現可能性だけで...",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--WTB9NukM--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E8%25A6%2596%25E7%2582%25B9%25E3%2581%258B%25E3%2582%2589%25E3%2581%25AE%25E7%25B5%258C%25E5%2596%25B6%25E3%2582%25A4%25E3%2583%258E%25E3%2583%2599%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/books/book-20250323-185428",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "コードで解き明かすビジネス戦略: 実践的データドリブン経営",
-    "url": "https://zenn.dev/idev/books/book-20250323-185428",
-    "published": "Sun, 23 Mar 2025 10:42:40 GMT",
-    "content": "本書は、ビジネス戦略を加速させるために、データ分析と機械学習をコードで実践的に活用する方法を解説します。データ収集から前処理、可視化、統計分析、機械学習モデル構築まで、幅広い技術と概念を網羅し、具体的なコード例を通して読者の理解を深めます。データドリブン経営を推進し、ビジネス課題を解決するための実践的な知識とスキルを習得で��ます。",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--sp0_Ylcd--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci82ODc0NWNhNThkLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/articles/article-20250323-190256",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "コードで読むビジネス戦略",
-    "url": "https://zenn.dev/idev/articles/article-20250323-190256",
-    "published": "Sun, 23 Mar 2025 10:42:19 GMT",
-    "content": "\n コードで読むビジネス戦略\nビジネス戦略を策定し、実行する上で、データドリブンなアプローチはもはや不可欠です。本記事では、「コードで解き明かすビジネス戦略: 実践的データドリブン経営」の内容を基に、コードを用いてビジネス戦略を理解し、実践する方法を解説します。データ分析、機械学習、そして戦略立案の融合により、競争優位性を築くための具体的な手法を学びましょう。\n\n データドリブン経営の基礎\n従来のビジネス戦略は、経験や直感に大きく依存していました。しかし、現代の複雑な市場環境においては、データに基づいた客観的な意思決定が求められます。データドリブン経営とは、データ分析を通じて得られた洞察...",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--460TE0Bp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25A7%25E8%25AA%25AD%25E3%2582%2580%25E3%2583%2593%25E3%2582%25B8%25E3%2583%258D%25E3%2582%25B9%25E6%2588%25A6%25E7%2595%25A5%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/books/book-20250323-184053",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "技術ドリブンなビジネスを成功に導く：技術者のための戦略的思考と実践ガイド",
-    "url": "https://zenn.dev/idev/books/book-20250323-184053",
-    "published": "Sun, 23 Mar 2025 09:53:06 GMT",
-    "content": "本書は、技術者がビジネス思考を習得し、技術ドリブンなビジネスを成功に導くための戦略と実践を解説する。ビジネスモデル、マーケティング、ファイナンスなど、技術者が最低限知っておくべき知識から、リーダーシップ、組織論、最新テクノロジーの活用まで幅広くカバーする。技術者がビジネス視点を持つことで、キャリアアップ、プロジェクト成功率向上、組織貢献を実現するための実践的なガイドブックである。",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--61oZLgAt--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci82ZDE3YWZjYmUwLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/articles/article-20250323-185030",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "技術力だけでは勝てない時代のビジネス思考",
-    "url": "https://zenn.dev/idev/articles/article-20250323-185030",
-    "published": "Sun, 23 Mar 2025 09:52:45 GMT",
-    "content": "\n 技術力だけでは勝てない時代のビジネス思考\n現代社会において、技術力はビジネスの成功に不可欠な要素です。しかし、優れた技術を持っているだけでは、必ずしもビジネスが成功するとは限りません。市場���ニーズ、競合の状況、ビジネスモデル、マーケティング戦略など、技術以外の要素も考慮に入れ、総合的に戦略を立てる必要があります。本記事では、『技術ドリブンなビジネスを成功に導く：技術者のための戦略的思考と実践ガイド』の内容を基に、技術力だけでは勝てない時代のビジネス思考について解説します。\n\n 技術力とビジネス成功の関係\n技術力が高いことは、競争優位性を築き、革新的な製品やサービスを生み出すための強力...",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--g4OxU-1D--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%258A%2580%25E8%25A1%2593%25E5%258A%259B%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7%25E3%2581%25AF%25E5%258B%259D%25E3%2581%25A6%25E3%2581%25AA%25E3%2581%2584%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AE%25E3%2583%2593%25E3%2582%25B8%25E3%2583%258D%25E3%2582%25B9%25E6%2580%259D%25E8%2580%2583%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/books/book-20250323-165403",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "エンジニアが市場を制する - 技術戦略とビジネス視点の融合",
-    "url": "https://zenn.dev/idev/books/book-20250323-165403",
-    "published": "Sun, 23 Mar 2025 09:36:29 GMT",
-    "content": "本書は、エンジニアが技術力だけでなく、ビジネス視点と経営センスを身につけ、市場で成功するための知識とスキルを提供します。財務、マーケティング、組織、戦略、法務など、幅広い分野を網羅し、技術者がビジネスリーダーへと成長するための実践的なノウハウを解説します。事例や演習を通して、読者はエンジニアとしてのキャリアアップと自己実現を目指せます。",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--sNI5Fads--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci81MTAwYmJmODk0LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
-  },
-  {
-    "id": {
-      "_": "https://zenn.dev/idev/articles/article-20250323-170401",
-      "$": {
-        "isPermaLink": "true"
-      }
-    },
-    "title": "エンジニアが学ぶ経営センス",
-    "url": "https://zenn.dev/idev/articles/article-20250323-170401",
-    "published": "Sun, 23 Mar 2025 09:36:06 GMT",
-    "content": "\n エンジニアが学ぶ経営センス\n現代のビジネス環境において、エンジニアは単に技術的なスキルを持つだけでなく、ビジネス視点や経営センスを身につけることがますます重要になっています。本記事では、『エンジニアが市場を制する - 技術戦略とビジネス視点の融合』の内容を基に、エンジニアがどのように経営センスを磨き、市場を理解し、ビジネスに貢献していくかを解説します。\n\n なぜエンジニアに経営センスが必要なのか？\n技術革新のスピードが加速する現代において、エンジニアは技術開発だけでなく、市場のニーズを捉え、ビジネス戦略に貢献することが求められます。経営センスを身につけることで、以下のメリットが得られ...",
-    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--91x2Dts---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2581%258C%25E5%25AD%25A6%25E3%2581%25B6%25E7%25B5%258C%25E5%2596%25B6%25E3%2582%25BB%25E3%2583%25B3%25E3%2582%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-  },
-  {
-    "id": {
       "_": "https://zenn.dev/idev/books/book-20250323-072327",
       "$": {
         "isPermaLink": "true"
@@ -258,5 +24,239 @@
     "published": "Sat, 22 Mar 2025 23:35:28 GMT",
     "content": "\n LoRA で広がる地球観測: 衛星画像生成の新たな地平\n近年、深層学習技術の進歩により、衛星画像の生成も現実味を帯びてきました。特に、LoRA (Low-Rank Adaptation) は、限られた計算資源で高品質な画像生成モデルを効率的に学習できる手法として注目を集めています。本記事では、LoRA を用いた衛星画像生成の技術的な詳細、実践的な例、そして今後の展望について解説します。\n\n LoRA とは何か？\nLoRA は、大規模言語モデル(LLM)や画像生成モデルのような巨大なニューラルネットワークの fine-tuning を効率的に行うための手法です。モデルのパラメータ全体を...",
     "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--jtuGr6O6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:LoRA%25E3%2581%25A7%25E5%25BA%2583%25E3%2581%258C%25E3%2582%258B%25E5%259C%25B0%25E7%2590%2583%25E8%25A6%25B3%25E6%25B8%25AC%253A%2520%25E8%25A1%259B%25E6%2598%259F%25E7%2594%25BB%25E5%2583%258F%25E7%2594%259F%25E6%2588%2590%25E3%2581%25AE%25E6%2596%25B0%25E3%2581%259F%25E3%2581%25AA%25E5%259C%25B0%25E5%25B9%25B3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/articles/article-20250323-063032",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "サイバー防衛の新時代: 自律型脅威分析エージェント開発ガイド",
+    "url": "https://zenn.dev/idev/articles/article-20250323-063032",
+    "published": "Sat, 22 Mar 2025 22:20:03 GMT",
+    "content": "\n サイバー防衛の新時代: 自律型脅威分析エージェント開発ガイド\nサイバー攻撃はますます巧妙化・複雑化しており、従来型のセキュリティ対策では対応が困難になっています。そこで注目されているのが、AI を活用した自律型脅威分析エージェントです。本記事では、『サイバー��撃、AI で迎え撃つ！ 自律型脅威ハンター育成バイブル』の内容を基に、自律型脅威分析エージェントの開発ガイドを解説します。\n\n はじめに\n現代のサイバーセキュリティ環境は、絶え間なく進化する脅威に直面しています。従来のルールベースのシステムでは、ゼロデイ攻撃や高度な持続的脅威（APT）に対抗するには限界があります。そこで、AI ...",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--Vn5cjG5y--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%2590%25E3%2583%25BC%25E9%2598%25B2%25E8%25A1%259B%25E3%2581%25AE%25E6%2596%25B0%25E6%2599%2582%25E4%25BB%25A3%253A%2520%25E8%2587%25AA%25E5%25BE%258B%25E5%259E%258B%25E8%2584%2585%25E5%25A8%2581%25E5%2588%2586%25E6%259E%2590%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E9%2596%258B%25E7%2599%25BA%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/books/book-20250323-055427",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "AIが蘇らせる！ドット絵リバイバル: ジェネレーティブAIでレトロゲーム風キャラクターを量産する魔法",
+    "url": "https://zenn.dev/idev/books/book-20250323-055427",
+    "published": "Sat, 22 Mar 2025 21:10:38 GMT",
+    "content": "本書は、ジェネレーティブAIを用いてレトロゲーム風のドット絵キャラクターを効率的に作成する方法を解説します。環境構築からプロンプトエンジニアリング、LoRA/Dreamboothによる独自モデルの作成、そしてゲームエンジンへの組み込みまで、幅広い技術を網羅。読者はAIを活用して、オリジナルのレトロゲーム風キャラクターやアセットを量産し、ゲーム開発やNFTアートに活用できるようになります。",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--Ol0OISZH--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci81YmQxYTUzOGUwLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/articles/article-20250323-060242",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "ピクセルの魔術師: AIによるレトロキャラクター創造術",
+    "url": "https://zenn.dev/idev/articles/article-20250323-060242",
+    "published": "Sat, 22 Mar 2025 21:10:13 GMT",
+    "content": "\n ピクセルの魔術師: AI によるレトロキャラクター創造術\nレトロゲームの象徴であるドット絵キャラクター。その限られたピクセルの中に込められた表現力は、今もなお多くのクリエイターやゲームファンを魅了し続けています。近年、AI 技術の進化により、このドット絵キャラクターの作成プロセスが革新的に変化しています。本記事では、AI、特にジェネレーティブ AI を用いてレトロゲーム風キャラクターを生成する技術とその背後にあるメカニズムを解説し、『AI が蘇らせる！ドット絵リバイバル: ジェネレーティブ AI でレトロゲーム風キャラクターを量産する魔法』の内容を踏まえながら、具体的な手法や実践的な...",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--Xw6ncYug--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2594%25E3%2582%25AF%25E3%2582%25BB%25E3%2583%25AB%25E3%2581%25AE%25E9%25AD%2594%25E8%25A1%2593%25E5%25B8%25AB%253A%2520AI%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E3%2583%25AC%25E3%2583%2588%25E3%2583%25AD%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%25A9%25E3%2582%25AF%25E3%2582%25BF%25E3%2583%25BC%25E5%2589%25B5%25E9%2580%25A0%25E8%25A1%2593%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/books/book-20250323-052352",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "画像を言葉にする技術革命：実務で活かす最先端キャプショニング",
+    "url": "https://zenn.dev/idev/books/book-20250323-052352",
+    "published": "Sat, 22 Mar 2025 20:52:58 GMT",
+    "content": "本書は、画像キャプショニング技術の基礎から応用までを網羅し、最新の深層学習モデルや手法を解説します。画像認識と自然言語処理の融合、データセット構築、評価指標、Transformer、GAN、転移学習など、実務で役立つ幅広い知識と実装例を提供します。読者は、最先���のキャプショニングモデルを構築し、ビジネスや社会課題の解決に貢献できるスキルを習得できます。",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--VfAcWCWN--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8yMWE2OGY2NThmLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/articles/article-20250323-053406",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "画像を言葉に: 最新キャプショニング技術の全貌",
+    "url": "https://zenn.dev/idev/articles/article-20250323-053406",
+    "published": "Sat, 22 Mar 2025 20:52:40 GMT",
+    "content": "\n 画像を言葉に: 最新キャプショニング技術の全貌\n画像キャプショニングは、画像の内容を人間が理解できる自然言語で記述する技術です。近年、深層学習の発展に伴い、その精度は飛躍的に向上し、様々な分野で活用されています。本記事では、最新の画像キャプショニング技術の全貌を、実践的な例を交えながら解説します。この内容は、『画像を言葉にする技術革命：実務で活かす最先端キャプショニング』に基づ���ています。\n\n 1. 画像キャプショニングの基礎\n画像キャプショニングは、コンピュータビジョンと自然言語処理の交差点に位置する技術です。画像を理解し、その内容を適切な言葉で表現するためには、両分野の知識が不可...",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--NKnzzCT4--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%2594%25BB%25E5%2583%258F%25E3%2582%2592%25E8%25A8%2580%25E8%2591%2589%25E3%2581%25AB%253A%2520%25E6%259C%2580%25E6%2596%25B0%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2597%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E6%258A%2580%25E8%25A1%2593%25E3%2581%25AE%25E5%2585%25A8%25E8%25B2%258C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/articles/article-20250323-044320",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "コンテンツ自動生成革命: 動画クリエイションの未来",
+    "url": "https://zenn.dev/idev/articles/article-20250323-044320",
+    "published": "Sat, 22 Mar 2025 20:21:55 GMT",
+    "content": "\n コンテンツ自動生成革命: 動画クリエイションの未来\n現代社会において、動画コンテンツの需要は爆発的に増加しています。しかし、高品質な動画制作には時間、労力、そして費用がかかります。この課題を解決するのが、AI を活用したコンテンツ自動生成技術です。本記事では、AI による動画クリエイションの現状と未来、そして「炎上覚悟の時短術！AI 動画でコンテンツ地獄からの脱出」で紹介されている手法を交えながら、動画制作の革命について深く掘り下げていきます。\n\n AI 動画生成技術の進化\n従来の動画制作は、脚本作成、撮影、編集といった複数の工程が必要で、専門的な知識とスキルが求められました。AI ...",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--U39BuJzb--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2586%25E3%2583%25B3%25E3%2583%2584%25E8%2587%25AA%25E5%258B%2595%25E7%2594%259F%25E6%2588%2590%25E9%259D%25A9%25E5%2591%25BD%253A%2520%25E5%258B%2595%25E7%2594%25BB%25E3%2582%25AF%25E3%2583%25AA%25E3%2582%25A8%25E3%2582%25A4%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2581%25AE%25E6%259C%25AA%25E6%259D%25A5%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/books/book-20250322-210002",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "AI作曲の羅針盤：MIDIマエストロへの道 - 深層学習、創造性、そして実践",
+    "url": "https://zenn.dev/idev/books/book-20250322-210002",
+    "published": "Sat, 22 Mar 2025 19:37:39 GMT",
+    "content": "本書はAIによる音楽作曲を、MIDIデータの基礎から深層学習モデル（RNN、Transformer、GAN、強化学習）まで幅広く解説します。Pythonによる実装例や、音楽理論、倫理、ビジネスモデルまで網羅し、AI作曲システムの構築から収益化までを支援します。読者は、AIを活用した音楽生成技術を習得し、創造的な音楽制作やビジネスへの応用を目指せます。",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--HkI4-QE---/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci81ODc0ZmMwNjllLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/articles/article-20250322-211009",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "1. MIDIマエストロ: AIによる音楽創造の新時代",
+    "url": "https://zenn.dev/idev/articles/article-20250322-211009",
+    "published": "Sat, 22 Mar 2025 19:31:44 GMT",
+    "content": "\n 1. MIDI マエストロ: AI による音楽創造の新時代\n人工知能（AI）は、画像生成や自然言語処理といった分野で目覚ましい発展を遂げてきました。そして今、その波は音楽の世界にも押し寄せています。AI による作曲、編曲、演奏はもはや SF の夢物語ではなく、現実のものとなりつつあります。この記事では、AI を活用した音楽創造、特に MIDI データ生成に焦点を当て、その現状と可能性、そして「MIDI マエストロ」とも呼ぶべき新たな時代への展望を探ります。\n\n AI 作曲の背景と進化\n従来のコンピュータによる作曲は、ルールベースのシステムが主流でした。作曲家の知識や音楽理論を���ログラ...",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--PezQBzkK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:1.%2520MIDI%25E3%2583%259E%25E3%2582%25A8%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25AD%253A%2520AI%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E9%259F%25B3%25E6%25A5%25BD%25E5%2589%25B5%25E9%2580%25A0%25E3%2581%25AE%25E6%2596%25B0%25E6%2599%2582%25E4%25BB%25A3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/books/book-20250322-061708",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "AIエージェント実践ガイド: 2025年、ビジネスを自律進化させる技術と戦略",
+    "url": "https://zenn.dev/idev/books/book-20250322-061708",
+    "published": "Fri, 21 Mar 2025 21:33:15 GMT",
+    "content": "本書は、AIエージェントの基礎から応用までを網羅し、ビジネスへの導入戦略を解説する実践ガイドです。Python、機械学習、自然言語処理などの技術を用���て、チャットボットから高度なタスク自動化まで、様々なAIエージェントの開発方法を習得できます。読者は、AIエージェントを活用してビジネスを自律進化させ、競争優位性を確立するための知識とスキルを得られます。",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--sdR06CIl--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9hMzQxOTBkNjdhLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/articles/article-20250322-062648",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "次世代AI革命: エージェント型AIが変える2025年のビジネスとテクノロジー",
+    "url": "https://zenn.dev/idev/articles/article-20250322-062648",
+    "published": "Fri, 21 Mar 2025 21:32:56 GMT",
+    "content": "\n 次世代 AI 革命: エージェント型 AI が変える 2025 年のビジネスとテクノロジー\n人工知能（AI）は近年目覚ましい発展を遂げ、様々な分野で革新をもたらしています。中でも、2025 年以降、ビジネスとテクノロジーを大きく変革すると期待されているのがエージェント型 AIです。従���の AI とは異なり、エージェント型 AI は自律的に目標を設定し、環境と相互作用しながら学習し、行動することができます。本記事では、エージェント型 AI の基礎から応用、そして未来への展望までを網羅的に解説し、2025 年のビジネスとテクノロジーにおけるその影響力について探ります。\n\n エージェント型...",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--UoKZfyk6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%25AC%25A1%25E4%25B8%2596%25E4%25BB%25A3AI%25E9%259D%25A9%25E5%2591%25BD%253A%2520%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E5%259E%258BAI%25E3%2581%258C%25E5%25A4%2589%25E3%2581%2588%25E3%2582%258B2025%25E5%25B9%25B4%25E3%2581%25AE%25E3%2583%2593%25E3%2582%25B8%25E3%2583%258D%25E3%2582%25B9%25E3%2581%25A8%25E3%2583%2586%25E3%2582%25AF%25E3%2583%258E%25E3%2583%25AD%25E3%2582%25B8%25E3%2583%25BC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/books/book-20250322-060104",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "未来を実装する: 2025年からのコンピューティング・パラダイムシフト 実践ガイド",
+    "url": "https://zenn.dev/idev/books/book-20250322-060104",
+    "published": "Fri, 21 Mar 2025 21:16:00 GMT",
+    "content": "本書は、量子コンピューティング、エッジコンピューティング、ニューロモーフィックコンピューティングなど、次世代のコンピューティング技術の基礎から実践までを網羅的に解説します。各技術の原理、開発環境構築、具体的な応用事例、セキュリティ対策までをカバーし、読者が未来のコンピューティングパラダイムを理解し、実際に開発に携わるための知識とスキルを提供します。理論だけでなく、実際にコードを書いて動かすことを重視した実践的なガイドです。",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--m_LbClMv--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8xYzJiYmI0ZWIzLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/articles/article-20250322-060930",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "コンピューティングパラダイムシフト: 2025年以降の計算基盤技術",
+    "url": "https://zenn.dev/idev/articles/article-20250322-060930",
+    "published": "Fri, 21 Mar 2025 21:15:42 GMT",
+    "content": "\n コンピューティングパラダイムシフト: 2025 年以降の計算基盤技術\n計算の世界は常に進化を続けています。2025 年以降、その進化はさらに加速し、新たなパラダイムシフトを迎えると予想されています。本稿では、この変化の様相と、未来の計算基盤技術について深く掘り下げ、実践的な例を交えながら解説します。\n\n 1. クラウドネイティブの深化とサーバーレスコンピューティングの台頭\nクラウドネイティブは既に主流となっていますが、今後さらに深化し、サーバーレスコンピューティングが中心的な役割を果たすようになります。サーバーレスは、インフラストラクチャ管理の負担を軽減し、開発者はビジネスロジックに...",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--jw87N4r8--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2594%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2591%25E3%2583%25A9%25E3%2583%2580%25E3%2582%25A4%25E3%2583%25A0%25E3%2582%25B7%25E3%2583%2595%25E3%2583%2588%253A%25202025%25E5%25B9%25B4%25E4%25BB%25A5%25E9%2599%258D%25E3%2581%25AE%25E8%25A8%2588%25E7%25AE%2597%25E5%259F%25BA%25E7%259B%25A4%25E6%258A%2580%25E8%25A1%2593%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/books/book-20250322-054354",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "スマート空間デザイン：フィジカルとデジタルが織りなす未来",
+    "url": "https://zenn.dev/idev/books/book-20250322-054354",
+    "published": "Fri, 21 Mar 2025 21:00:45 GMT",
+    "content": "本書は、フィジカル空間とデジタル技術を融合したスマート空間の構築を主題とし、センシング、空間認識、AI、インタラクションなどの技術を幅広く解説します。読者は、これら���技術を組み合わせることで、効率的で快適、安全な空間デザインを実現するための実践的なスキルと知識を得ることができます。スマートホーム、スマートオフィス、スマートシティといった具体的な応用事例も豊富に紹介します。",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--xIRM89qx--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8yNWY5MjViMDE5LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/articles/article-20250322-055538",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "フィジカル×デジタル融合時代: 空間とインテリジェンスの革新的技術",
+    "url": "https://zenn.dev/idev/articles/article-20250322-055538",
+    "published": "Fri, 21 Mar 2025 21:00:23 GMT",
+    "content": "\n フィジカル × デジタル融合時代: 空間とインテリジェンスの革新的技術\n現代社会は、フィジカル空間とデジタル空間の融合が急速に進展する時代を迎えています。センサー、IoT、AI、AR/VR といった技術の進化により、私たちの生活空間はよりスマートでパーソナライズ��れたものへと変化しつつあります。本記事では、この「フィジカル × デジタル融合」を実現する革新的技術とその応用例、そして未来への展望について、『スマート空間デザイン：フィジカルとデジタルが織りなす未来』の内容を参考にしながら解説します。\n\n 1. 空間認識技術の進化\n空間をデジタルで理解することは、フィジカルとデジタルを融合...",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--cNCoEp8i--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25B8%25E3%2582%25AB%25E3%2583%25AB%25C3%2597%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25AB%25E8%259E%258D%25E5%2590%2588%25E6%2599%2582%25E4%25BB%25A3%253A%2520%25E7%25A9%25BA%25E9%2596%2593%25E3%2581%25A8%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2586%25E3%2583%25AA%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2582%25B9%25E3%2581%25AE%25E9%259D%25A9%25E6%2596%25B0%25E7%259A%2584%25E6%258A%2580%25E8%25A1%2593%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/books/book-20250321-023657",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "デジタルツイン実践ガイド：リアルとバーチャルの融合によるビジネス革新",
+    "url": "https://zenn.dev/idev/books/book-20250321-023657",
+    "published": "Thu, 20 Mar 2025 17:53:34 GMT",
+    "content": "本書は、デジタルツインの基礎から応用、未来展望までを網羅し、様々な産業における実践的な導入方法を解説します。技術スタック、構築ステップ、セキュリティ、倫理、ROI、最新ツール、組織体制、特許動向など多角的な視点からデジタルツインを深く掘り下げます。読者は、デジタルツインの概念を正しく理解し、自社のビジネスに適用するための知識と戦略を習得できます。",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--dvxMq_Sa--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9mYzYzMjQ2MWY0LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/articles/article-20250321-025100",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "デジタルツインの革新：現実世界とデジタル世界の融合",
+    "url": "https://zenn.dev/idev/articles/article-20250321-025100",
+    "published": "Thu, 20 Mar 2025 17:53:16 GMT",
+    "content": "\n デジタルツインの革新：現実世界とデジタル世界の融合\n\n はじめに\nデジタルツインとは、物理的な対象物やシステム、プロセスをデジタル空間に再現した仮想モデルのことです。センサーからリアルタイムデータを収集し、AIや高度な分析技術を活用することで、現実世界の挙動を正確に模倣し、予測することができます。本記事では、デジタルツイン技術の基本概念から最新の応用例、そして将来の展望まで詳しく解説します。\n\n デジタルツインの基本概念\nデジタルツインは単なる3Dモデルやシミュレーションとは異なります。その核心的な特徴は以下の通りです：\n\n\n双方向データ連携: 物理的対象からデジタルモデルへのデータ...",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--rrt-NhoM--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25AB%25E3%2583%2584%25E3%2582%25A4%25E3%2583%25B3%25E3%2581%25AE%25E9%259D%25A9%25E6%2596%25B0%25EF%25BC%259A%25E7%258F%25BE%25E5%25AE%259F%25E4%25B8%2596%25E7%2595%258C%25E3%2581%25A8%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25AB%25E4%25B8%2596%25E7%2595%258C%25E3%2581%25AE%25E8%259E%258D%25E5%2590%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/books/book-20250321-022007",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "金融RPA 実践ガイド：自動化戦略、実装、リスク管理、そして未来",
+    "url": "https://zenn.dev/idev/books/book-20250321-022007",
+    "published": "Thu, 20 Mar 2025 17:32:44 GMT",
+    "content": "本書は、金融機関におけるRPA（ロボティック・プロセス・オートメーション）の導入から運用までを網羅的に解説する実践ガイドです。RPAの基礎知識、導入戦略、ツール選定、開発、運用、セキュリティ、ガバナンスに加え、AIやOCRとの連携、最新トレンド、将来展望まで、金融RPAに関する幅広い技術と概念を扱います。読者は本書を通じて、金融機関におけるRPA導入・推進に必要な知識とスキルを習得し、自動化による業務効率化、コスト削減、リスク管理、顧客体験向上を実現できます。",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--sGMkXtVT--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9jOTgxOTc4NWNkLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
+  },
+  {
+    "id": {
+      "_": "https://zenn.dev/idev/articles/article-20250321-022937",
+      "$": {
+        "isPermaLink": "true"
+      }
+    },
+    "title": "金融におけるロボティックプロセスオートメーション（RPA）",
+    "url": "https://zenn.dev/idev/articles/article-20250321-022937",
+    "published": "Thu, 20 Mar 2025 17:32:27 GMT",
+    "content": "\n 金融におけるロボティックプロセスオートメーション（RPA）\n金融業界は、複雑な規制、膨大なデータ、そして効率性への絶え間ないプレッシャーに直面しています。これらの課題に対処するために、ロボティックプロセスオートメーション（RPA）��変革的なソリューションとして登場しました。RPA は、ソフトウェアロボットを使用して、反復的でルールベースのタスクを自動化し、人間の従業員をより戦略的な活動に解放します。この記事では、金融における RPA の概念、利点、実装、リスク管理、そして未来について深く掘り下げ、実践的な例とコードサンプルを提供しながら、包括的な理解を提供します。\n\n RPA とは何...",
+    "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--lgF14pfj--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%2587%2591%25E8%259E%258D%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258B%25E3%2583%25AD%25E3%2583%259C%25E3%2583%2586%25E3%2582%25A3%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25BB%25E3%2582%25B9%25E3%2582%25AA%25E3%2583%25BC%25E3%2583%2588%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25EF%25BC%2588RPA%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:timeless-residents%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3NTdiM2NmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
   }
 ]
