@@ -1,30 +1,30 @@
 [
   {
-    "id": "tag:qiita.com,2005:PublicArticle/2000357",
-    "title": "【保存版】実用的すぎるOpenAI Responses API 45+のユースケース実装集 - 画像認識からデータ分析まで全網羅",
-    "url": "https://qiita.com/timeless-residents/items/36a19c5b272589f1754d",
-    "published": "2025-03-17T09:50:59+09:00",
-    "content": "【保存版】実用的すぎるOpenAI Responses API 45+のユースケース実装集 - 画像認識からデータ分析まで全網羅\n\nはじめに\nこんにちは！最近、ChatGPTやGPT-4といったAIモデルの実用化が加速していますが、それらを本格的なアプリケーションに組み込..."
+    "id": "tag:qiita.com,2005:PublicArticle/2173894",
+    "title": "エビングハウス忘却曲線を間隔反復（Spaced Repetition）としてPythonで実装する",
+    "url": "https://qiita.com/timeless-residents/items/56b5e345a175443b7054",
+    "published": "2026-03-15T14:57:11+09:00",
+    "content": "エビングハウス忘却曲線を間隔反復（Spaced Repetition）としてPythonで実装する\n\nはじめに\n「覚えたはずなのにすぐ忘れる」── その原因と解決策は、1880年代に心理学者エビングハウスがすでに発見していた。\nエビングハウスの忘却曲線によれば、人間の記憶..."
   },
   {
-    "id": "tag:qiita.com,2005:PublicArticle/1998934",
-    "title": "OpenAI Agent SDKではじめる高度なAIエージェント開発",
-    "url": "https://qiita.com/timeless-residents/items/4f21fe3a0ebe623440c0",
-    "published": "2025-03-13T17:32:13+09:00",
-    "content": "OpenAI Agent SDKではじめる高度なAIエージェント開発\nこんにちは！今回は、OpenAIが提供する「Agent SDK」を使って、高度なAIエージェントを簡単に構築・カスタマイズする方法をご紹介します。\n\nはじめに\n大規模言語モデル（LLM）の進化により、単..."
+    "id": "tag:qiita.com,2005:PublicArticle/2173895",
+    "title": "Eloレーティングで学習難易度を自動調整する ── チェスの棋力評価をトレーニングアプリに応用する",
+    "url": "https://qiita.com/timeless-residents/items/463993a4ac10b3e62773",
+    "published": "2026-03-15T14:57:11+09:00",
+    "content": "Eloレーティングで学習難易度を自動調整する ── チェスの棋力評価をトレーニングアプリに応用する\n\nはじめに\n学習アプリの難易度設定、こんな問題はないだろうか。\n\n固定難易度だと初心者には難しすぎ、上級者には物足りない\n手動で難易度を選ぶのは面倒で、ユーザーが離脱する\n..."
   },
   {
-    "id": "tag:qiita.com,2005:PublicArticle/1996634",
-    "title": "PyInstaller+dmgbuild+codesign完全攻略：Macアプリ配布のハンズオンチュートリアル",
-    "url": "https://qiita.com/timeless-residents/items/b51fdeab98a7f187e227",
-    "published": "2025-03-08T05:11:21+09:00",
-    "content": "PyInstaller+dmgbuild+codesign完全攻略：Macアプリ配布のハンズオンチュートリアル\nこのリポジトリでは、シンプルなPython Tkinterアプリケーションを、PyInstallerとdmgbuildを使用してmacOS DMGファイルにパッ..."
+    "id": "tag:qiita.com,2005:PublicArticle/2173892",
+    "title": "FastAPI + Vanilla JSで画像フラッシュ表示UIを作る ── タイムバー・ライフ制・即時フィードバックの実装",
+    "url": "https://qiita.com/timeless-residents/items/2734c47bad02240e7f34",
+    "published": "2026-03-15T14:57:10+09:00",
+    "content": "FastAPI + Vanilla JSで画像フラッシュ表示UIを作る ── タイムバー・ライフ制・即時フィードバックの実装\n\nはじめに\n「画像を一瞬だけ見せて、何があったか答えさせる」というUIを作る。\n\n画像を0.1〜5秒だけフラッシュ表示\n残り時間をアニメーションす..."
   },
   {
-    "id": "tag:qiita.com,2005:PublicArticle/1995818",
-    "title": "【ステップバイステップ】Web Audio APIで音楽生成アプリ開発チュートリアル",
-    "url": "https://qiita.com/timeless-residents/items/8f3c883a2acc9f7c0f6c",
-    "published": "2025-03-06T06:57:10+09:00",
-    "content": "【ステップバイステップ】Web Audio APIで音楽生成アプリ開発チュートリアル\nWeb Audio APIは難しそうに見えるかもしれませんが、そんなことはありません！このチュートリアルでは、たった3つのステップで音楽生成アプリを構築します。作曲スキルは一切不要です。..."
+    "id": "tag:qiita.com,2005:PublicArticle/2173887",
+    "title": "Claude APIで「自然言語採点エンジン」を作る ── ルールベースでは解けない評価をAIに任せる",
+    "url": "https://qiita.com/timeless-residents/items/e8571541c6d45d0a4cb6",
+    "published": "2026-03-15T14:55:10+09:00",
+    "content": "Claude APIで「自然言語採点エンジン」を作る ── ルールベースでは解けない評価をAIに任せる\n\nはじめに\n「リンゴ」と「apple」は同じ正解として扱いたい。「赤くて丸い果物」という説明的な回答にも部分点をあげたい。でも「正解リスト」との単純な文字列マッチングで..."
   }
 ]
