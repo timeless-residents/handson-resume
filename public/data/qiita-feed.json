@@ -1,5 +1,12 @@
 [
   {
+    "id": "tag:qiita.com,2005:PublicArticle/2174299",
+    "title": "Switch で Minecraft BDS を立てようとして断念した話 - 閉じた設計と開いた設計の本質的な違い",
+    "url": "https://qiita.com/timeless-residents/items/38fd204891156a79c7b0",
+    "published": "2026-03-16T03:04:05+09:00",
+    "content": "TL;DR\n\nNintendo Switch で Bedrock Dedicated Server（BDS）に接続しようとしたら、DNS変更不可・外部サーバー接続不可の壁に当たって断念\n「閉じたプラットフォーム」と「開いたプラットフォーム」は設計思想の違いであり、どちらも..."
+  },
+  {
     "id": "tag:qiita.com,2005:PublicArticle/2174060",
     "title": "エビングハウス忘却曲線を間隔反復（Spaced Repetition）としてPythonで実装する",
     "url": "https://qiita.com/timeless-residents/items/a0dd5069ea927e47de86",
@@ -19,12 +26,5 @@
     "url": "https://qiita.com/timeless-residents/items/9cd02db16a9c57125112",
     "published": "2026-03-15T19:10:17+09:00",
     "content": "Eloレーティングで学習難易度を自動調整する ── チェスの棋力評価をトレーニングアプリに応用する\n\nはじめに\n学習アプリの難易度設定、こんな問題はないだろうか。\n\n固定難易度だと初心者には難しすぎ、上級者には物足りない\n手動で難易度を選ぶのは面倒で、ユーザーが離脱する\n..."
-  },
-  {
-    "id": "tag:qiita.com,2005:PublicArticle/2174045",
-    "title": "Claude APIで「自然言語採点エンジン」を作る ── ルールベースでは解けない評価をAIに任せる",
-    "url": "https://qiita.com/timeless-residents/items/c6eae7ca1b75128017fc",
-    "published": "2026-03-15T19:00:58+09:00",
-    "content": "Claude APIで「自然言語採点エンジン」を作る ── ルールベースでは解けない評価をAIに任せる\n\nはじめに\n「リンゴ」と「apple」は同じ正解として扱いたい。「赤くて丸い果物」という説明的な回答にも部分点をあげたい。でも「正解リスト」との単純な文字列マッチングで..."
   }
 ]
